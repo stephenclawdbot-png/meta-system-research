@@ -1,0 +1,24 @@
+🧠 MEMECOIN ALPHA SCANNER - CRON UPDATE
+
+📅 Time: Sunday, March 08, 2026 — 06:03 AM (Asia/Manila)
+🎯 Target: Sub $30k-$200k MCap Memecoins
+
+🔥 TOP ALPHA FINDINGS:
+🥇 #1 MAGA (Solana) - Alpha: 86.0/100
+• MCap: $48,819 | Vol: $31,466
+• Vol/MCap: 64.5% 🔥 | Buy Ratio: 66.3%
+• Price: +186.0% 📈 | Txns: 884
+• 🔗 dexscreener.com/solana/hvimk99...
+
+🥈 #2 TRUMP (FlowEVM) - Alpha: 50.7/100
+• MCap: $36,880 | Vol: $9,889
+• Vol/MCap: 26.8% | Buy Ratio: 47.0%
+• Liquidity: $43,548
+
+🎯 MARKET INSIGHTS:
+• Total scanned: 260+ tokens
+• Eligible candidates: 4-8 tokens
+• Key theme: Political tokens trending
+• Risk: Limited liquidity, mixed momentum
+
+⚠️ DISCLAIMER: High risk memecoin scanning - DYOR required

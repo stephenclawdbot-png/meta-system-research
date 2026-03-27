@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>👑 King of the Hill - Demo</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #fff;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.5rem 2rem;
+            background: rgba(26, 26, 46, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 2px solid #533483;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .logo {
+            font-size: 1.75rem;
+            font-weight: 800;
+            background: linear-gradient(90deg, #ffd700, #ff9800);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .demo-badge {
+            background: linear-gradient(135deg, #7b2cbf, #533483);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+        }
+
+        .game-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        @media (max-width: 968px) {
+            .game-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .panel {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 24px;
+            padding: 2rem;
+            border: 1px solid rgba(83, 52, 131, 0.5);
+            backdrop-filter: blur(10px);
+        }
+
+        .panel h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(90deg, #ffd700, #ff9800);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        /* King Display */
+        .king-display {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            padding: 1.5rem;
+            background: rgba(255, 215, 0, 0.1);
+            border-radius: 16px;
+            margin-bottom: 1.5rem;
+            border: 2px solid rgba(255, 215, 0, 0.3);
+            animation: glow 2s ease-in-out infinite;
+        }
+
+        @keyframes glow {
+            0%, 100% { box-shadow: 0 0 20px rgba(255, 215, 0, 0.2); }
+            50% { box-shadow: 0 0 40px rgba(255, 215, 0, 0.4); }
+        }
+
+        .king-avatar {
+            font-size: 4rem;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+        }
+
+        .king-info {
+            flex: 1;
+        }
+
+        .king-address {
+            font-family: monospace;
+            font-size: 1.1rem;
+            color: #ffd700;
+            font-weight: 600;
+            word-break: break-all;
+        }
+
+        .king-badge {
+            color: #ff9800;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        @media (max-width: 600px) {
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 1.25rem;
+            text-align: center;
+            border: 1px solid rgba(83, 52, 131, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            background: rgba(255, 255, 255, 0.08);
+            transform: translateY(-2px);
+        }
+
+        .stat-card.highlight {
+            border-color: #ffd700;
+            background: rgba(255, 215, 0, 0.1);
+        }
+
+        .stat-label {
+            display: block;
+            font-size: 0.75rem;
+            color: #a0a0a0;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-value {
+            display: block;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #fff;
+        }
+
+        .stat-value.timer {
+            color: #ff6b6b;
+            font-family: monospace;
+        }
+
+        /* Action Section */
+        .action-section {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .btn {
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            width: 100%;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #7b2cbf, #533483);
+            color: white;
+        }
+
+        .btn-primary:hover:not(:disabled) {
+            background: linear-gradient(135deg, #8e3dd0, #6a4198);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(123, 44, 191, 0.4);
+        }
+
+        .btn-victory {
+            background: linear-gradient(135deg, #ffd700, #ff9800);
+            color: #1a1a2e;
+            animation: victory-glow 1.5s ease-in-out infinite;
+        }
+
+        @keyframes victory-glow {
+            0%, 100% { box-shadow: 0 0 20px rgba(255, 215, 0, 0.5); }
+            50% { box-shadow: 0 0 40px rgba(255, 215, 0, 0.8); }
+        }
+
+        .btn-victory:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(255, 215, 0, 0.6);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .btn-secondary:hover:not(:disabled) {
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        /* Messages */
+        .message {
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            font-weight: 500;
+        }
+
+        .message.error {
+            background: rgba(255, 107, 107, 0.1);
+            border: 1px solid #ff6b6b;
+            color: #ff6b6b;
+        }
+
+        .message.success {
+            background: rgba(77, 255, 148, 0.1);
+            border: 1px solid #4dff94;
+            color: #4dff94;
+        }
+
+        .message.info {
+            background: rgba(123, 44, 191, 0.1);
+            border: 1px solid #7b2cbf;
+            color: #7b2cbf;
+        }
+
+        /* Info Section */
+        .info-section {
+            padding: 1.5rem;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
+            margin-top: 1.5rem;
+        }
+
+        .info-section h3 {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            color: #ffd700;
+        }
+
+        .info-section ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .info-section li {
+            padding: 0.5rem 0;
+            color: #e0e0e0;
+            font-size: 0.95rem;
+        }
+
+        /* Leaderboard */
+        .leaderboard {
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .leaderboard-header {
+            display: grid;
+            grid-template-columns: 60px 1fr 80px 100px;
+            gap: 1rem;
+            padding: 1rem;
+            background: rgba(83, 52, 131, 0.5);
+            font-weight: 600;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #a0a0a0;
+        }
+
+        .leaderboard-row {
+            display: grid;
+            grid-template-columns: 60px 1fr 80px 100px;
+            gap: 1rem;
+            padding: 1rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            font-size: 0.9rem;
+            align-items: center;
+        }
+
+        .leaderboard-row:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .leaderboard-row span:first-child {
+            font-weight: 700;
+            color: #ffd700;
+        }
+
+        .no-data {
+            padding: 2rem;
+            text-align: center;
+            color: #a0a0a0;
+        }
+
+        /* Transaction Log */
+        .tx-log {
+            max-height: 300px;
+            overflow-y: auto;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 12px;
+            padding: 1rem;
+        }
+
+        .tx-item {
+            padding: 0.75rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            font-size: 0.875rem;
+        }
+
+        .tx-item:last-child {
+            border-bottom: none;
+        }
+
+        .tx-time {
+            color: #a0a0a0;
+            font-size: 0.75rem;
+        }
+
+        .tx-type {
+            font-weight: 600;
+            color: #ffd700;
+        }
+
+        /* Wallet Simulator */
+        .wallet-sim {
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .wallet-sim h3 {
+            font-size: 1rem;
+            margin-bottom: 1rem;
+            color: #a0a0a0;
+        }
+
+        .wallet-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .wallet-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.75rem 1rem;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .wallet-item:hover {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .wallet-item.active {
+            border: 2px solid #7b2cbf;
+            background: rgba(123, 44, 191, 0.2);
+        }
+
+        .wallet-address {
+            font-family: monospace;
+            font-size: 0.875rem;
+        }
+
+        .wallet-balance {
+            font-weight: 600;
+            color: #4dff94;
+        }
+
+        /* Global Stats */
+        .global-stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .global-stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .global-stat {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        .global-stat .label {
+            font-size: 0.75rem;
+            color: #a0a0a0;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .global-stat .value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #fff;
+            margin-top: 0.5rem;
+        }
+
+        /* Speed Controls */
+        .speed-controls {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .speed-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            background: rgba(255, 255, 255, 0.05);
+            color: #fff;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.875rem;
+        }
+
+        .speed-btn.active {
+            background: #7b2cbf;
+            border-color: #7b2cbf;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: #a0a0a0;
+            font-size: 0.875rem;
+            border-top: 1px solid rgba(83, 52, 131, 0.3);
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">👑 King of the Hill</div>
+        <div class="demo-badge">DEMO MODE</div>
+    </header>
+
+    <div class="container">
+        <!-- Global Stats -->
+        <div class="global-stats">
+            <div class="global-stat">
+                <div class="label">Total Supply</div>
+                <div class="value" id="totalSupply">1B $KING</div>
+            </div>
+            <div class="global-stat">
+                <div class="label">Burned</div>
+                <div class="value" id="totalBurned">0 $KING</div>
+            </div>
+            <div class="global-stat">
+                <div class="label">Total Claims</div>
+                <div class="value" id="totalClaims">0</div>
+            </div>
+            <div class="global-stat">
+                <div class="label">Active Players</div>
+                <div class="value" id="activePlayers">0</div>
+            </div>
+        </div>
+
+        <div class="game-grid">
+            <!-- Left Panel: Game -->
+            <div class="panel">
+                <h2>👑 Current King</h2>
+                
+                <div class="king-display" id="kingDisplay">
+                    <div class="king-avatar">👑</div>
+                    <div class="king-info">
+                        <div class="king-address" id="kingAddress">No King Yet</div>
+                        <div class="king-badge" id="kingBadge"></div>
+                    </div>
+                </div>
+
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <span class="stat-label">Throne Price</span>
+                        <span class="stat-value" id="thronePrice">10 $KING</span>
+                    </div>
+                    <div class="stat-card highlight">
+                        <span class="stat-label">Treasury Pot</span>
+                        <span class="stat-value" id="treasuryPot">0 $KING</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-label">Time Remaining</span>
+                        <span class="stat-value timer" id="timeRemaining">24:00:00</span>
+                    </div>
+                </div>
+
+                <!-- Wallet Simulator -->
+                <div class="wallet-sim">
+                    <h3>Select Wallet (Simulator)</h3>
+                    <div class="wallet-list" id="walletList">
+                        <!-- Wallets injected by JS -->
+                    </div>
+                </div>
+
+                <div class="action-section" id="actionSection">
+                    <button class="btn btn-primary" id="claimThroneBtn" onclick="claimThrone()">
+                        Claim Throne
+                    </button>
+                    <button class="btn btn-victory" id="claimVictoryBtn" onclick="claimVictory()" style="display: none;">
+                        Claim Victory!
+                    </button>
+                </div>
+
+                <div id="messageArea"></div>
+
+                <!-- Speed Controls -->
+                <div class="speed-controls">
+                    <span style="color: #a0a0a0; font-size: 0.875rem; margin-right: 0.5rem;">Time Speed:</span>
+                    <button class="speed-btn active" onclick="setSpeed(1)">1x</button>
+                    <button class="speed-btn" onclick="setSpeed(60)">60x</button>
+                    <button class="speed-btn" onclick="setSpeed(3600)">3600x</button>
+                </div>
+
+                <div class="info-section">
+                    <h3>How It Works</h3>
+                    <ul>
+                        <li>👑 Pay the throne price to dethrone the current King</li>
+                        <li>💰 80% goes to previous King, 15% to pot, 5% burned</li>
+                        <li>⏰ If no one claims for 24 hours, the King wins the pot</li>
+                        <li>🔥 Price increases 10% with every claim</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Right Panel: Leaderboard & History -->
+            <div class="panel">
+                <h2>🏆 Leaderboard</h2>
+                
+                <div class="leaderboard" id="leaderboard">
+                    <div class="leaderboard-header">
+                        <span>Rank</span>
+                        <span>King</span>
+                        <span>Reigns</span>
+                        <span>Earned</span>
+                    </div>
+                    <div id="leaderboardBody">
+                        <div class="no-data">No kings yet. Be the first!</div>
+                    </div>
+                </div>
+
+                <h2 style="margin-top: 2rem;">📜 Transaction History</h2>
+                <div class="tx-log" id="txLog">
+                    <div class="no-data">No transactions yet</div>
+                </div>
+
+                <div class="info-section" style="margin-top: 1.5rem;">
+                    <h3>Token Economics</h3>
+                    <ul>
+                        <li>Starting Price: 10 $KING</li>
+                        <li>Escalation: +10% per claim</li>
+                        <li>Victory Timer: 24 hours</li>
+                        <li>Total Supply: 1,000,000,000 $KING</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Built for Pump.fun | Dethrone the King. Claim the Treasury. | DEMO SIMULATION</p>
+    </footer>
+
+    <script>
+        // Game State
+        let gameState = {
+            currentKing: null,
+            thronePrice: 10000000, // 10 tokens (6 decimals)
+            treasuryPot: 0,
+            lastClaimTime: Date.now(),
+            gameEnded: false,
+            totalBurned: 0,
+            totalClaims: 0,
+            players: {}
+        };
+
+        // Simulated Wallets
+        const wallets = [
+            { address: '7xKX...gAsU', balance: 100000000000, label: 'Player 1' },
+            { address: '9sF2...kLpM', balance: 50000000000, label: 'Player 2' },
+            { address: '3dQ8...vBnR', balance: 75000000000, label: 'Player 3' },
+            { address: '5hJ4...cXzT', balance: 25000000000, label: 'Player 4' },
+            { address: '2wE7...mKpY', balance: 100000000000, label: 'Player 5' }
+        ];
+
+        let selectedWallet = null;
+        let timeSpeed = 1; // Multiplier for time
+        let lastUpdate = Date.now();
+
+        // Initialize
+        function init() {
+            renderWallets();
+            updateDisplay();
+            setInterval(gameLoop, 100);
+        }
+
+        // Render wallet list
+        function renderWallets() {
+            const list = document.getElementById('walletList');
+            list.innerHTML = wallets.map((w, i) => `
+                <div class="wallet-item ${selectedWallet === i ? 'active' : ''}" onclick="selectWallet(${i})">
+                    <span class="wallet-address">${w.label} (${w.address})</span>
+                    <span class="wallet-balance">${formatTokens(w.balance)} $KING</span>
+                </div>
+            `).join('');
+        }
+
+        // Select wallet
+        function selectWallet(index) {
+            selectedWallet = index;
+            renderWallets();
+            updateDisplay();
+        }
+
+        // Format tokens
+        function formatTokens(amount) {
+            return (amount / 1000000).toLocaleString('en-US', { maximumFractionDigits: 2 });
+        }
+
+        // Format time
+        function formatTime(seconds) {
+            const hours = Math.floor(seconds / 3600);
+            const mins = Math.floor((seconds % 3600) / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${hours.toString().padStart(2, '0')}:${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+        }
+
+        // Game loop
+        function gameLoop() {
+            const now = Date.now();
+            const delta = (now - lastUpdate) * timeSpeed;
+            lastUpdate = now;
+
+            if (!gameState.gameEnded && gameState.currentKing) {
+                const elapsed = (Date.now() - gameState.lastClaimTime) / 1000 * timeSpeed;
+                const remaining = Math.max(0, 86400 - elapsed);
+                
+                document.getElementById('timeRemaining').textContent = formatTime(remaining);
+                
+                if (remaining === 0) {
+                    document.getElementById('claimVictoryBtn').style.display = 'block';
+                } else {
+                    document.getElementById('claimVictoryBtn').style.display = 'none';
+                }
+            }
+        }
+
+        // Update display
+        function updateDisplay() {
+            // King display
+            if (gameState.currentKing) {
+                const kingWallet = wallets.find(w => w.address === gameState.currentKing);
+                document.getElementById('kingAddress').textContent = gameState.currentKing;
+                document.getElementById('kingBadge').textContent = kingWallet ? kingWallet.label : '';
+                
+                if (selectedWallet !== null && wallets[selectedWallet].address === gameState.currentKing) {
+                    document.getElementById('kingBadge').textContent = "It's You! 👑";
+                }
+            } else {
+                document.getElementById('kingAddress').textContent = 'No King Yet';
+                document.getElementById('kingBadge').textContent = '';
+            }
+
+            // Stats
+            document.getElementById('thronePrice').textContent = formatTokens(gameState.thronePrice) + ' $KING';
+            document.getElementById('treasuryPot').textContent = formatTokens(gameState.treasuryPot) + ' $KING';
+            document.getElementById('totalBurned').textContent = formatTokens(gameState.totalBurned) + ' $KING';
+            document.getElementById('totalClaims').textContent = gameState.totalClaims;
+            document.getElementById('activePlayers').textContent = Object.keys(gameState.players).length;
+
+            // Button state
+            const claimBtn = document.getElementById('claimThroneBtn');
+            if (selectedWallet === null) {
+                claimBtn.textContent = 'Select Wallet First';
+                claimBtn.disabled = true;
+            } else if (selectedWallet !== null && wallets[selectedWallet].address === gameState.currentKing) {
+                claimBtn.textContent = 'You Are The King!';
+                claimBtn.disabled = true;
+            } else {
+                claimBtn.textContent = 'Claim Throne';
+                claimBtn.disabled = false;
+            }
+
+            updateLeaderboard();
+        }
+
+        // Claim throne
+        function claimThrone() {
+            if (selectedWallet === null) {
+                showMessage('Please select a wallet first', 'error');
+                return;
+            }
+
+            const wallet = wallets[selectedWallet];
+            
+            if (wallet.balance < gameState.thronePrice) {
+                showMessage('Insufficient balance!', 'error');
+                return;
+            }
+
+            // Calculate splits
+            const toPreviousKing = Math.floor(gameState.thronePrice * 0.8);
+            const toPot = Math.floor(gameState.thronePrice * 0.15);
+            const toBurn = gameState.thronePrice - toPreviousKing - toPot;
+
+            // Pay previous king
+            if (gameState.currentKing) {
+                const prevKingWallet = wallets.find(w => w.address === gameState.currentKing);
+                if (prevKingWallet) {
+                    prevKingWallet.balance += toPreviousKing;
+                    
+                    // Update player stats
+                    if (!gameState.players[gameState.currentKing]) {
+                        gameState.players[gameState.currentKing] = { timesKing: 0, totalEarned: 0 };
+                    }
+                    gameState.players[gameState.currentKing].totalEarned += toPreviousKing;
+                }
+            }
+
+            // Deduct from claimer
+            wallet.balance -= gameState.thronePrice;
+
+            // Add to pot
+            gameState.treasuryPot += toPot;
+
+            // Burn
+            gameState.totalBurned += toBurn;
+
+            // Update state
+            gameState.currentKing = wallet.address;
+            gameState.lastClaimTime = Date.now();
+            gameState.thronePrice = Math.floor(gameState.thronePrice * 1.1); // +10%
+            gameState.totalClaims++;
+
+            // Update player stats
+            if (!gameState.players[wallet.address]) {
+                gameState.players[wallet.address] = { timesKing: 0, totalEarned: 0 };
+            }
+            gameState.players[wallet.address].timesKing++;
+
+            // Log transaction
+            logTransaction('Throne Claimed', `${wallet.label} claimed the throne for ${formatTokens(gameState.thronePrice / 1.1)} $KING`);
+
+            showMessage('Throne claimed successfully! You are now the King!', 'success');
+            renderWallets();
+            updateDisplay();
+        }
+
+        // Claim victory
+        function claimVictory() {
+            if (selectedWallet === null) {
+                showMessage('Please select a wallet first', 'error');
+                return;
+            }
+
+            const wallet = wallets[selectedWallet];
+            
+            if (wallet.address !== gameState.currentKing) {
+                showMessage('Only the current King can claim victory!', 'error');
+                return;
+            }
+
+            // Transfer pot to winner
+            wallet.balance += gameState.treasuryPot;
+            
+            // Update stats
+            if (!gameState.players[wallet.address]) {
+                gameState.players[wallet.address] = { timesKing: 0, totalEarned: 0 };
+            }
+            gameState.players[wallet.address].totalEarned += gameState.treasuryPot;
+
+            const wonAmount = gameState.treasuryPot;
+
+            // Reset game
+            gameState.treasuryPot = 0;
+            gameState.gameEnded = true;
+
+            logTransaction('Victory Claimed', `${wallet.label} won ${formatTokens(wonAmount)} $KING!`);
+
+            showMessage(`Victory! You won ${formatTokens(wonAmount)} $KING!`, 'success');
+            
+            // Auto-reset after 3 seconds
+            setTimeout(() => {
+                resetGame();
+            }, 3000);
+
+            renderWallets();
+            updateDisplay();
+        }
+
+        // Reset game
+        function resetGame() {
+            gameState.currentKing = null;
+            gameState.thronePrice = 10000000;
+            gameState.treasuryPot = 0;
+            gameState.lastClaimTime = Date.now();
+            gameState.gameEnded = false;
+            
+            logTransaction('New Round', 'A new round has started!');
+            showMessage('New round started! Be the first to claim the throne!', 'info');
+            updateDisplay();
+        }
+
+        // Update leaderboard
+        function updateLeaderboard() {
+            const sorted = Object.entries(gameState.players)
+                .sort((a, b) => b[1].totalEarned - a[1].totalEarned)
+                .slice(0, 10);
+
+            const body = document.getElementById('leaderboardBody');
+            
+            if (sorted.length === 0) {
+                body.innerHTML = '<div class="no-data">No kings yet. Be the first!</div>';
+                return;
+            }
+
+            body.innerHTML = sorted.map(([address, stats], i) => {
+                const wallet = wallets.find(w => w.address === address);
+                const label = wallet ? wallet.label : address;
+                return `
+                    <div class="leaderboard-row">
+                        <span>#${i + 1}</span>
+                        <span>${label}</span>
+                        <span>${stats.timesKing}</span>
+                        <span>${formatTokens(stats.totalEarned)} $KING</span>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Log transaction
+        function logTransaction(type, description) {
+            const log = document.getElementById('txLog');
+            const time = new Date().toLocaleTimeString();
+            
+            const item = document.createElement('div');
+            item.className = 'tx-item';
+            item.innerHTML = `
+                <div class="tx-time">${time}</div>
+                <div><span class="tx-type">${type}</span>: ${description}</div>
+            `;
+            
+            if (log.children[0]?.classList.contains('no-data')) {
+                log.innerHTML = '';
+            }
+            
+            log.insertBefore(item, log.firstChild);
+        }
+
+        // Show message
+        function showMessage(text, type) {
+            const area = document.getElementById('messageArea');
+            area.innerHTML = `<div class="message ${type}">${text}</div>`;
+            
+            setTimeout(() => {
+                area.innerHTML = '';
+            }, 5000);
+        }
+
+        // Set time speed
+        function setSpeed(speed) {
+            timeSpeed = speed;
+            document.querySelectorAll('.speed-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        // Start
+        init();
+    </script>
+</body>
+</html>

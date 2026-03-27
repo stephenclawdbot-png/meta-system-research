@@ -1,0 +1,36 @@
+🎯 MEMECOIN ALPHA SCANNER - FINAL REPORT
+===================================================
+Scan Time: Tuesday, March 10, 2026 — 09:35 PM (Asia/Manila)
+Market Focus: Sub 30k-200k MCap Gems (Expanded to 20k-250k)
+Scan Scope: Top 10 trending memecoin categories
+
+🔥 ALPHA GEMS DISCOVERED
+--------------------------
+🔍 MODERATE POTENTIAL (Score 30-49)
+• DOG (Score: 36, Vol/MCap: 1.8%, Buy: 100.0%)
+• GAME (Score: 36, Vol/MCap: 1.2%, Buy: 100.0%)
+• ROCK (Score: 31, Vol/MCap: 0.2%, Buy: 77.8%)
+
+📊 MARKET INSIGHTS:
+• Total qualifying tokens: 18
+• Premium alpha gems: 0
+• Strong candidates: 0
+• Moderate potential: 3
+• Average Alpha Score: 16.7/100
+• Average Market Cap: $86,977
+• Highest Volume Efficiency: PEPE (10.8%)
+• Strongest Momentum: GAME (+7.9%)
+• Most Buy Activity: PEPE (42 buys)
+
+⚠️ ALERT: HIGHEST PRIORITY RECOMMENDATIONS
+• Focus on tokens with Vol/MCap ratio > 50% and positive momentum
+• Monitor buy ratio for sustained accumulation
+• Verify liquidity before entering positions
+
+� DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Memecoin investments carry extreme volatility
+• Only use capital you can afford to lose completely
+• Always DYOR (Do Your Own Research)
+• Diversify across multiple opportunities
+
+🎯 NEXT CRON SCAN: 9:07 PM Manila Time

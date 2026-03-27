@@ -1,0 +1,74 @@
+💎 MEMECOIN ALPHA SCANNER CRON REPORT
+=====================================================
+Scan Time: Monday, March 2nd, 2026 — 10:14 AM (Asia/Manila)
+Target Range: $30,000 - $200,000 Market Cap
+Scanned Sources: DexScreener API
+
+🔍 KEY FINDINGS:
+• Total Alpha Gems Found: 18 tokens in target range
+• Best Alpha Scores: Multiple tokens scored 100/100
+• Market Conditions: Mixed trends with explosive gains and losses
+
+📊 TOP ALPHA CANDIDATES:
+
+1. MONEY (MOON) - Score: 100/100
+   • MCap: $103,714
+   • 24h Vol: $1.20M
+   • Price Change: +1366.0% (Massive pump)
+   • Buy Ratio: 51.6%
+   • Chain: Solana
+
+2. CAT (Cute Animal Tech) - Score: 100/100
+   • MCap: $24,222
+   • 24h Vol: $20,345
+   • Price Change: +30.1%
+   • Buy Ratio: 57.7%
+   • Chain: Solana
+   • Note: Strong volume/mcap ratio (84%)
+
+3. coin (Pitbull coin) - Score: 100/100
+   • MCap: $33,559
+   • 24h Vol: $3,032
+   • Price Change: +1279.0% (Massive pump)
+   • Buy Ratio: 68.3%
+   • Chain: Solana
+
+4. Pepe (Pepe) - Score: 100/100
+   • MCap: $228,311
+   • 24h Vol: $1,320
+   • Price Change: -6.0%
+   • Buy Ratio: 48.9%
+   • Chain: Solana
+
+5. PEPE (PEPE) - Score: 100/100
+   • MCap: $119,356
+   • 24h Vol: $899
+   • Price Change: -7.0%
+   • Buy Ratio: 55.6%
+   • Chain: Solana
+
+📈 MARKET ANALYSIS:
+• Extremely volatile market with multiple tokens showing +1000% gains
+• Solana dominates with most high-alpha tokens
+• Mixed signals: Some tokens pumping massively while others are declining
+• High volume/mcap ratios indicate strong relative trading activity
+
+⚠️ RISK ASSESSMENT:
+• EXTREMELY HIGH VOLATILITY - tokens showing +1000% gains
+• Verify authenticity - avoid scammy token names
+• Low liquidity tokens may be heavily manipulated
+• DYOR essential - these are speculative memecoins
+
+💡 RECOMMENDATION:
+Focus on tokens with:
+1. Explosive volume (MONEY - $1.2M volume)
+2. Strong fundamentals (CAT - active trading)
+3. Proven momentum (coin - +1279% gain)
+
+Monitor these carefully as high volatility suggests pump-and-dump potential.
+
+🧠 SCANNER METHODOLOGY:
+• Alpha Score: Composite of volume, buy pressure, price momentum
+• Filters: MCap $20K-$250K, minimum $500 volume
+• Chains: Multi-chain scanning (Solana premium)
+• Real-time API: DexScreener

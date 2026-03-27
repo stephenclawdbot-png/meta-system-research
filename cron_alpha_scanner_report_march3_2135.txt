@@ -1,0 +1,70 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Tuesday, March 03, 2026 — 09:35 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP 6 ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 SHANE - Alpha Score: 75/100
+   📈 24h Stats: $8,970 vol • $34,873 mcap • 25.7% ratio
+   📊 Sentiment: 860.0% price • 88.5% buy ratio
+   🔄 Activity: 208 txns (184 buys/24 sells)
+   💧 Liquidity: $0
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xd6b005fcdb0536b8f75afdae01ce63064d8b4444:4meme
+
+🎯 #2 memecoin - Alpha Score: 70/100
+   📈 24h Stats: $148,862 vol • $82,954 mcap • 179.5% ratio
+   📊 Sentiment: -43.6% price • 58.0% buy ratio
+   🔄 Activity: 2094 txns (1215 buys/879 sells)
+   💧 Liquidity: $52,554
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4cety
+
+🎯 #3 NYA - Alpha Score: 20/100
+   📈 24h Stats: $2,766 vol • $51,465 mcap • 5.4% ratio
+   📊 Sentiment: -1.1% price • 57.7% buy ratio
+   🔄 Activity: 26 txns (15 buys/11 sells)
+   💧 Liquidity: $93,636
+   🌐 Chain: polygon
+   🔗 https://dexscreener.com/polygon/0x258a4b7373f6863db5a17de191e0cebb1e0bbc8a
+
+🎯 #4 lolcoin - Alpha Score: 20/100
+   📈 24h Stats: $623 vol • $101,386 mcap • 0.6% ratio
+   📊 Sentiment: -4.9% price • 57.9% buy ratio
+   🔄 Activity: 19 txns (11 buys/8 sells)
+   💧 Liquidity: $46,468
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/g4qdcj8pkmsuwkgohwozzqvqcd5kxs15pcbntep79n5b
+
+🎯 #5 TN100x - Alpha Score: 10/100
+   📈 24h Stats: $1,606 vol • $183,576 mcap • 0.9% ratio
+   📊 Sentiment: 0.7% price • 29.2% buy ratio
+   🔄 Activity: 24 txns (7 buys/17 sells)
+   💧 Liquidity: $79,057
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x8f5f1d63599362115e7f9fe71bfd5ab883d82c82
+
+🎯 #6 BSC - Alpha Score: 10/100
+   📈 24h Stats: $2,006 vol • $62,406 mcap • 3.2% ratio
+   📊 Sentiment: -1.6% price • 42.1% buy ratio
+   🔄 Activity: 19 txns (8 buys/11 sells)
+   💧 Liquidity: $41,003
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xff0a8df8c4a0332e28a4c94ebb3f633944b08a94
+
+📊 MARKET SUMMARY FOR 6 GEMS
+• Average Alpha Score: 34.2/100
+• Average Market Cap: $86,110
+• Average Volume/MCap Ratio: 35.9%
+• Top Performer: SHANE (75/100)
+
+💡 Key Alpha Signals:
+- Volume/Mcap ratio > 25% indicates strong interest
+- Buy ratio > 60% suggests accumulation phase
+- High transaction volume = active community
+
+⚠️ DISCLAIMER: High risk assets - DYOR required
+Next scan in 5 minutes

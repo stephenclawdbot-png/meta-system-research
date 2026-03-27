@@ -1,0 +1,40 @@
+💎 DEXSCREENER ALPHA SCANNER RESULTS - March 5, 2026 (5:15 AM)
+======================================================================
+
+🧐 SUMMARY: Found 12 potential alpha gems in $30K-$200K mcap range
+🕐 Scan Time: Thursday, March 5, 2026 — 5:15 AM Asia/Manila
+
+📊 TOP 5 ALPHA GEMS (Sorted by Alpha Score):
+
+🥇 Coin (SOL/63k mcap) - Score: 85/110
+   • 24h Volume: $13,717 (+42.89%)
+   • Vol/MCap Ratio: 21.7%
+   • Buy Ratio: 55.9%
+   • Transactions: 254 (142 buys)
+   • https://dexscreener.com/solana/FjT1DpbREUesu2r1DQfHxFATK9uitWAu4BdvNNvM4C4w
+
+🥈 NCT (BSC/71k mcap) - Score: 40/110
+   • 24h Volume: $1,375 (+14.66%)
+   • Buy Ratio: 91.5% (very strong)
+   • Transactions: 118 (108 buys)
+   • https://dexscreener.com/bsc/0x6F9Ada2CCe77331B286318BBD67ABe4568dFc1AE
+
+🥉 coin (Base/189k mcap) - Score: 40/110
+   • 24h Volume: $1,086 (+17.88%)
+   • Buy Ratio: 43.8%
+   • Different chain/base edition
+   • https://dexscreener.com/base/0x5122E02898Ece3BC62dF8c1efDb29A9e914244D3
+
+📈 MARKET STATS:
+• Total Tokens Identified: 12
+• Average Alpha Score: 31.7/110
+• Average Market Cap: $100,990
+• Average Volume: $2,013
+
+🔍 OBSERVATIONS:
+- Moderate alpha activity early morning
+- One standout gem with strong volume/mcap ratio (Coin)
+- Several tokens showing strong buy pressure but limited volume
+- Market appears relatively quiet with conservative alpha scores
+
+⚠️ DISCLAIMER: High-risk memecoins - Not financial advice

@@ -1,0 +1,15 @@
+Current crypto prices at validation call:
+{
+  "bitcoin": {
+    "usd": 67817,
+    "usd_24h_change": -0.33288712941234666
+  },
+  "ethereum": {
+    "usd": 1965.39,
+    "usd_24h_change": -1.1111424256112654
+  },
+  "solana": {
+    "usd": 83.27,
+    "usd_24h_change": -1.659171509865116
+  }
+}

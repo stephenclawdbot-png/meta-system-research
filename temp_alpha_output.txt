@@ -1,0 +1,63 @@
+💰 DEXSCREENER ALPHA SCANNER - SUB 30K-200K MCAP
+======================================================================
+Scan Time: Tuesday, March 03, 2026 — 06:04 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+======================================================================
+
+💎 Found 3 Alpha Gems
+----------------------------------------------------------------------
+
+🎯 NotifAi (NotifAi News)
+   ⚡ Alpha Score: 40/110
+   💰 Market Cap: $106,183
+   📈 24h Volume: $7,290.48
+   🔥 Vol/MCap Ratio: 6.9%
+   📊 Price Change: -13.17%
+   💧 Liquidity: $37,286.21
+   🔄 Transactions: 182/24h (120 buys, 62 sells)
+   📈 Buy/Sell Ratio: 65.9%
+   🌐 Chain: bsc
+   🔗 DexScreener: https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0
+
+🎯 topbasetrending (topbasetrending)
+   ⚡ Alpha Score: 35/110
+   💰 Market Cap: $39,572
+   📈 24h Volume: $977.4
+   🔥 Vol/MCap Ratio: 2.5%
+   📊 Price Change: 12.68%
+   💧 Liquidity: $18,050.78
+   🔄 Transactions: 150/24h (40 buys, 110 sells)
+   📈 Buy/Sell Ratio: 26.7%
+   🌐 Chain: base
+   🔗 DexScreener: https://dexscreener.com/base/0x1883ffbc254f2f72857c38a7c00ffcfe0a7fa0223a4b8fd1e6fcc8216d3b7a67
+
+🎯 NCT (NEWCAT )
+   ⚡ Alpha Score: 25/110
+   💰 Market Cap: $70,205
+   📈 24h Volume: $1,265.99
+   🔥 Vol/MCap Ratio: 1.8%
+   📊 Price Change: -4.92%
+   💧 Liquidity: $12,665.29
+   🔄 Transactions: 55/24h (29 buys, 26 sells)
+   📈 Buy/Sell Ratio: 52.7%
+   🌐 Chain: bsc
+   🔗 DexScreener: https://dexscreener.com/bsc/0x6F9Ada2CCe77331B286318BBD67ABe4568dFc1AE
+
+📊 SUMMARY STATISTICS:
+------------------------------
+• Average Alpha Score: 33.3/110
+• Average Market Cap: $71,987
+• Average Volume: $3,178
+• Total Gems Found: 3
+
+🧠 ALPHA SCORE EXPLANATION:
+------------------------------
+• Volume (30 pts): Higher = more trader interest
+• Vol/MCap Ratio (20 pts): Low mcap + high volume = undervalued
+• Price Momentum (25 pts): Positive momentum = upside potential
+• Liquidity (15 pts): Healthy pool = easier trading
+• Activity (10 pts): Higher txns = more community
+• Buy Pressure (10 pts): Buy ratio > 50% = accumulation
+
+⚠️ Disclaimer: Alpha scanner results only. DYOR before investing.
+Market conditions change rapidly. High risk micro-cap space.

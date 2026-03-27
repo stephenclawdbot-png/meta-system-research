@@ -1,0 +1,59 @@
+🎯 ENHANCED MEMECOIN ALPHA SCANNER
+==================================================
+Scan Time: Wednesday, March 04, 2026 — 08:38 PM ()
+Market Focus: Sub $30k-$200k MCap Gems
+Alpha Detection: Pre-mainstream attention
+
+📊 MARKET OVERVIEW
+Alpha Candidates Found: 6 tokens
+Average Alpha Score: 62.2/100
+Average Market Cap: $101,354
+Average Volume: $48,782
+
+💡 ALPHA SIGNALS
+Strong (>60): 3 tokens
+Moderate (40-60): 3 tokens
+Weak (<40): 0 tokens
+
+🔥 TOP ALPHA GEMS
+#1 BNB — Alpha: 80.0/100
+   💰 MCap: $81,694 | Vol: $189,091
+   📈 24h: ▲-3.8%
+   🔥 Vol/MCap: 2.3%
+   🌐 Chain: bsc | Dex: pumpswap
+   🔗 https://dexscreener.com/bsc/0xdF5208f989bD042e92f31e9A039126f5c3786603
+
+#2 SOL — Alpha: 78.0/100
+   💰 MCap: $94,472 | Vol: $30,176
+   📈 24h: ▲5.6%
+   🔥 Vol/MCap: 0.3%
+   🌐 Chain: injective | Dex: pumpswap
+   🔗 https://dexscreener.com/injective/0xd9089235d2c1b07261cbb2071f4f5a7f92fa1eca940e3cad88bb671c288a972f
+
+#3 memecoin — Alpha: 75.0/100
+   💰 MCap: $133,037 | Vol: $70,192
+   📈 24h: ▲44.1%
+   🔥 Vol/MCap: 0.5%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/8fyVrgzR6XCAS2t5EXFCcwZJv9Us51TTgN5befq4CEtY
+
+#4 BASE — Alpha: 55.0/100
+   💰 MCap: $36,392 | Vol: $942
+   📈 24h: ▲4.0%
+   🔥 Vol/MCap: 0.0%
+   🌐 Chain: base | Dex: pumpswap
+   🔗 https://dexscreener.com/base/0x60DC51aB5Ad447f72D4C86ffFcCCB89038391471
+
+#5 SOLANA — Alpha: 45.0/100
+   💰 MCap: $145,108 | Vol: $1,194
+   📈 24h: ▲3.0%
+   🔥 Vol/MCap: 0.0%
+   🌐 Chain: ethereum | Dex: pumpswap
+   🔗 https://dexscreener.com/ethereum/0x41F50f520f5095fC8403DF083285232B822611c3
+
+📋 TRADING OUTLOOK
+✅ STRONG SIGNAL DETECTED: BNB showing alpha potential
+Consider strategic position entry with tight risk management
+
+ℹ️ Next alpha scan in 5 minutes
+⚠️ DISCLAIMER: High-risk, speculative assets - NFA

@@ -1,0 +1,50 @@
+📊 ALPHA SCANNER CRON REPORT - REALTIME SUMMARY
+================================================
+Scan Time: Monday, March 2, 2026 — 9:23 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+💎 TOP ALPHA GEMS
+-----------------
+
+🔥 #1: MEME - Alpha Score: 78.4/100
+   • Market Cap: $167,343
+   • 24h Volume: $303,135.5
+   • Volume/MCap Ratio: 1.81x (EXCELLENT)
+   • Buy Ratio: 61.6%
+   • Transactions: 352
+   • Liquidity: $136,191.76
+   • Chain: Solana
+
+🔥 #2: TEST - Alpha Score: 63.8/100
+   • Market Cap: $49,517
+   • 24h Volume: $50,431.5
+   • Volume/MCap Ratio: 1.02x (STRONG)
+   • Buy Ratio: 59.0%
+   • Transactions: 278
+   • Liquidity: $29,900.04
+   • Chain: Solana
+
+🔥 #3: MOON - Alpha Score: 59.2/100
+   • Market Cap: $59,784
+   • 24h Volume: $21,864.6
+   • Volume/MCap Ratio: 0.37x (GOOD)
+   • Buy Ratio: 53.6%
+   • Transactions: 278
+   • Liquidity: $29,900.04
+   • Chain: Solana
+
+📊 MARKET OVERVIEW
+------------------
+• Total Alpha Candidates: 57 tokens
+• High Alpha Gems (score >25): 7
+• Medium Alpha Gems: 5
+• Sentiment: 🔥 BULLISH - Good alpha opportunities detected
+
+⚠️ RISK ASSESSMENT
+------------------
+• Extremely high volatility
+• Quick entry/exit required
+• Always do your own research (DYOR)
+• Memecoins carry maximum risk
+
+📅 Next automated scan: 9:28 PM

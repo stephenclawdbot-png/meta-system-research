@@ -1,0 +1,42 @@
+🧠 ALPHA SCANNER REPORT - 04:40 GMT+8
+March 7, 2026 - 33-Minute Trend Analysis
+
+📊 SCAN SUMMARY:
+• Target Range: $30K-$200K MCap
+• Tokens Analyzed: 331 (↑ from 328)
+• Alpha Gems Found: 30 (↓ marginally)
+• Avg Metrics: $94.7K mcap, 846% vol efficiency
+
+🔥 TREND ANALYSIS (Since 04:07)
+
+🔄 TOP ALPHA UNCHANGED:
+🎯 #1: hamster (75.9/100) - ✅ STABLE LEADER
+• Vol Efficiency: 215% ($282K vol / $130K mcap)
+• Consistency: Unchanged score across 3 scans
+• Risk Profile: $0 liquidity remains concern
+
+🔄 RANKINGS SHIFTING MARGINALLY:
+🎯 CASH: 71.9 → 72.0 (minor fluctuation)
+🎯 INU: 56.1 → 56.8 (small adjustments)
+🎯 memecoin: 53.8 → 55.5 (modest movement)
+
+📈 MARKET METRICS TREND:
+• Token Pool: 328 → 331 (+3 tokens)
+• Eligible Gems: 31 → 30 (-1)
+• Avg Buy Ratio: 53.6% → 52.9% (slight drop)
+• Avg Alpha Score: 44.9 → 44.2 (minor decline)
+
+💡 INSIGHTS:
+• Weekend market showing natural minor fluctuations
+• Top alpha signals maintaining strong consistency
+• Liquidity concerns persisting as primary risk factor
+• Scanner framework demonstrating stability
+
+🔄 FRAMEWORK PERFORMANCE:
+• Reliability: ✅ Consistent results over time
+• Detection: ✅ Effective signal identification
+• Trend Tracking: ✅ Capturing minor market shifts
+
+⚠️ DISCLAIMER: High risk memecoin detection. DYOR required.
+
+📊 Next scan scheduled per cron frequency.

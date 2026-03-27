@@ -1,0 +1,147 @@
+💰 DEXSCREENER ALPHA SCANNER - SUB 30K-200K MCAP
+======================================================================
+Scan Time: Wednesday, March 04, 2026 — 11:22 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+======================================================================
+
+💎 Found 12 Alpha Gems
+----------------------------------------------------------------------
+
+🎯 Coin (Coin)
+   ⚡ Alpha Score: 90/110
+   💰 Market Cap: $69,492
+   📈 24h Volume: $157,765.72
+   🔥 Vol/MCap Ratio: 227.0%
+   📊 Price Change: 95.51%
+   💧 Liquidity: $21,022.63
+   🔄 Transactions: 3982/24h (2297 buys, 1685 sells)
+   📈 Buy/Sell Ratio: 57.7%
+   🌐 Chain: solana
+   🔗 DexScreener: https://dexscreener.com/solana/9ppomBQitaxr47Wh1BLYK7uNYZNedGpctpe3J3Kp4xGG
+
+🎯 Coin🔥 (Coin)
+   ⚡ Alpha Score: 90/110
+   💰 Market Cap: $55,845
+   📈 24h Volume: $2,225,208.56
+   🔥 Vol/MCap Ratio: 3984.6%
+   📊 Price Change: 154.00%
+   💧 Liquidity: $75,351.84
+   🔄 Transactions: 3639/24h (2024 buys, 1615 sells)
+   📈 Buy/Sell Ratio: 55.6%
+   🌐 Chain: solana
+   🔗 DexScreener: https://dexscreener.com/solana/CUn9fenRSesP7HnHmnJL5ZXg1DTMDcLbX3cYEN5QVhym
+
+🎯 NotifAi (NotifAi News)
+   ⚡ Alpha Score: 55/110
+   💰 Market Cap: $97,792
+   📈 24h Volume: $12,904.73
+   🔥 Vol/MCap Ratio: 13.2%
+   📊 Price Change: -5.82%
+   💧 Liquidity: $35,799.71
+   🔄 Transactions: 156/24h (90 buys, 66 sells)
+   📈 Buy/Sell Ratio: 57.7%
+   🌐 Chain: bsc
+   🔗 DexScreener: https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0
+
+🎯 SOL (SOLANA)
+   ⚡ Alpha Score: 30/110
+   💰 Market Cap: $85,365
+   📈 24h Volume: $1,378.82
+   🔥 Vol/MCap Ratio: 1.6%
+   📊 Price Change: 2.80%
+   💧 Liquidity: $12,804.79
+   🔄 Transactions: 500/24h (195 buys, 305 sells)
+   📈 Buy/Sell Ratio: 39.0%
+   🌐 Chain: pulsechain
+   🔗 DexScreener: https://dexscreener.com/pulsechain/0x30fe90B1ad644970C48a6B5886EC39B1e3df97Ee
+
+🎯 NCT (NEWCAT )
+   ⚡ Alpha Score: 25/110
+   💰 Market Cap: $70,261
+   📈 24h Volume: $2,708.15
+   🔥 Vol/MCap Ratio: 3.9%
+   📊 Price Change: -0.21%
+   💧 Liquidity: $12,674.76
+   🔄 Transactions: 94/24h (72 buys, 22 sells)
+   📈 Buy/Sell Ratio: 76.6%
+   🌐 Chain: bsc
+   🔗 DexScreener: https://dexscreener.com/bsc/0x6F9Ada2CCe77331B286318BBD67ABe4568dFc1AE
+
+🎯 topbasetrending (topbasetrending)
+   ⚡ Alpha Score: 25/110
+   💰 Market Cap: $34,100
+   📈 24h Volume: $1,498.64
+   🔥 Vol/MCap Ratio: 4.4%
+   📊 Price Change: -1.39%
+   💧 Liquidity: $16,196.31
+   🔄 Transactions: 185/24h (49 buys, 136 sells)
+   📈 Buy/Sell Ratio: 26.5%
+   🌐 Chain: base
+   🔗 DexScreener: https://dexscreener.com/base/0x1883ffbc254f2f72857c38a7c00ffcfe0a7fa0223a4b8fd1e6fcc8216d3b7a67
+
+🎯 coin (coin)
+   ⚡ Alpha Score: 25/110
+   💰 Market Cap: $160,568
+   📈 24h Volume: $781.26
+   🔥 Vol/MCap Ratio: 0.5%
+   📊 Price Change: 0.82%
+   💧 Liquidity: $120,450.24
+   🔄 Transactions: 10/24h (6 buys, 4 sells)
+   📈 Buy/Sell Ratio: 60.0%
+   🌐 Chain: base
+   🔗 DexScreener: https://dexscreener.com/base/0x5122E02898Ece3BC62dF8c1efDb29A9e914244D3
+
+🎯 SOLANA (BarbieCrashBandicootRFK888Inu)
+   ⚡ Alpha Score: 15/110
+   💰 Market Cap: $140,360
+   📈 24h Volume: $181.92
+   🔥 Vol/MCap Ratio: 0.1%
+   📊 Price Change: -1.31%
+   💧 Liquidity: $91,117.69
+   🔄 Transactions: 11/24h (5 buys, 6 sells)
+   📈 Buy/Sell Ratio: 45.5%
+   🌐 Chain: ethereum
+   🔗 DexScreener: https://dexscreener.com/ethereum/0x41F50f520f5095fC8403DF083285232B822611c3
+
+🎯 BNB (BNB Binance Smart Chaine)
+   ⚡ Alpha Score: 15/110
+   💰 Market Cap: $148,732
+   📈 24h Volume: $28.07
+   🔥 Vol/MCap Ratio: 0.0%
+   📊 Price Change: -2.24%
+   💧 Liquidity: $122,160.72
+   🔄 Transactions: 14/24h (5 buys, 9 sells)
+   📈 Buy/Sell Ratio: 35.7%
+   🌐 Chain: base
+   🔗 DexScreener: https://dexscreener.com/base/0x627874dac50df063700c59cdee016887008724977ae6d46065336576cf6474d6
+
+🎯 MEME (MEME)
+   ⚡ Alpha Score: 15/110
+   💰 Market Cap: $46,130
+   📈 24h Volume: $12.83
+   🔥 Vol/MCap Ratio: 0.0%
+   📊 Price Change: 0.00%
+   💧 Liquidity: $47,295.47
+   🔄 Transactions: 1/24h (0 buys, 1 sells)
+   📈 Buy/Sell Ratio: 0.0%
+   🌐 Chain: xrpl
+   🔗 DexScreener: https://dexscreener.com/xrpl/4D454D4500000000000000000000000000000000.rs98d8usUqkf9Wuww6MgMghSdQpvMmVFt4_XRP
+
+📊 SUMMARY STATISTICS:
+------------------------------
+• Average Alpha Score: 33.8/110
+• Average Market Cap: $91,111
+• Average Volume: $200,208
+• Total Gems Found: 12
+
+🧠 ALPHA SCORE EXPLANATION:
+------------------------------
+• Volume (30 pts): Higher = more trader interest
+• Vol/MCap Ratio (20 pts): Low mcap + high volume = undervalued
+• Price Momentum (25 pts): Positive momentum = upside potential
+• Liquidity (15 pts): Healthy pool = easier trading
+• Activity (10 pts): Higher txns = more community
+• Buy Pressure (10 pts): Buy ratio > 50% = accumulation
+
+⚠️ Disclaimer: Alpha scanner results only. DYOR before investing.
+Market conditions change rapidly. High risk micro-cap space.

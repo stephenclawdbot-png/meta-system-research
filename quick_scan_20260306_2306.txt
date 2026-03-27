@@ -1,0 +1,81 @@
+🧠 Alpha Scanner Report
+========================================
+Scan Time: Friday, March 06, 2026 — 11:06 PM (Asia/Manila)
+Focus: Sub $30k-$200k Memecoins
+========================================
+
+📊 MARKET OVERVIEW
+Tokens Found: 24
+Avg MCap: $99,918
+Avg Volume: $338,886
+
+🔥 TOP ALPHA CANDIDATES
+
+#1 AI
+   MCap: $36,325 | Vol: $4,054
+   Vol/MCap: 11.2% | Buy Ratio: 52%
+   📈 24h: +5.3%
+   Chain: solana | Dex: raydium
+
+#2 DOG
+   MCap: $37,143 | Vol: $148
+   Vol/MCap: 0.4% | Buy Ratio: 0%
+   📉 24h: -0.5%
+   Chain: starknet | Dex: ekubo
+
+#3 DOGE
+   MCap: $40,862 | Vol: $102
+   Vol/MCap: 0.2% | Buy Ratio: 42%
+   📉 24h: -5.5%
+   Chain: avalanche | Dex: blackhole
+
+#4 DOGE
+   MCap: $52,494 | Vol: $119
+   Vol/MCap: 0.2% | Buy Ratio: 75%
+   📉 24h: -2.4%
+   Chain: ton | Dex: dedust
+
+#5 ELON
+   MCap: $56,677 | Vol: $112
+   Vol/MCap: 0.2% | Buy Ratio: 39%
+   📉 24h: -9.4%
+   Chain: pulsechain | Dex: pulsex
+
+#6 PEPE
+   MCap: $62,444 | Vol: $186
+   Vol/MCap: 0.3% | Buy Ratio: 48%
+   📈 24h: +4.2%
+   Chain: stacks | Dex: velar
+
+#7 DOGE
+   MCap: $62,800 | Vol: $501
+   Vol/MCap: 0.8% | Buy Ratio: 39%
+   📉 24h: -11.7%
+   Chain: pulsechain | Dex: pulsex
+
+#8 Bonk
+   MCap: $65,632 | Vol: $920
+   Vol/MCap: 1.4% | Buy Ratio: 50%
+   📉 24h: -3.9%
+   Chain: arbitrum | Dex: camelot
+
+#9 DOGE
+   MCap: $79,485 | Vol: $213
+   Vol/MCap: 0.3% | Buy Ratio: 40%
+   📈 24h: +1.5%
+   Chain: tron | Dex: sunswap
+
+#10 SHIB
+   MCap: $80,124 | Vol: $260
+   Vol/MCap: 0.3% | Buy Ratio: 37%
+   📉 24h: -5.6%
+   Chain: solana | Dex: raydium
+
+💡 ALPHA ASSESSMENT
+High Volume Signals: 5 tokens
+Positive Momentum: 6 tokens
+
+📍 Best Opportunities: AI, KITTY, Pup
+Monitored for volume continuation and momentum
+
+⚠️ DISCLAIMER: High risk, do your own research

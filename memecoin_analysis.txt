@@ -1,0 +1,62 @@
+DEXSCREENER MEMECOIN ANALYSIS - SUB $30K-$200K MCAP
+Date: 2026-02-17
+Time: 02:36 GMT+8
+
+Based on DexScreener's new pairs list, here are tokens that appear to meet some criteria:
+
+POTENTIAL ALPHA MEMECOINS:
+
+1. TEDDY/SOL (テディベア)
+   - Market Cap: ~$93K (based on FDV)
+   - Age: 3h 7m
+   - Volume: $339K (24h)
+   - Price: $0.04936
+   - Notable: 45.05% gain, high volume for market cap
+
+2. DONT/SOL (Don't Tap)
+   - Market Cap: ~$204K
+   - Age: 18h 20m
+   - Volume: $750K
+   - Price: $0.0002051
+   - Notable: Strong volume, 338% increase
+
+3. ClawTube/SOL
+   - Market Cap: ~$102K
+   - Age: 1h 27m
+   - Volume: $253K
+   - Price: $0.0001022
+   - Notable: Very recent, good volume
+
+4. CLAWVAULT/SOL
+   - Market Cap: ~$171K
+   - Age: 23h 49m
+   - Volume: $469K
+   - Price: $0.0001718
+   - Notable: High volume relative to market cap
+
+5. SAFARI/SOL (Shitcoin Safari)
+   - Market Cap: ~$137K
+   - Age: 4h 58m
+   - Volume: $108K
+   - Price: $0.0001376
+   - Notable: Fresh token with decent volume
+
+LIMITATIONS:
+- Buy ratio data not available from this page
+- Exact market cap calculations may vary
+- Most tokens show mixed performance (some green, some red)
+- Need deeper analysis on DexScreener platform for order flow data
+
+RECOMMENDATIONS:
+1. TEDDY/SOL shows strongest volume-to-market-cap ratio
+2. DONT/SOL has significant age but still strong performance
+3. ClawTube/SOL and SAFARI/SOL are very fresh with good volume
+4. Focus on tokens under 6h old for maximum alpha potential
+
+NEXT STEPS:
+- Use DexScreener's detailed page view for order flow analysis
+- Check telegram communities for token sentiment
+- Monitor trading patterns over next few hours
+- Set alerts for significant price movements
+
+DISCLAIMER: High-risk memecoin trading. Always do your own research and invest responsibly.

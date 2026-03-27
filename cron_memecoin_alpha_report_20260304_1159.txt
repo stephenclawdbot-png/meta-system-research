@@ -1,0 +1,93 @@
+🎯 MEMECOIN ALPHA SCANNER CRON REPORT - 11:59 AM
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: Wednesday, March 04, 2026 — 11:59 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP ALPHA MEMECOINS DETECTED:
+--------------------------------------------------
+🎯 #1 AI - Alpha Score: 78.0/100
+   💰 MCap: $50,719 | Vol: $40,392.84
+   📈 24h Change: 81.2%
+   🔥 Vol/MCap Ratio: 79.6%
+   🌐 Dex: solana
+   🔗 https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #2 DOG - Alpha Score: 35.0/100
+   💰 MCap: $37,517 | Vol: $651.04
+   📈 24h Change: -2.8%
+   🔥 Vol/MCap Ratio: 1.7%
+   🌐 Dex: starknet
+   🔗 https://dexscreener.com/starknet/0x040e81cfeb176bfdbc5047bbc55eb471cfab20a6b221f38d8fda134e1bfffca4-0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d-3402823669209384634633746074317682114-19802-0x0
+
+🎯 #3 MEME - Alpha Score: 30.0/100
+   💰 MCap: $46,130 | Vol: $12.83
+   📈 24h Change: 0.0%
+   🔥 Vol/MCap Ratio: 0.0%
+   🌐 Dex: xrpl
+   🔗 https://dexscreener.com/xrpl/4d454d4500000000000000000000000000000000.rs98d8usuqkf9wuww6mgmghsdqpvmmvft4_xrp
+
+🎯 #4 MEME - Alpha Score: 30.0/100
+   💰 MCap: $39,192 | Vol: $0.03
+   📈 24h Change: 0.0%
+   🔥 Vol/MCap Ratio: 0.0%
+   🌐 Dex: base
+   🔗 https://dexscreener.com/base/0x029c4a1c64a4033b923775b20a01b7180895e04ff7d549e48f0ddc9866c41b61
+
+🎯 #5 MEME - Alpha Score: 30.0/100
+   💰 MCap: $43,648 | Vol: $837.43
+   📈 24h Change: 7.6%
+   🔥 Vol/MCap Ratio: 1.9%
+   🌐 Dex: ethereum
+   🔗 https://dexscreener.com/ethereum/0xdcc55de68c9ee1438bb1398c50382ae3788b51b4
+
+🎯 #6 MEME - Alpha Score: 30.0/100
+   💰 MCap: $47,427 | Vol: $244.87
+   📈 24h Change: -0.7%
+   🔥 Vol/MCap Ratio: 0.5%
+   🌐 Dex: solana
+   🔗 https://dexscreener.com/solana/8yp8vn47febmolkbdp7mwswt4emdyrwu7qd7xmc83rql
+
+🎯 #7 DOG - Alpha Score: 30.0/100
+   💰 MCap: $96,841 | Vol: $332.19
+   📈 24h Change: -0.3%
+   🔥 Vol/MCap Ratio: 0.3%
+   🌐 Dex: blast
+   🔗 https://dexscreener.com/blast/0xb1fea9446ca2762b5cb909f495e3ec66c0d3a050
+
+🎯 #8 DOG - Alpha Score: 30.0/100
+   💰 MCap: $50,324 | Vol: $12.64
+   📈 24h Change: -1.1%
+   🔥 Vol/MCap Ratio: 0.0%
+   🌐 Dex: base
+   🔗 https://dexscreener.com/base/0xf97166e7dc2cf37833a7a9d2473e852c629ded32b3f40350291851fe1a757f93
+
+🎯 #9 DOG - Alpha Score: 30.0/100
+   💰 MCap: $99,105 | Vol: $0.23
+   📈 24h Change: 0.0%
+   🔥 Vol/MCap Ratio: 0.0%
+   🌐 Dex: ethereum
+   🔗 https://dexscreener.com/ethereum/0x544897bac3c33b188cb4c215e548d4f94ad22e33
+
+🎯 #10 DOG - Alpha Score: 30.0/100
+   💰 MCap: $36,566 | Vol: $4.28
+   📈 24h Change: -0.0%
+   🔥 Vol/MCap Ratio: 0.0%
+   🌐 Dex: solana
+   🔗 https://dexscreener.com/solana/4u1bztbtun4xr4jeo1inmvpys7eq6ruymnnjifhfzy76
+
+📊 SCAN SUMMARY:
+--------------------
+Total Gems Found: 43 tokens
+🥇 Highest Alpha: AI (78.0/100)
+💰 Avg MCap: $78,702
+📈 Avg Volume: $1,188
+🚀 Avg Vol/MCap Ratio: 1.5%
+
+ANALYSIS:
+- Strong alpha signal from AI token on Solana (79.6% volume/mcap ratio + 81.2% price increase)
+- Multiple MEME and DOG tokens detected but with lower activity levels
+- Market appears relatively quiet compared to earlier scans
+- Recommended focus: AI token (#1) shows exceptional metrics
+
+⚠️ DISCLAIMER: High risk memecoin scanning - NFA

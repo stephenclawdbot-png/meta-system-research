@@ -1,0 +1,39 @@
+🚀 MEMECOIN ALPHA SCANNER CRON REPORT
+==================================================
+Scan Time: Sunday, March 6, 2026 — 11:41 PM (Asia/Manila)
+Market Cap Target: $30,000 - $200,000
+Scanner: DexScreener API (multiple endpoints)
+
+🔥 ALPHA GEMS DISCOVERED (2 total):
+------------------------------
+
+1. 🚀 **MEME** - Alpha: 46.0/100
+   💰 Market Cap: $30,591
+   📊 Volume 24h: $3,977
+   📈 Price Change: -68.7%
+   🔄 Vol/MCap Ratio: 13.0%
+   🤝 Transactions: 457 (45.1% buys)
+   💧 Liquidity: $144
+   🔗 Chain: solana
+   🔗 DexScreener: https://dexscreener.com/solana/9kufvej87kk8dy9saxjwr7xyqjte9sigawyyhjpgsk6j
+
+2. 🚀 **SOL** - Alpha: 30.8/100
+   💰 Market Cap: $94,832
+   📊 Volume 24h: $535
+   📈 Price Change: +3.3%
+   🔄 Vol/MCap Ratio: 0.6%
+   🤝 Transactions: 139 (32.4% buys)
+   💧 Liquidity: $14,128
+   🔗 Chain: pulsechain
+   🔗 DexScreener: https://dexscreener.com/pulsechain/0x30fe90b1ad644970c48a6b5886ec39b1e3df97ee
+
+📊 MARKET DYNAMICS:
+• Alpha Candidates: 2
+• Avg Market Cap: $62,712
+• Avg Volume: $2,256
+• Avg Alpha Score: 38.4/100
+
+⚠️ RISK ASSESSMENT:
+• HIGH VOLATILITY: These are speculative micro-cap assets
+• LIMITED DATA: API returns may be incomplete
+• DYOR: Always conduct thorough research

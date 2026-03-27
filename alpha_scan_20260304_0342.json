@@ -1,0 +1,68 @@
+[
+  {
+    "symbol": "NotifAi",
+    "name": "NotifAi News",
+    "mcap": 108105,
+    "volume_24h": 16297.44,
+    "price_change_24h": 1.56,
+    "liquidity": 37645.49,
+    "txns_24h": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 15,
+        "sells": 12
+      },
+      "h24": {
+        "buys": 84,
+        "sells": 74
+      }
+    },
+    "buyers": 84,
+    "sellers": 74,
+    "pair_address": "0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0",
+    "dex_url": "https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0",
+    "alpha_score": 60,
+    "age": 1763087330000,
+    "chain": "bsc"
+  },
+  {
+    "symbol": "topbasetrending",
+    "name": "topbasetrending",
+    "mcap": 34582,
+    "volume_24h": 1251.09,
+    "price_change_24h": -13.81,
+    "liquidity": 16330.18,
+    "txns_24h": {
+      "m5": {
+        "buys": 1,
+        "sells": 2
+      },
+      "h1": {
+        "buys": 3,
+        "sells": 7
+      },
+      "h6": {
+        "buys": 17,
+        "sells": 44
+      },
+      "h24": {
+        "buys": 45,
+        "sells": 125
+      }
+    },
+    "buyers": 45,
+    "sellers": 125,
+    "pair_address": "0x1883ffbc254f2f72857c38a7c00ffcfe0a7fa0223a4b8fd1e6fcc8216d3b7a67",
+    "dex_url": "https://dexscreener.com/base/0x1883ffbc254f2f72857c38a7c00ffcfe0a7fa0223a4b8fd1e6fcc8216d3b7a67",
+    "alpha_score": 25,
+    "age": 1768939861000,
+    "chain": "base"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "version": "0.1.0",
+  "name": "king_of_the_hill",
+  "instructions": [
+    {
+      "name": "initializeGame",
+      "accounts": [
+        { "name": "kingOfTheHill", "isMut": true, "isSigner": false },
+        { "name": "initialKingStats", "isMut": true, "isSigner": false },
+        { "name": "tokenMint", "isMut": false, "isSigner": false },
+        { "name": "initialKing", "isMut": false, "isSigner": false },
+        { "name": "payer", "isMut": true, "isSigner": true },
+        { "name": "systemProgram", "isMut": false, "isSigner": false },
+        { "name": "rent", "isMut": false, "isSigner": false }
+      ],
+      "args": [
+        { "name": "initialPrice", "type": "u64" }
+      ]
+    },
+    {
+      "name": "claimThrone",
+      "accounts": [
+        { "name": "kingOfTheHill", "isMut": true, "isSigner": false },
+        { "name": "player", "isMut": true, "isSigner": true },
+        { "name": "playerTokenAccount", "isMut": true, "isSigner": false },
+        { "name": "previousKing", "isMut": false, "isSigner": false },
+        { "name": "previousKingAccount", "isMut": true, "isSigner": false },
+        { "name": "playerStats", "isMut": true, "isSigner": false },
+        { "name": "previousKingStats", "isMut": true, "isSigner": false },
+        { "name": "treasury", "isMut": true, "isSigner": false },
+        { "name": "tokenMint", "isMut": false, "isSigner": false },
+        { "name": "tokenProgram", "isMut": false, "isSigner": false },
+        { "name": "systemProgram", "isMut": false, "isSigner": false },
+        { "name": "rent", "isMut": false, "isSigner": false }
+      ],
+      "args": []
+    },
+    {
+      "name": "claimVictory",
+      "accounts": [
+        { "name": "kingOfTheHill", "isMut": true, "isSigner": false },
+        { "name": "treasury", "isMut": true, "isSigner": false },
+        { "name": "treasuryAuthority", "isMut": false, "isSigner": false },
+        { "name": "winner", "isMut": false, "isSigner": false },
+        { "name": "winnerAccount", "isMut": true, "isSigner": false },
+        { "name": "winnerStats", "isMut": true, "isSigner": false },
+        { "name": "tokenMint", "isMut": false, "isSigner": false },
+        { "name": "tokenProgram", "isMut": false, "isSigner": false }
+      ],
+      "args": []
+    },
+    {
+      "name": "startNewRound",
+      "accounts": [
+        { "name": "kingOfTheHill", "isMut": true, "isSigner": false },
+        { "name": "initialKing", "isMut": false, "isSigner": false },
+        { "name": "newKingStats", "isMut": true, "isSigner": false },
+        { "name": "payer", "isMut": true, "isSigner": true },
+        { "name": "tokenMint", "isMut": false, "isSigner": false },
+        { "name": "systemProgram", "isMut": false, "isSigner": false },
+        { "name": "rent", "isMut": false, "isSigner": false }
+      ],
+      "args": [
+        { "name": "initialPrice", "type": "u64" }
+      ]
+    }
+  ],
+  "accounts": [
+    {
+      "name": "KingOfTheHill",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          { "name": "currentKing", "type": "publicKey" },
+          { "name": "thronePrice", "type": "u64" },
+          { "name": "totalPot", "type": "u64" },
+          { "name": "lastClaimTime", "type": "i64" },
+          { "name": "gameEnded", "type": "bool" },
+          { "name": "bump", "type": "u8" }
+        ]
+      }
+    },
+    {
+      "name": "PlayerStats",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          { "name": "wallet", "type": "publicKey" },
+          { "name": "timesKing", "type": "u64" },
+          { "name": "totalEarned", "type": "u64" },
+          { "name": "totalSpent", "type": "u64" }
+        ]
+      }
+    }
+  ],
+  "errors": [
+    { "code": 6000, "name": "GameEnded", "msg": "Game has already ended" },
+    { "code": 6001, "name": "GameNotEnded", "msg": "Game has not ended yet" },
+    { "code": 6002, "name": "AlreadyClaimed", "msg": "Victory already claimed" },
+    { "code": 6003, "name": "InsufficientBalance", "msg": "Insufficient token balance" },
+    { "code": 6004, "name": "NotAuthorized", "msg": "Not authorized" },
+    { "code": 6005, "name": "InvalidAccount", "msg": "Invalid account" }
+  ]
+}

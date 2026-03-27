@@ -1,0 +1,40 @@
+{
+  "scanner_config": {
+    "crypto_oracle": {
+      "interval_minutes": 15,
+      "assets": ["BTC", "ETH", "SOL"],
+      "focus": "polymarket_trends",
+      "metrics": ["price_change", "volume_momentum", "sentiment_shift"]
+    },
+    "memecoin_scanner": {
+      "interval_minutes": 5,
+      "market_cap_range": [30000, 200000],
+      "sources": ["pump.fun", "dexscreener"],
+      "filters": {
+        "min_volume": 5000,
+        "max_age_hours": 24,
+        "buy_sell_ratio": 0.6,
+        "transaction_threshold": 50,           // Increased from 20
+        "min_unique_traders": 15,              // NEW: Anti-manipulation
+        "min_active_hours": 2,
+        "liquidity_usage_ratio": 0.1,
+        "max_transaction_ratio": 0.5,           // NEW: Anti-spam
+        "volume_to_transaction_max": 500,       // NEW: Avoid low-tx high-volume
+        "mcap_to_transaction_min": 10,         // NEW: Health check
+        "mcap_to_transaction_max": 2000,         // NEW: Avoid anomalies
+        "min_volume_per_transaction": 10        // NEW: Avoid spam/MEME-like patterns
+      },
+      "output_fields": ["contract_address", "name", "symbol", "market_cap", "volume", "price_change", "buy_sell_ratio", "liquidity", "transaction_count", "unique_traders"]
+    }
+  },
+  "smart_detection": {
+    "avoid_recent_hype": true,
+    "focus_authentic_momentum": true,
+    "require_liquidity_depth": true,
+    "detect_before_mainstream": true,
+    "filter_low_activity": true,
+    "validate_transaction_authenticity": true,
+    "detect_wash_trading": true,                // NEW
+    "block_single_actor_manipulation": true      // NEW
+  }
+}

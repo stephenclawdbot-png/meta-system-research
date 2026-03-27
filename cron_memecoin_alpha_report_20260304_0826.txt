@@ -1,0 +1,52 @@
+🎯 MEMECOIN ALPHA SCANNER CRON REPORT - 08:26 AM
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: Wednesday, March 04, 2026 — 08:26 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP ALPHA MEMECOINS DETECTED:
+--------------------------------------------------
+🎯 #1 WIF - Alpha Score: 100/100
+   💰 MCap: $61,584 | Vol: $375,086
+   📈 24h Change: 748.0%
+   🔥 Vol/MCap Ratio: 609.1%
+   🌐 Dex: pumpswap | Chain: solana
+   🔗 https://dexscreener.com/solana/edjswcdxhbkm1dydzwsvowyj2kqzhhsucbgusrm7ctc
+
+🎯 #2 AI - Alpha Score: 72.1/100
+   💰 MCap: $51,969 | Vol: $41,483
+   📈 24h Change: 66.8%
+   🔥 Vol/MCap Ratio: 79.8%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #3 AI - Alpha Score: 2.0/100
+   💰 MCap: $100,433 | Vol: $2,866
+   📈 24h Change: -6.4%
+   🔥 Vol/MCap Ratio: 2.9%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/dpawppcceyb99wnncoqsmgexauhnmqfxe79mnnvvtphc
+
+🎯 #4 MEME - Alpha Score: 3.5/100
+   💰 MCap: $45,561 | Vol: $837
+   📈 24h Change: 7.6%
+   🔥 Vol/MCap Ratio: 1.8%
+   🌐 Dex: uniswap | Chain: ethereum
+   🔗 https://dexscreener.com/ethereum/0xdcc55de68c9ee1438bb1398c50382ae3788b51b4
+
+🎯 #5 DOG - Alpha Score: 1.1/100
+   💰 MCap: $37,894 | Vol: $651
+   📈 24h Change: -1.9%
+   🔥 Vol/MCap Ratio: 1.7%
+   🌐 Dex: ekubo | Chain: starknet
+   🔗 https://dexscreener.com/starknet/0x040e81cfeb176bfdbc5047bbc55eb471cfab20a6b221f38d8fda134e1bfffca4-0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d-3402823669209384634633746074317682114-19802-0x0
+
+📊 SCAN SUMMARY:
+--------------------
+Total Gems Found: 51 tokens
+🥇 Highest Alpha: WIF (100/100)
+💰 Avg MCap: $80,658
+📈 Avg Volume: $8,423
+🚀 Avg Vol/MCap Ratio: 13.8%
+
+⚠️ DISCLAIMER: High risk memecoin scanning - NFA

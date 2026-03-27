@@ -1,0 +1,70 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Tuesday, March 03, 2026 — 10:13 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP 6 ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 Mars (Journey to Mars) - Alpha Score: 67/100
+   📈 24h Stats: $536,951 vol • $74,865 mcap • 717.2% ratio
+   📊 Sentiment: -43.7% price • Buy ratio data unavailable
+   🔄 Activity: Transaction data unavailable
+   💧 Liquidity: Data unavailable
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/7urzc3jsszh1xawmfkvokhhhldxjy8eon6r8n9mm1qvu
+
+🎯 #2 memecoin (Memecoin) - Alpha Score: 62/100
+   📈 24h Stats: $141,664 vol • $81,480 mcap • 173.9% ratio
+   📊 Sentiment: -51.6% price • Buy ratio data unavailable
+   🔄 Activity: Transaction data unavailable
+   💧 Liquidity: Data unavailable
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4cety
+
+🎯 #3 SHIBA (SHIBA) - Alpha Score: 59/100
+   📈 24h Stats: $130,170 vol • $58,283 mcap • 223.3% ratio
+   📊 Sentiment: -71.2% price • Buy ratio data unavailable
+   🔄 Activity: Transaction data unavailable
+   💧 Liquidity: Data unavailable
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/c1piktpchfufvbn68vtjpn1gapgpywbuogwyjzqafdno
+
+🎯 #4 MOON (MOONCOIN) - Alpha Score: 46/100
+   📈 24h Stats: $23,657 vol • $52,981 mcap • 44.7% ratio
+   📊 Sentiment: +20.7% price • Buy ratio data unavailable
+   🔄 Activity: Transaction data unavailable
+   💧 Liquidity: Data unavailable
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/ens8x7yuksb1pw7pvzs9aw6bvjzcsjekm1o1dvfttb45
+
+🎯 #5 ELON (ELON) - Alpha Score: 26/100
+   📈 24h Stats: $948 vol • $53,308 mcap • 1.8% ratio
+   📊 Sentiment: +20.8% price • Buy ratio data unavailable
+   🔄 Activity: Transaction data unavailable
+   💧 Liquidity: Data unavailable
+   🌐 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x2dcee3eba5de855ad27e8bdfe39a0869761e7e72
+
+🎯 #6 MOON (Moon) - Alpha Score: 9/100
+   📈 24h Stats: $4,418 vol • $62,106 mcap • 7.1% ratio
+   📊 Sentiment: -9.8% price • Buy ratio data unavailable
+   🔄 Activity: Transaction data unavailable
+   💧 Liquidity: Data unavailable
+   🌐 Chain: ethereum
+   🔗 https://dexscreener.com/ethereum/0x1dbe5ac06999f50534736af50144469f0382be3e
+
+📊 MARKET SUMMARY FOR 6 GEMS
+• Average Alpha Score: 44.8/100
+• Average Market Cap: $63,870
+• Average Volume/MCap Ratio: 194.7%
+• Top Performer: Mars (67/100)
+
+💡 Key Alpha Signals:
+- Volume/Mcap ratio > 25% indicates strong interest
+- 4/6 gems show strong volumetric signals (ratio > 25%)
+- Primary chains: solana (popular memecoin ecosystem)
+
+⚠️ DISCLAIMER: High risk assets - DYOR required
+Next scan in 5 minutes

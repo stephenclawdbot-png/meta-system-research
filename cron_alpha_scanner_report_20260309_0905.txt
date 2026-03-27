@@ -1,0 +1,66 @@
+💰 MEMECOIN ALPHA SCANNER REPORT - 30K-200K MCAP RANGE
+=========================================================
+Scan Time: Monday, March 9, 2026 — 9:05 AM (Asia/Manila)
+Target Range: $30,000 - $200,000 Market Cap
+
+MAJOR FINDINGS:
+===============
+⚠️ SLOW MARKET CONDITIONS - Limited alpha opportunities detected
+
+TOP ALPHA GEMS FOUND:
+======================
+
+🔥 SOLANA-FOCUSED GEMS (Highest Volume/Activity):
+
+1. **Baby** (Niche Baby)
+   ⚡ Alpha Score: 47.7/100  
+   💰 MCap: $150,415 | 📈 24h Vol: $40,728
+   📊 60.5% Buy Ratio | 397/259 buy/sell
+   💧 Liquidity: $54,820
+   🔗 https://dexscreener.com/solana/4qbzhs2ecgmvyx77hrexrlvu4hyy4eesmwrdr8xsefqo
+
+2. **WOJAK** (Wojak)
+   ⚡ Alpha Score: 46.8/100
+   💰 MCap: $192,217 | 📈 24h Vol: $4,932
+   📊 52.7% Buy Ratio | 49/44 buy/sell
+   💧 Liquidity: $98,570
+   🔗 https://dexscreener.com/solana/6gdrrenvfyjqdcugmrkdg2ju7uj8ncvbt2ukal2mdj1l
+
+3. **Coin** (Coin) - Cross-Chain High Activity
+   ⚡ Alpha Score: 65/110 (DexScreener score)
+   💰 MCap: $68,472 | 📈 24h Vol: $6,774
+   📊 53.0% Buy Ratio | 123/109 buy/sell
+   💧 Liquidity: $47,128
+   🌐 Solana + 20.89% price momentum
+   🔗 https://dexscreener.com/solana/FjT1DpbREUesu2r1DQfHxFATK9uitWAu4BdvNNvM4C4w
+
+📊 MARKET ANALYSIS:
+==================
+• **Volume Distribution**: Very concentrated - Top 3 gems account for >80% of total volume
+• **Buy Pressure**: Mixed signals - Some high buy ratios but low overall transaction counts
+• **Momentum**: Limited upside momentum detected across the board
+• **Liquidity**: Healthy for most top tokens >$25K liquidity
+
+🔍 KEY OBSERVATIONS:
+====================
+1. **Solana Dominance**: Most promising gems are on Solana chain
+2. **Low Transaction Velocity**: Overall market quiet with low trader activity
+3. **Mixed Price Action**: Some tokens showing small gains, others in consolidation
+4. **Limited Alpha**: Few standout opportunities in this MCap range currently
+
+🎯 TOP RECOMMENDATION:
+======================
+**Coin (Solana)**: Highest combined score with strong volume, buy pressure, and positive momentum.
+
+⚠️ DISCLAIMER:
+==============
+• These are algorithmic detections only - DYOR before any investment
+• Market conditions can change rapidly
+• High-risk micro-cap space - potential for significant volatility
+• Always consider position sizing and risk management
+
+💡 NEXT SCAN:
+=============
+Scheduled for next cron cycle. Monitor Baby and Coin tokens for potential alpha.
+
+Generated: Monday, March 9, 2026 — 9:06 AM Asia/Manila

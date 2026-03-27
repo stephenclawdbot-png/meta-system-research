@@ -1,0 +1,37 @@
+🧠 MEMECOIN ALPHA SCANNER - 30K-200K MCAP FOCUS
+============================================================
+Scan Time: Wednesday, March 04, 2026 — 04:30 PM (GMT+8)
+Target Range: $30k - $200k Market Cap
+
+🔥 TOP ALPHA MEMECOINS DETECTED:
+--------------------------------------------------
+🎯 #1 WIF - Alpha Score: 100/100
+   💰 MCap: $61,584 | Vol: $375,086
+   📈 24h Change: 748.0%
+   🔥 Vol/MCap Ratio: 609.1%
+   🌐 Dex: pumpswap | Chain: solana
+   🔗 https://dexscreener.com/solana/edjswcdxhbkm1dydzwsvowyj2kqzhhsucbgusrm7ctc
+
+🎯 #2 AI - Alpha Score: 77.7/100
+   💰 MCap: $50,232 | Vol: $40,521
+   📈 24h Change: 84.3%
+   🔥 Vol/MCap Ratio: 80.7%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #3 MEME - Alpha Score: 3.5/100
+   💰 MCap: $45,561 | Vol: $837
+   📈 24h Change: 7.6%
+   🔥 Vol/MCap Ratio: 1.8%
+   🌐 Dex: uniswap | Chain: ethereum
+   🔗 https://dexscreener.com/ethereum/0xdcc55de68c9ee1438bb1398c50382ae3788b51b4
+
+📊 SCAN SUMMARY:
+--------------------
+Total Gems Found: 48 tokens
+🥇 Highest Alpha: WIF (100/100)
+💰 Avg MCap: $81,906
+📈 Avg Volume: $8,837
+🚀 Avg Vol/MCap Ratio: 14.6%
+
+⚠️ DISCLAIMER: High risk memecoin scanning - NFA

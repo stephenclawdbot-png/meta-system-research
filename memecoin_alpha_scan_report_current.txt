@@ -1,0 +1,64 @@
+💎 MEMECOIN ALPHA SCANNER CRON REPORT
+=====================================================
+Scan Time: Monday, March 2nd, 2026 — 11:02 AM (Asia/Manila)
+Target Range: $30,000 - $200,000 Market Cap
+Sources: DexScreener API + Fresh Scan
+
+🔍 SUMMARY:
+• Recent scan (10:52 AM): 6 alpha gems identified, led by CAT token
+• Current scan (11:02 AM): Reduced to 2 alpha gems, market consolidation
+• Market appears to be cooling after volatile morning session
+
+📊 CURRENT TOP ALPHA CANDIDATES (Live):
+
+1. NotifAi (NotifAi News) - Score: 40/80
+   • MCap: $126,248 (well within target)
+   • 24h Vol: $7,472
+   • Price Change: -1.37% (slight bearish momentum)
+   • Buy Ratio: 55.7% (moderate buy pressure)
+   • Liquidity: $40,268
+   • Transactions: 93 buys / 74 sells
+   • Chain: BSC
+
+2. NCT (NEWCAT) - Score: 40/80
+   • MCap: $70,722 (perfect range)
+   • 24h Vol: $2,046
+   • Price Change: -4.20% (bearish momentum)
+   • Buy Ratio: 68.6% (strong buy pressure despite decline)
+   • Liquidity: $12,577
+   • Transactions: 59 buys / 27 sells
+   • Chain: BSC
+
+📈 RECENT MARKET LEADERS (10:52 AM):
+• CAT token was STRONG ALPHA with 75/80 score:
+  - MCap: $31,985, 24h Vol: $21,770, Price: +68%
+  - Buy Ratio: 58.6%, Vol/MCap: 68.1%
+• Market consolidation reduced alpha count from 6 to 2 gems
+
+📊 PATTERN ANALYSIS:
+Morning Session Progression:
+• 09:14 AM: Bearish conditions
+• 10:14 AM: Volatile explosion (+1366% gains observed)
+• 10:52 AM: CAT emerges as clear alpha leader
+• 11:02 AM: Market cools, reduced alpha signals
+
+⚠️ RISK ASSESSMENT:
+• Current gems show mixed signals (buy ratio vs price momentum)
+• NCT shows strong buy pressure (68.6%) despite -4.20% price
+• NotifAi has more balanced metrics but slight negative momentum
+• BSC chain dominance in current scan vs Solana dominance earlier
+
+💡 RECOMMENDATION:
+• Market appears in consolidation phase after morning volatility
+• Monitor NCT token closely - high buy ratio suggests accumulation during dip
+• Previous CAT leader no longer appears in scan (may have exceeded $200k mcap)
+• Exercise caution - lower alpha signal count suggests reduced market activity
+
+🧠 ALPHA SIGNAL INTERPRETATION:
+• High buy ratios (>60%) often precede momentum shifts
+• Negative price action with high buy volume suggests potential accumulation
+• BSC chain dominance in current scan indicates ecosystem rotation
+• Reduced token count suggests market-wide cooling/consolidation
+
+END OF REPORT
+Scanned: DexScreener API + Live Alpha Scanner

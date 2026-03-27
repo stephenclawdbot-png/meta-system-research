@@ -1,0 +1,49 @@
+🧠 MEMECOIN ALPHA SCANNER - SUB 30K-200K MCAP FOCUS
+============================================================
+Scan Time: Tuesday, March 03, 2026 — 02:24 AM (GMT+8)
+Target Range: $30k - $200k Market Cap
+Metrics: Volume/MCap Ratio, Buy Pressure, Momentum, Age
+
+🔍 Searching 23 popular memecoin terms...
+✅ Found 3 potential alpha memecoins
+🔥 TOP ALPHA MEMECOINS DETECTED:
+------------------------------------------------------------
+🎯 #1 WIF - Alpha Score: 100/100
+   📛 Name: catwifhelmet
+   💰 MCap: $102,808 | Vol: $2,810,630.44
+   📈 24h Change: -11.8%
+   🔥 Vol/MCap Ratio: 2733.9%
+   🟢 Buy Ratio: 57.6%
+   🔍 Search: 'WIF'
+   🌐 Dex: pumpswap | Chain: solana
+   🔗 https://dexscreener.com/solana/bysd193hwvwspqx1pjoxrjyev9oumjhkbzeqvscxv9xw
+
+🎯 #2 POPCAT - Alpha Score: 100/100
+   📛 Name: POP CAT
+   💰 MCap: $52,544 | Vol: $512,304.31
+   📈 24h Change: 600.0%
+   🔥 Vol/MCap Ratio: 975.0%
+   🟢 Buy Ratio: 57.2%
+   🔍 Search: 'POPCAT'
+   🌐 Dex: pumpswap | Chain: solana
+   🔗 https://dexscreener.com/solana/hre898slypksaatvfwvpbzcsfsbmykxzpfw6tswvvwre
+
+🎯 #3 POPCAT - Alpha Score: 100/100
+   📛 Name: POP CAT
+   💰 MCap: $52,452 | Vol: $263,706.84
+   📈 24h Change: 596.0%
+   🔥 Vol/MCap Ratio: 502.8%
+   🟢 Buy Ratio: 63.0%
+   🔍 Search: 'POPCAT'
+   🌐 Dex: pumpswap | Chain: solana
+   🔗 https://dexscreener.com/solana/2ktq97qfjnw6ddvemvsyrtt3wuxfsant5qfpp4vwbrjs
+
+📊 SCAN SUMMARY:
+--------------------
+Total Gems Found: 3 tokens
+🥇 Highest Alpha: WIF (100/100)
+💰 Avg MCap: $69,268
+📈 Avg Volume: $1,195,547
+🚀 Avg Vol/MCap Ratio: 1403.9%
+
+⚠️ DISCLAIMER: High risk memecoin scanning - DYOR NFA

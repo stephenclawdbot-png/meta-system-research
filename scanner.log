@@ -1,0 +1,24 @@
+2026-02-21 00:48:15,297 - INFO - Starting BTC/ETH/SOL Polymarket Trend Analysis Scanner
+2026-02-21 00:48:15,297 - INFO - Scan iteration 1 starting...
+2026-02-21 00:48:16,596 - INFO - BTC: $67507.00 - Sentiment: N/A
+2026-02-21 00:48:16,597 - INFO - ETH: $1957.49 - Sentiment: N/A
+2026-02-21 00:49:16,603 - INFO - Scan iteration 2 starting...
+2026-02-21 00:49:18,059 - INFO - BTC: $67564.00 - Sentiment: N/A
+2026-02-21 00:49:18,060 - INFO - ETH: $1957.85 - Sentiment: N/A
+2026-02-21 00:49:18,060 - INFO - SOL: $83.97 - Sentiment: N/A
+2026-02-21 00:50:18,069 - INFO - Scan iteration 3 starting...
+2026-02-21 00:50:19,611 - INFO - BTC: $67604.00 - Sentiment: N/A
+2026-02-21 00:50:19,611 - INFO - ETH: $1960.91 - Sentiment: N/A
+2026-02-21 00:50:19,611 - INFO - SOL: $83.97 - Sentiment: N/A
+2026-02-21 00:51:19,622 - INFO - Scan iteration 4 starting...
+2026-02-21 00:51:20,051 - INFO - BTC: $67625.00 - Sentiment: N/A
+2026-02-21 00:51:20,052 - INFO - ETH: $1963.50 - Sentiment: N/A
+2026-02-21 00:51:20,052 - INFO - SOL: $83.97 - Sentiment: N/A
+2026-02-21 00:52:20,062 - INFO - Scan iteration 5 starting...
+2026-02-21 00:52:21,335 - INFO - BTC: $67603.00 - Sentiment: neutral
+2026-02-21 00:52:21,335 - INFO - ETH: $1962.45 - Sentiment: neutral
+2026-02-21 00:52:21,335 - INFO - SOL: $84.05 - Sentiment: N/A
+2026-02-21 00:53:21,344 - INFO - Scan iteration 6 starting...
+2026-02-21 00:53:22,922 - INFO - BTC: $67597.00 - Sentiment: neutral
+2026-02-21 00:53:22,922 - INFO - ETH: $1961.99 - Sentiment: bullish
+2026-02-21 00:53:22,922 - INFO - SOL: $84.05 - Sentiment: N/A

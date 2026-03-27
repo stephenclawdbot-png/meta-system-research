@@ -1,0 +1,35 @@
+# Alpha Scanner Report - March 2nd, 2026 - 3:07 PM
+
+## Status: Service Unavailable
+The Alpha Scanner service (localhost:3111) is not currently accessible.
+
+## Expected Scan Parameters
+- **Market Cap Filter**: $30,000 - $200,000
+- **Source**: DexScreener
+- **Focus**: Early detection before mainstream attention
+- **Scan Frequency**: Every 5 minutes
+
+## Alpha Criteria (if service was running)
+Tokens would be evaluated based on:
+- **Volume** (24h volume > $1K)
+- **Buy Ratio** (>50% buy transactions)
+- **Age** (5 minutes to 24 hours old)
+- **Liquidity** (>$1K pool liquidity)
+- **Social Presence** (website, twitter, telegram)
+
+## Recommendation
+Please check if the Alpha Scanner service is running:
+```bash
+curl http://localhost:3111/api/status
+```
+
+If not running, start the service with:
+```bash
+# Find and start the scanner script
+python3 /path/to/alpha_scanner.py
+```
+
+## Next Steps
+The cron job will attempt again in 5 minutes. Ensure the service is operational for continuous memecoin alpha detection.
+
+Generated: Monday, March 2nd, 2026 — 3:07 PM (Asia/Manila)

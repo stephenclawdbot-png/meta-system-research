@@ -1,0 +1,46 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Tuesday, March 03, 2026 — 06:05 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 NotifAi - Alpha Score: 40/110
+   📈 24h Stats: $7,290 vol • $106,183 mcap • 6.9% ratio
+   📊 Sentiment: -13.2% price • 65.9% buy ratio
+   🔄 Activity: 182 txns (120 buys/62 sells)
+   💧 Liquidity: $37,286
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0
+
+🎯 #2 topbasetrending - Alpha Score: 35/110
+   📈 24h Stats: $977 vol • $39,572 mcap • 2.5% ratio
+   📊 Sentiment: 12.7% price • 26.7% buy ratio
+   🔄 Activity: 150 txns (40 buys/110 sells)
+   💧 Liquidity: $18,051
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x1883ffbc254f2f72857c38a7c00ffcfe0a7fa0223a4b8fd1e6fcc8216d3b7a67
+
+🎯 #3 NCT - Alpha Score: 25/110
+   📈 24h Stats: $1,266 vol • $70,205 mcap • 1.8% ratio
+   📊 Sentiment: -4.9% price • 52.7% buy ratio
+   🔄 Activity: 55 txns (29 buys/26 sells)
+   💧 Liquidity: $12,665
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0x6F9Ada2CCe77331B286318BBD67ABe4568dFc1AE
+
+📊 MARKET SUMMARY FOR 3 GEMS
+• Average Alpha Score: 33.3/110
+• Average Market Cap: $71,987
+• Average Volume/MCap Ratio: 3.7%
+• Top Performer: NotifAi (40/110)
+
+💡 Key Alpha Signals:
+- Buy ratio > 60% suggests accumulation phase (NotifAi shows strong buying)
+- Chains: BSC and Base showing activity
+- Trading volumes indicate early-stage interest
+
+⚠️ DISCLAIMER: High risk assets - DYOR required
+Market conditions change rapidly - monitor volume trends for breakout potential

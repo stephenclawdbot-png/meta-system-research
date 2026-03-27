@@ -1,0 +1,69 @@
+🎯 MEMECOIN ALPHA SCANNER CRON REPORT
+===================================================
+Scan Time: Tuesday, March 03, 2026 — 06:09 AM (Asia/Manila)
+Market Cap Target: $30,000 - $200,000
+Scanner: DexScreener API
+
+🔥 EXECUTIVE SUMMARY:
+• Found 10 alpha gems within target range
+• 🚀 HIGH ALPHA signals detected (2 gems with score 65+)
+• Active market conditions detected
+
+🏆 TOP ALPHA GEMS DISCOVERED:
+
+1. Coin - 🚀 HIGH ALPHA - Score: 65.7/100
+   • 📊 Buy Pressure: STRONG (100% buy ratio)
+   • 📈 Price Change: +1.6%
+   • 💰 Volume 24h: $10,019
+   • 🔥 Vol/MCap Ratio: 22.7% (excellent)
+   • 💎 MCap: $44,100
+   • 🌐 Chain: SOLANA
+   • 💧 Transactions: 239 (high velocity)
+   • 🏦 Liquidity: $37,151
+   • 🔗 Link: https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+2. memecoin - 🚀 HIGH ALPHA - Score: 65.3/100
+   • 📊 Buy Pressure: Balanced (47.8% buy ratio)
+   • 📈 Price Change: -1.4% (slight pullback)
+   • 💰 Volume 24h: $268,309
+   • 🔥 Vol/MCap Ratio: 150% (EXCELLENT)
+   • 💎 MCap: $178,514
+   • 🌐 Chain: SOLANA
+   • 💧 Transactions: 2,956 (very high velocity)
+   • 🏦 Liquidity: $78,723
+   • 🔗 Link: https://dexscreener.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4c4w
+
+3. coin - Score: 20.1/100
+   • 💰 Volume 24h: $50
+   • 💎 MCap: $162,859
+   • 🌐 Chain: BASE
+   • 🔗 Link: https://dexscreener.com/base/0x5122e02898ece3bc62df8c1efdb29a9e914244d3
+
+📊 MARKET DYNAMICS:
+• Total Alpha Candidates: 10
+• Avg Market Cap: $97,803
+• High Alpha Signals: 2 (20% of total)
+• Chains: solana (6), base (1), ethereum (1), other (2)
+
+💡 KEY INSIGHTS:
+• STRONG alpha signals detected early morning
+• Top gem shows excellent volume/mcap ratio (150%)
+• Solana remains dominant chain for emerging memecoins
+• Both high-alpha tokens show strong transaction velocity
+
+⚠️ RISK ASSESSMENT:
+• ⚡ MODERATE RISK: Volume patterns promising but market still early
+• Strong liquidity on top performers provides buffer
+
+🧠 ALPHA STRATEGY:
+• Focus on #1 gem (Coin) with 100% buy ratio + good liquidity
+• #2 gem (memecoin) offers high volume momentum for scalping
+• Monitor for sustained buy pressure
+
+🔷 RECOMMENDATIONS:
+• IMMEDIATE: Study top 2 gems for entry opportunities
+• Wait for Asian market open (7-9 AM PHT) for increased volume
+• Next scan recommended in 60-90 minutes
+
+END OF REPORT
+🔍 Scanned: DexScreener API

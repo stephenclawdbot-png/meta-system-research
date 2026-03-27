@@ -1,0 +1,47 @@
+MEMECOIN ALPHA SCANNER REPORT
+==============================
+Scan Time: Wednesday, March 04, 2026 — 10:37 AM (GMT+8)
+Target Range: $30k - $200k Market Cap
+
+🔥 TOP ALPHA FINDINGS:
+
+🎯 SHIBA (Solana - meteora) - Alpha Score: 55.6/100
+• MCap: $83,063 | 24h Volume: $114,242
+• Price Change: -58.9% | Buy Ratio: 71.0%
+• Volume/MCap Ratio: 137.5%
+• Link: https://dexscreener.com/solana/c7qdrl27zws7ur6ufi9mpvje13l7uxywrbmzfhdf2rgn
+
+🎯 SHIBA (Solana - meteora) - Alpha Score: 36.9/100  
+• MCap: $108,796 | 24h Volume: $88,716
+• Price Change: -44.5% | Buy Ratio: 64.8%
+• Volume/MCap Ratio: 81.5%
+• Link: https://dexscreener.com/solana/b3h6fqvq3jhvnshlhueumwpd7bgyvze6zh2f8epur5gl
+
+🎯 DOGE (Solana) - Potential Alpha
+• MCap: $127,566 | 24h Volume: $228
+• Price Change: +0.57% 
+• Name: Department of Gov Efficiency
+• Link: https://dexscreener.com/solana/3pvml7m24uqzudaxuymvixtkwtc5yadhtusyb8cewnjk
+
+🎯 BONK (Base) - Potential Alpha
+• MCap: $100,286 | 24h Volume: $164
+• Price Change: -2.69%
+• Link: https://dexscreener.com/base/0x176567c44342edda7aae629f7cecab246f22f69a
+
+📊 MARKET ANALYSIS:
+• SHIBA tokens showing highest alpha signals on Solana network
+• Volume/MCap ratios exceptionally high (72-137% range)
+• Strong buy pressure across most tokens (64-71% buy ratios)
+• Despite negative price action, high transaction volume suggests accumulation
+• Solana remains dominant platform for low-cap memecoins
+
+⚠️ KEY RISKS:
+• High volatility in meme token space
+• Limited liquidity for quick exits
+• Token age/rug-pull risk assessment needed
+• Always DYOR before investing
+
+🔍 RECOMMENDATION:
+Focus on the top SHIBA pair with 137% volume/mcap ratio showing consistent buyer accumulation despite price dip. Verify token age and team/project legitimacy before consideration.
+
+DISCLAIMER: This is automated analysis. Not financial advice. High risk involved.

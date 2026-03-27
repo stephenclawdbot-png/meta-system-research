@@ -1,0 +1,36 @@
+🎯 MEMECOIN ALPHA SCANNER CRON REPORT
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems  
+Scan Time: Monday, March 02, 2026 — 03:46 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP 3 ALPHA GEMS DETECTED
+------------------------------
+
+1. Solana: $151,570 MCap • 65/100 Alpha Score
+   📊 Volume: $862,891 • Buy Ratio: 52.5%
+   🔄 Txns: 13,148 buys / 11,917 sells 
+   🌐 Chain: solana
+
+2. Solana: $151,166 MCap • 65/100 Alpha Score  
+   📊 Volume: $29,290 • Buy Ratio: 52.0%
+   🔄 Txns: 239 buys / 221 sells
+   🌐 Chain: solana
+
+3. SOL: $88,082 MCap • 55/100 Alpha Score
+   📊 Volume: $18,047 • Buy Ratio: 45.8%
+   🔄 Txns: 1,000 buys / 1,185 sells
+   🌐 Chain: injective
+
+📊 MARKET SUMMARY
+• Total Candidates: 3 tokens meeting criteria
+• Average Alpha Score: 61.7/100  
+• Average Market Cap: $130,273
+• Total Volume Activity: $910,228
+
+💡 ALPHA INSIGHTS
+• First two gems show strong buy pressure (>50% buy ratio)
+• High volume relative to market cap suggests organic interest
+• Transaction activity indicates active trading community
+
+⚠️ Disclaimer: High risk memecoins - DYOR before investing

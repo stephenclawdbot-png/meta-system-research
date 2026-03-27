@@ -1,0 +1,77 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Wednesday, March 04, 2026 — 05:53 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+📊 MARKET OVERVIEW
+Total Gems Found: 9 tokens
+Average Alpha Score: 4.0/100
+Average Market Cap: $95,744
+Average Volume: $1,777
+
+💡 ALPHA SIGNAL ANALYSIS
+Strong Alpha (>60): 0 gems
+Moderate Alpha (40-60): 0 gems
+Weak Alpha (<40): 9 gems
+
+🔥 TOP ALPHA CANDIDATES
+#1 Coin - Alpha: 9.1/100
+  📊 MCap: $43,236 | Vol: $8,032
+  📈 Change: -1.9% | Vol/MCap: 18.6%
+  ⚡ Activity: 2 txns
+  🌐 Chain: solana | Dex: pumpswap
+
+#2 ELON - Alpha: 9.0/100
+  📊 MCap: $54,312 | Vol: $1,063
+  📈 Change: 11.9% | Vol/MCap: 2.0%
+  ⚡ Activity: 2 txns
+  🌐 Chain: pulsechain | Dex: pulsex
+
+#3 SHIB - Alpha: 3.9/100
+  📊 MCap: $81,081 | Vol: $734
+  📈 Change: -8.3% | Vol/MCap: 0.9%
+  ⚡ Activity: 2 txns
+  🌐 Chain: solana | Dex: raydium
+
+#4 KITTY - Alpha: 3.2/100
+  📊 MCap: $100,877 | Vol: $2,406
+  📈 Change: -3.8% | Vol/MCap: 2.4%
+  ⚡ Activity: 2 txns
+  🌐 Chain: solana | Dex: pumpswap
+
+#5 PEPE - Alpha: 2.5/100
+  📊 MCap: $119,309 | Vol: $707
+  📈 Change: -4.0% | Vol/MCap: 0.6%
+  ⚡ Activity: 2 txns
+  🌐 Chain: solana | Dex: raydium
+
+#6 AI - Alpha: 2.4/100
+  📊 MCap: $120,117 | Vol: $823
+  📈 Change: -3.3% | Vol/MCap: 0.7%
+  ⚡ Activity: 2 txns
+  🌐 Chain: bsc | Dex: pancakeswap
+
+#7 DOG - Alpha: 2.3/100
+  📊 MCap: $37,894 | Vol: $651
+  📈 Change: -1.9% | Vol/MCap: 1.7%
+  ⚡ Activity: 2 txns
+  🌐 Chain: starknet | Dex: ekubo
+
+#8 CAT - Alpha: 1.9/100
+  📊 MCap: $144,336 | Vol: $784
+  📈 Change: 0.9% | Vol/MCap: 0.5%
+  ⚡ Activity: 2 txns
+  🌐 Chain: solana | Dex: raydium
+
+#9 coin - Alpha: 1.7/100
+  📊 MCap: $160,531 | Vol: $792
+  📈 Change: -1.5% | Vol/MCap: 0.5%
+  ⚡ Activity: 2 txns
+  🌐 Chain: base | Dex: uniswap
+
+📋 TRADING SIGNALS
+
+🔴 LIMITED SIGNAL: Market conditions not optimal for alpha
+
+ℹ️ Next scan in 5 minutes
+⚠️ DISCLAIMER: High-risk speculative assets - DYOR required

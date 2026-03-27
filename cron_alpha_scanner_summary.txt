@@ -1,0 +1,28 @@
+🧠 ALPHA SCANNER SUMMARY - DexScreener API
+========================================
+Scan Time: Wednesday, March 11, 2026 — 01:48 PM (Asia/Manila)
+Market Cap Focus: $30,000 - $200,000
+
+🔍 QUICK FINDINGS:
+• Total tokens found: 21
+• Target range: $30K-$200K MCap
+• Chains covered: Solana, Ethereum, BSC, Base, Cronos, Stacks, XRPL, TON, Hyperliquid, HyperEVM
+
+🔥 TOP PERFORMERS:
+• Highest Momentum: PEPE (+37.54% on Hyperliquid)
+• Highest Volume: Memecoin ($19,455 volume)
+• Best Liquidity: Memecoin ($476,249 liquidity)
+• Most Active: Memecoin (1047 buys / 1037 sells)
+
+💡 KEY INSIGHTS:
+• PEPE tokens show strongest momentum across multiple chains
+• Solana chain dominates with 6 tokens found
+• Memecoin on Solana shows best overall metrics
+• Limited activity on most smaller-cap tokens
+
+⚠️ WARNING:
+• HIGH RISK - Memecoins are extremely volatile
+• Conduct thorough research before any investment
+• Many tokens have low trading volume and liquidity
+
+📊 Ready for further analysis. Full report saved to memecoin_alpha_scanner_report.txt

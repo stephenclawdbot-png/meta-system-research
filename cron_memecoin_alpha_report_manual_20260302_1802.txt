@@ -1,0 +1,60 @@
+🎯 MEMECOIN ALPHA SCANNER CRON REPORT
+===================================================
+Scan Time: Monday, March 02, 2026 — 06:02 PM (Asia/Manila)
+Market Cap Target: $30,000 - $200,000
+Scanner: DexScreener API
+
+🔥 EXECUTIVE SUMMARY:
+• Found 13 alpha gems within target range
+• 🚀 STRONG ALPHA signal detected - high-scoring gem identified
+• Market Status: ACTIVE - multiple coins showing momentum
+
+🏆 TOP ALPHA GEMS DISCOVERED:
+
+1. memecoin - 🚀 STRONG ALPHA - Score: 81.3/100
+   • 📊 Buy Pressure: 63.0% buys (strong accumulation)
+   • 📈 Price Change: +102.0% (massive momentum)
+   • 💰 Volume 24h: $41,926.67
+   • 🔥 Vol/MCap Ratio: 28.9%
+   • 💎 MCap: $144,756
+   • 🌐 Chain: SOLANA
+   • 🔗 Link: https://dexscreener.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4cety
+
+2. Coin - 🌟 LIGHT ALPHA - Score: 52.8/100
+   • 📊 Buy Pressure: 62.5% buys
+   • 📈 Price Change: +0.1%
+   • 💰 Volume 24h: $8,576.72
+   • 🔥 Vol/MCap Ratio: 18.2%
+   • 💎 MCap: $47,066
+   • 🌐 Chain: SOLANA
+   • 🔗 Link: https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+📊 MARKET DYNAMICS:
+• Total Alpha Candidates: 13
+• Avg Market Cap: $105,932
+• High Alpha Count: 1 (≥60 score)
+• Medium Alpha Count: 1 (40-59 score)
+• Active Coin Chains: solana, base
+
+💡 KEY INSIGHTS:
+• One gem showing explosive growth (+102%️⃣ in 1h)
+• Strong buying pressure on top performers (>60% buys)
+• Solana chain dominates the alpha landscape
+
+⚠️ RISK ASSESSMENT:
+• 🔴 HIGH RISK: Top gem shows extreme volatility
+• 🟡 MEDIUM RISK: Multiple coins with low liquidity
+• Use extreme caution - market appears overheated
+
+🧠 ALPHA STRATEGY:
+• Potential early entry opportunity on top gem
+• Monitor for continuation pattern
+• Set tight stop losses given volatility
+
+🔷 RECOMMENDATIONS:
+• Immediate attention recommended for #1 gem
+• Watch volume sustainment over next 60 minutes
+• Next scan in 15-30 minutes for momentum confirmation
+
+END OF REPORT
+🔍 Scanned: DexScreener API

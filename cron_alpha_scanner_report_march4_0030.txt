@@ -1,0 +1,86 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Wednesday, March 04, 2026 — 12:30 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP 11 ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 Corndogcat - Alpha Score: 100/100
+   📈 24h Stats: $286,523 vol • $191,813 mcap • 149.4% ratio
+   📊 Sentiment: 368.0% price • 81.8% buy ratio
+   🔄 Activity: 7134 txns (5839 buys/1295 sells)
+   💧 Liquidity: $35,113
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/8y3gsss9xn6jbrqkubfq75fyrjqmdnr6kebhyeupzbv
+
+🎯 #2 Rubio - Alpha Score: 85/100
+   📈 24h Stats: $436,089 vol • $162,758 mcap • 267.9% ratio
+   📊 Sentiment: 87.5% price • 58.1% buy ratio
+   🔄 Activity: 4710 txns (2735 buys/1975 sells)
+   💧 Liquidity: $35,558
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/ebqehubis8ewmitwen6vzus3hmoacwborqjxrvchsxjz
+
+🎯 #3 SKILL - Alpha Score: 85/100
+   📈 24h Stats: $194,923 vol • $83,807 mcap • 232.6% ratio
+   📊 Sentiment: 52.9% price • 51.9% buy ratio
+   🔄 Activity: 3174 txns (1648 buys/1526 sells)
+   💧 Liquidity: $27,971
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xcc880b57f1bd475380d0b853f138873cf0a6b60b
+
+🎯 #4 AIBinance - Alpha Score: 80/100
+   📈 24h Stats: $8,237 vol • $32,126 mcap • 25.6% ratio
+   📊 Sentiment: 702.0% price • 98.5% buy ratio
+   🔄 Activity: 650 txns (640 buys/10 sells)
+   💧 Liquidity: $0
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xcfd8de0f9ca680b6201bf7d448e604c10f3a4444:4memo
+
+🎯 #5 Bnb Agent - Alpha Score: 75/100
+   📈 24h Stats: $10,722 vol • $39,116 mcap • 27.4% ratio
+   📊 Sentiment: 984.0% price • 96.0% buy ratio
+   🔄 Activity: 481 txns (462 buys/19 sells)
+   💧 Liquidity: $0
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xa846f3134456ed45505011ee2156e811caf74444:4memo
+
+🎯 #6 memecoin - Alpha Score: 70/100
+   📈 24h Stats: $109,494 vol • $95,517 mcap • 114.6% ratio
+   📊 Sentiment: -27.1% price • 58.7% buy ratio
+   🔄 Activity: 1720 txns (1009 buys/711 sells)
+   💧 Liquidity: $57,441
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4cety
+
+🎯 #7 SHANE - Alpha Score: 70/100
+   📈 24h Stats: $11,583 vol • $47,219 mcap • 24.5% ratio
+   📊 Sentiment: 1199.0% price • 93.6% buy ratio
+   🔄 Activity: 575 txns (538 buys/37 sells)
+   💧 Liquidity: $0
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xd6b005fcdb0536b8f75afdae01ce63064d8b4444:4memo
+
+🎯 #8 meme rush - Alpha Score: 20/100
+   📈 24h Stats: $869 vol • $168,425 mcap • 0.5% ratio
+   📊 Sentiment: -3.6% price • 57.1% buy ratio
+   🔄 Activity: 35 txns (20 buys/15 sells)
+   💧 Liquidity: $151,563
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0x79733327603b067f6ec6a2f111a16799cfbaf99b
+
+📊 MARKET SUMMARY FOR 11 GEMS
+• Average Alpha Score: 56.8/100
+• Average Market Cap: $105,169
+• Average Volume/MCap Ratio: 77.1%
+• Top Performer: Corndogcat (100/100)
+
+💡 Key Alpha Signals:
+- Volume/Mcap ratio > 25% indicates strong interest
+- Buy ratio > 60% suggests accumulation phase
+- High transaction volume = active community
+
+⚠️ DISCLAIMER: High risk assets - DYOR required
+Next scan in 5 minutes

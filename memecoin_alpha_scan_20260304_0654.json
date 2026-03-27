@@ -1,0 +1,48 @@
+{
+  "scan_timestamp": "Wednesday, March 04, 2026 — 06:54 AM (Asia/Manila)",
+  "market_cap_range": [30000, 200000],
+  "total_gems_found": 14,
+  "average_alpha_score": 26.8,
+  "top_gems": [
+    {
+      "symbol": "ATELIER",
+      "name": "Atelier",
+      "alpha_score": 85,
+      "market_cap": 97704,
+      "volume_24h": 19887.13,
+      "price_change_24h": 157.0,
+      "liquidity": 24493.36,
+      "transactions": 243,
+      "buy_sell_ratio": 60.1,
+      "chain": "solana",
+      "dex_url": "https://dexscreener.com/solana/5BFaLxKRG5T9P9LvvL1nawsLw1zcZcKkrtqzC1Rawv6Z"
+    },
+    {
+      "symbol": "NotifAi",
+      "name": "NotifAi News",
+      "alpha_score": 60,
+      "market_cap": 107600,
+      "volume_24h": 16288.68,
+      "price_change_24h": 0.14,
+      "liquidity": 37453.06,
+      "transactions": 153,
+      "buy_sell_ratio": 53.6,
+      "chain": "bsc",
+      "dex_url": "https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0"
+    },
+    {
+      "symbol": "Coin",
+      "name": "Coin",
+      "alpha_score": 55,
+      "market_cap": 47179,
+      "volume_24h": 8608.69,
+      "price_change_24h": 6.39,
+      "liquidity": 38244.44,
+      "transactions": 196,
+      "buy_sell_ratio": 58.7,
+      "chain": "solana",
+      "dex_url": "https://dexscreener.com/solana/FjT1DpbREUesu2r1DQfHxFATK9uitWAu4BdvNNvM4C4w"
+    }
+  ],
+  "summary": "Alpha scan successfully completed for sub 30k-200k mcap memecoins. Top performer ATELIER shows strong momentum with 157% price increase, 20.4% volume/mcap ratio, and healthy buy/sell pressure of 60.1%. Market conditions are active with multiple gems showing accumulating patterns."
+}

@@ -1,0 +1,59 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON EXECUTION
+==================================================
+Scan Time: Friday, March 06, 2026 — 11:05 PM (Asia/Manila)
+Market Focus: $30k-$200k memecoins
+Alpha Detection: Pre-mainstream attention
+
+📊 MARKET OVERVIEW
+Alpha Candidates Found: 11 tokens
+Average Alpha Score: 35.2/100
+Average Market Cap: $119,543
+Average Volume: $743,603
+
+💡 ALPHA SIGNALS
+Strong (>60): 3 tokens
+Moderate (40-60): 0 tokens
+Weak (<40): 8 tokens
+
+🔥 TOP ALPHA GEMS
+#1 Pup — Alpha: 87.1/100
+   💰 MCap: $102,865 | Vol: $7,722,324
+   📈 24h: ▲441.0%
+   🔥 Vol/MCap: 7507.2%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/d9d7clxtd7mm32dyfvnofccws3trrgczpuwjukexhpmq
+
+#2 MEME — Alpha: 74.3/100
+   💰 MCap: $175,873 | Vol: $367,964
+   📈 24h: ▲312.0%
+   🔥 Vol/MCap: 209.2%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/4ko9uzukugjp9ojzt8pkifnemyp8wuyz8llfacb8ieog
+
+#3 Coin — Alpha: 64.7/100
+   💰 MCap: $60,226 | Vol: $53,404
+   📉 24h: ▼26.7%
+   🔥 Vol/MCap: 88.7%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+#4 KITTY — Alpha: 33.4/100
+   💰 MCap: $88,948 | Vol: $6,142
+   📉 24h: ▼26.5%
+   🔥 Vol/MCap: 6.9%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/hsrtbrwab29bpg6weshz61y6vybzvjjzoreguqtupfm9
+
+#5 Baby — Alpha: 26.8/100
+   💰 MCap: $188,514 | Vol: $23,356
+   📉 24h: ▼8.2%
+   🔥 Vol/MCap: 12.4%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/4qbzhs2ecgmvyx77hrexrlvu4hyy4eesmwrdr8xsefqo
+
+📋 TRADING OUTLOOK
+✅ STRONG SIGNAL DETECTED: Pup showing alpha potential
+Consider strategic position entry with tight risk management
+
+ℹ️ Next alpha scan in 5 minutes
+⚠️ DISCLAIMER: High-risk, speculative assets - NFA

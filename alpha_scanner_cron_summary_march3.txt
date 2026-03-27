@@ -1,0 +1,41 @@
+🧠 MEMECOIN ALPHA SCANNER - Sub $30K-$200K MCAP Detection
+======================================================================
+Scan Time: Tuesday, March 03, 2026 — 12:53 AM (Asia/Manila)
+Scanning DexScreener for trending memecoins with volume momentum...
+
+✅ FOUND 5 ALPHA MEMECOINS
+--------------------------------------------------
+
+TOP ALPHA PICKS:
+
+1. 🎯 Cat - Alpha Score: 70.0/100
+   • Market Cap: $38,477
+   • Volume 24h: $3.01
+   • Vol/MCap Ratio: 0.0%
+   • Price Change: 0.53%
+   • Buy Ratio: 100.0%
+   • Chain: BSC
+
+2. 🎯 PEPE - Alpha Score: 47.6/100
+   • Market Cap: $113,264
+   • Volume 24h: $698.69
+   • Vol/MCap Ratio: 0.6%
+   • Price Change: -3.50%
+   • Buy Ratio: 66.7%
+   • Chain: Solana
+
+3. 🎯 DOGE - Alpha Score: 39.9/100
+   • Market Cap: $130,886
+   • Volume 24h: $855.8
+   • Vol/MCap Ratio: 0.7%
+   • Price Change: 5.18%
+   • Buy Ratio: 55.6%
+   • Chain: Solana
+
+📊 SUMMARY
+• Total Alpha Candidates: 5
+• Avg Market Cap: $103,686
+• Avg Volume Ratio: 0.5%
+• Avg Alpha Score: 44.8/100
+
+⚠️ HIGH RISK MEMECOIN TRADING - ALWAYS DO YOUR OWN RESEARCH

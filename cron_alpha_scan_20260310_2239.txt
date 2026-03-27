@@ -1,0 +1,59 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON EXECUTION
+==================================================
+Scan Time: Tuesday, March 10, 2026 — 10:39 PM (Asia/Manila)
+Market Focus: $30k-$200k memecoins
+Alpha Detection: Pre-mainstream attention
+
+📊 MARKET OVERVIEW
+Alpha Candidates Found: 11 tokens
+Average Alpha Score: 35.1/100
+Average Market Cap: $106,119
+Average Volume: $49,679
+
+💡 ALPHA SIGNALS
+Strong (>60): 2 tokens
+Moderate (40-60): 1 tokens
+Weak (<40): 8 tokens
+
+🔥 TOP ALPHA GEMS
+#1 Token — Alpha: 81.7/100
+   💰 MCap: $133,958 | Vol: $509,440
+   📈 24h: ▲416.0%
+   🔥 Vol/MCap: 380.3%
+   🌐 Chain: solana | Dex: raydium
+   🔗 https://dexscreener.com/solana/arf1k9dnzeflbgdnurqysmighfz6higxpdfusqthkpm
+
+#2 Coin — Alpha: 62.2/100
+   💰 MCap: $50,487 | Vol: $9,042
+   📉 24h: ▼30.5%
+   🔥 Vol/MCap: 17.9%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+#3 Baby — Alpha: 41.9/100
+   💰 MCap: $147,630 | Vol: $9,517
+   📈 24h: ▲13.2%
+   🔥 Vol/MCap: 6.4%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/4qbzhs2ecgmvyx77hrexrlvu4hyy4eesmwrdr8xsefqo
+
+#4 DOG — Alpha: 36.1/100
+   💰 MCap: $38,571 | Vol: $688
+   📈 24h: ▲2.7%
+   🔥 Vol/MCap: 1.8%
+   🌐 Chain: starknet | Dex: ekubo
+   🔗 https://dexscreener.com/starknet/0x040e81cfeb176bfdbc5047bbc55eb471cfab20a6b221f38d8fda134e1bfffca4-0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d-3402823669209384634633746074317682114-19802-0x0
+
+#5 SHIB — Alpha: 31.1/100
+   💰 MCap: $88,524 | Vol: $1,395
+   📈 24h: ▲5.5%
+   🔥 Vol/MCap: 1.6%
+   🌐 Chain: solana | Dex: raydium
+   🔗 https://dexscreener.com/solana/36y1lqjqnl7jpu4huofhgegxnqhkjgggkg5insukrtur
+
+📋 TRADING OUTLOOK
+✅ STRONG SIGNAL DETECTED: Token showing alpha potential
+Consider strategic position entry with tight risk management
+
+ℹ️ Next alpha scan in 5 minutes
+⚠️ DISCLAIMER: High-risk, speculative assets - NFA

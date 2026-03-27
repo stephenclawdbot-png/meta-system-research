@@ -1,0 +1,71 @@
+🧠 MEMECOIN ALPHA SCANNER - 30K-200K MCAP FOCUS
+==================================================
+Scan Time: Wednesday, March 04, 2026 — 04:02 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP 6 ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 AI - Alpha Score: 76.3/100
+   📈 24h Stats: $39,463 vol • $48,314 mcap • 81.7% ratio
+   📊 Sentiment: 77.7% price growth • Active on Solana
+   🔄 Dex: Raydium
+   💧 Liquidity: Healthy pool
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #2 AI - Alpha Score: 10.8/100
+   📈 24h Stats: $8,674 vol • $101,309 mcap • 8.6% ratio
+   📊 Sentiment: 16.0% price growth • Steady performance
+   🔄 Dex: Raydium
+   💧 Liquidity: Moderate
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/dpawppcceyb99wnncoqsmgexauhnmqfxe79mnnvvtphc
+
+🎯 #3 ELON - Alpha Score: 5.3/100
+   📈 24h Stats: $1,063 vol • $53,801 mcap • 2.0% ratio
+   📊 Sentiment: 13.2% price growth
+   🔄 Dex: PulseX
+   💧 Liquidity: Minimal
+   🌐 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x2dcee3eba5de855ad27e8bdfe39a0869761e7e72
+
+🎯 #4 DOG - Alpha Score: 1.1/100
+   📈 24h Stats: $651 vol • $37,894 mcap • 1.7% ratio
+   📊 Sentiment: -1.9% price decline
+   🔄 Dex: Ekubo
+   💧 Liquidity: Small pool
+   🌐 Chain: starknet
+   🔗 https://dexscreener.com/starknet/0x040e81cfeb176bfdbc5047bbc55eb471cfab20a6b221f38d8fda134e1bfffca4-0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d-3402823669209384634633746074317682114-19802-0x0
+
+🎯 #5 DOGE - Alpha Score: 3.6/100
+   📈 24h Stats: $679 vol • $62,627 mcap • 1.1% ratio
+   📊 Sentiment: 9.5% price growth
+   🔄 Dex: PulseX
+   💧 Liquidity: Minimal
+   🌐 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x56aece39050608a7944908a1754d0397067aa435
+
+🎯 #6 PEPE - Alpha Score: 0.6/100
+   📈 24h Stats: $1,134 vol • $144,067 mcap • 0.8% ratio
+   📊 Sentiment: -6.5% price decline
+   🔄 Dex: Meteora
+   💧 Liquidity: Stable pool
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/8lvqv2jgnvcx1ndtmhd5ahx8zujetflwygq9mtdfphxe
+
+📊 MARKET SUMMARY
+• Average Alpha Score: 16.0/100
+• Average Market Cap: $80,879
+• Average Volume/MCap Ratio: 2.1%
+• Top Performer: AI token #1 (76.3/100)
+• Total Gems Found: 49 tokens
+
+💡 MARKET INSIGHTS
+- Current scan shows weaker alpha signals compared to yesterday
+- Volume/MCap ratios significantly lower than previous reports
+- Only one strong alpha gem detected (AI token with 76.3% score)
+- Overall market appears quieter during early morning hours
+
+⚠️ DISCLAIMER: High risk memecoin scanning - Always DYOR

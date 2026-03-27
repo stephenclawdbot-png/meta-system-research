@@ -1,0 +1,65 @@
+🚀 MEMECOIN ALPHA SCANNER
+==================================================
+Scan Time: Wednesday, March 04, 2026 — 08:42 PM ()
+Market Focus: $30k-$200k MCap MEMECOINS
+Alpha Detection: Pre-mainstream attention
+
+📊 MARKET OVERVIEW
+Memecoin Candidates: 13 tokens
+Average Alpha Score: 62.1/100
+Average MCap: $105,393
+Average Volume: $34,313
+
+💡 ALPHA POTENTIAL
+Strong (>60): 6 tokens
+Moderate (40-60): 7 tokens
+Weak (<40): 0 tokens
+
+💎 TOP MEMECOIN GEMS
+#1 WIF — Alpha: 95.0/100
+   💰 MCap: $61,584 | Vol: $375,086
+   📈 24h: ▲748.0%
+   🔥 Vol/MCap: 609.1%
+   💸 Buy Ratio: 71.4%
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/edjswcDXhBKm1DYDzwSVoWYj2KQZhHsUcBgUSRM7CTc
+
+#2 KITTY — Alpha: 90.0/100
+   💰 MCap: $142,930 | Vol: $53,218
+   📈 24h: ▲17.4%
+   🔥 Vol/MCap: 37.2%
+   💸 Buy Ratio: 70.7%
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x2F2daadDF32dD1310054aEE790dD0B4B2af1272E
+
+#3 KITTY — Alpha: 73.0/100
+   💰 MCap: $105,411 | Vol: $6,207
+   📈 24h: ▲6.0%
+   🔥 Vol/MCap: 5.9%
+   💸 Buy Ratio: 50.2%
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/HsRtbRWaB29bPg6wESHz61y6VYbZvJJzoreGuqTupfM9
+
+#4 MOON — Alpha: 70.0/100
+   💰 MCap: $62,042 | Vol: $4,647
+   📈 24h: ▲17.5%
+   🔥 Vol/MCap: 7.5%
+   💸 Buy Ratio: 54.3%
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/Ens8x7yuKSb1Pw7PVzS9Aw6bVJzCsjeKM1o1DvFTtB45
+
+#5 ELON — Alpha: 61.0/100
+   💰 MCap: $56,767 | Vol: $165
+   📈 24h: ▲6.5%
+   🔥 Vol/MCap: 0.3%
+   💸 Buy Ratio: 61.5%
+   🌐 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x2dCEe3EBa5de855ad27e8BDfE39A0869761E7e72
+
+📋 TRADING OUTLOOK
+🎯 STRONG ALPHA: WIF showing memecoin potential
+Consider small position with strict risk management
+
+ℹ️ Next scan in 5 minutes
+💎 Focus on actual memecoins, excluding large caps
+⚠️ HIGH RISK - Memecoins are volatile - NFA

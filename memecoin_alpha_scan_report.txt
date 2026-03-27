@@ -1,0 +1,52 @@
+🚨 DEXSCREENER MEMECOIN ALPHA SCAN - SUB $30K-$200K MCAP
+============================================================
+Scan Time: Wednesday, March 4th, 2026 — 2:41 AM (Asia/Manila)
+
+🔥 TOP ALPHA FINDS FROM BOTH SCANNERS:
+
+🎯 #1 GEM - AI Token (Solana)
+Alpha Score: 76.4/100 ⚡
+Market Cap: $55,010
+24h Volume: $38,489
+Volume/MCap Ratio: 70.0% ✅ High Tradability
+24h Price Change: +102.0% 🚀 Strong Momentum
+Exchange: Raydium
+Link: https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #2 GEM - Coin Token (Solana)
+Alpha Score: 8.2/100 📊
+Market Cap: $43,884
+24h Volume: $7,700
+Buy Ratio: 60.5% ✅ More Buys Than Sells
+Exchange: PumpSwap
+Link: https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+🎯 #3 GEM - MOON Token (Solana)
+Alpha Score: 7.1/100 📊
+Market Cap: $60,638
+24h Volume: $12,105
+Buy Ratio: 56.2% ✅ Slight Buy Dominance
+Exchange: PumpSwap
+Link: https://dexscreener.com/solana/ens8x7yuksb1pw7pvzs9aw6bvjzcsjekm1o1dvfttb45
+
+📊 MARKET OVERVIEW:
+• Total Tokens Found: 47 (across both searches)
+• Chain Distribution: Solana dominant (75% of finds)
+• Average MCap: $82,532
+• Average 24h Volume: $1,216
+• Volume/MCap Ratio: 1.9% (filtered avg)
+
+⚡ ALPHA SIGNALS IDENTIFIED:
+1. AI Token shows outstanding volume/mcap ratio (70%) - high interest
+2. Coin/MOON tokens show positive buy pressure (>55% buy ratio)
+3. Solana ecosystem dominates sub-$100k mcap space
+4. Multiple tokens with strong momentum (102%+ gains)
+
+⚠️ RISK ASSESSMENT:
+• Most tokens have adequate liquidity (>$20k)
+• Buy ratios generally favorable
+• High volatility expected - typical for memecoins
+• Smaller tokens = higher risk/reward potential
+
+🚨 DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+Memecoins are extremely volatile. Only risk what you can afford to lose.

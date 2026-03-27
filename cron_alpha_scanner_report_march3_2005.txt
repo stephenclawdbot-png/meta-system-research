@@ -1,0 +1,78 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Tuesday, March 03, 2026 — 08:05 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP 7 ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 Rubio - Alpha Score: 85/100
+   📈 24h Stats: $396,847 vol • $171,446 mcap • 231.5% ratio
+   📊 Sentiment: 96.7% price • 56.8% buy ratio
+   🔄 Activity: 4393 txns (2496 buys/1897 sells)
+   💧 Liquidity: $35,929
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/ebqehubis8ewmitwen6vzus3hmoacwborqjxrvchsxjz
+
+🎯 #2 memecoin - Alpha Score: 70/100
+   📈 24h Stats: $156,300 vol • $95,494 mcap • 163.7% ratio
+   📊 Sentiment: -36.6% price • 58.3% buy ratio
+   🔄 Activity: 2150 txns (1253 buys/897 sells)
+   💧 Liquidity: $56,705
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4cety
+
+🎯 #3 AgenticMeme  - Alpha Score: 70/100
+   📈 24h Stats: $11,574 vol • $47,493 mcap • 24.4% ratio
+   📊 Sentiment: 1206.0% price • 95.0% buy ratio
+   🔄 Activity: 539 txns (512 buys/27 sells)
+   💧 Liquidity: $0
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xae0a7041fae8b471906b07eb86a9afafba7d4444:4meme
+
+🎯 #4 木鱼 - Alpha Score: 25/100
+   📈 24h Stats: $1,395 vol • $40,987 mcap • 3.4% ratio
+   📊 Sentiment: 11.1% price • 67.5% buy ratio
+   🔄 Activity: 40 txns (27 buys/13 sells)
+   💧 Liquidity: $0
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0x41ee8a66e1e67eb0c425b6b35c24200dc85fffff:4meme
+
+🎯 #5 lolcoin - Alpha Score: 20/100
+   📈 24h Stats: $624 vol • $101,074 mcap • 0.6% ratio
+   📊 Sentiment: -1.1% price • 53.3% buy ratio
+   🔄 Activity: 15 txns (8 buys/7 sells)
+   💧 Liquidity: $46,325
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/g4qdcj8pkmsuwkgohwozzqvqcd5kxs15pcbntep79n5b
+
+🎯 #6 TN100x - Alpha Score: 10/100
+   📈 24h Stats: $1,594 vol • $181,771 mcap • 0.9% ratio
+   📊 Sentiment: -0.3% price • 30.4% buy ratio
+   🔄 Activity: 23 txns (7 buys/16 sells)
+   💧 Liquidity: $78,256
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x8f5f1d63599362115e7f9fe71bfd5ab883d82c82
+
+🎯 #7 meme rush - Alpha Score: 10/100
+   📈 24h Stats: $933 vol • $169,146 mcap • 0.6% ratio
+   📊 Sentiment: 1.2% price • 47.5% buy ratio
+   🔄 Activity: 40 txns (19 buys/21 sells)
+   💧 Liquidity: $152,225
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0x79733327603b067f6ec6a2f111a16799cfbaf99b
+
+📊 MARKET SUMMARY FOR 7 GEMS
+• Average Alpha Score: 41.4/100
+• Average Market Cap: $115,344
+• Average Volume/MCap Ratio: 60.7%
+• Top Performer: Rubio (85/100)
+
+💡 Key Alpha Signals:
+- Volume/Mcap ratio > 25% indicates strong interest
+- Buy ratio > 60% suggests accumulation phase
+- High transaction volume = active community
+
+⚠️ DISCLAIMER: High risk assets - DYOR required
+Next scan in 5 minutes

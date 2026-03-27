@@ -1,0 +1,44 @@
+🎯 SOLANA MEMECOIN ALPHA SCANNER REPORT
+================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: Tuesday, March 03, 2026 — 07:38 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Chain Filter: Solana Only
+
+🔥 TOP 3 ALPHA MEMECOINS (3 total)
+----------------------------------------
+1. WORTHLESS - Alpha Score: 82/80
+   💰 Market Cap: $36,995
+   📈 24h Volume: $99,064 (267.8%)
+   📊 Price Change: -57.0%
+   💧 Liquidity: $16,749
+   🔄 Transactions: 2224 (1340 buys/884 sells - 60.3%)
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/bzh1prugyv6bvsbaos7qoyqstaqotfwr8jastnfbxjeo
+
+2. KM - Alpha Score: 15/80
+   💰 Market Cap: $78,150
+   📈 24h Volume: $1,299 (1.7%)
+   📊 Price Change: -5.6%
+   💧 Liquidity: $60,434
+   🔄 Transactions: 29 (12 buys/17 sells - 41.4%)
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/6r3yy5hpj2rugzwx6ex4svsorek87jeobu2hwh5xhue2
+
+3. rogen - Alpha Score: 15/80
+   💰 Market Cap: $41,977
+   📈 24h Volume: $111 (0.3%)
+   📊 Price Change: 0.0%
+   💧 Liquidity: $21,182
+   🔄 Transactions: 1 (0 buys/1 sells - 0.0%)
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/d6ozs87rmdquxgsxk7swfyqztmqw5rvfahthcndjcwqg
+
+📊 MARKET SUMMARY
+• Total Candidates: 3
+• Average Alpha Score: 37.3/80
+• Average Market Cap: $52,374
+• Average Volume/MCap Ratio: 89.9%
+
+💡 Detecting alpha memecoins before mainstream attention
+DYOR - High risk volatile assets

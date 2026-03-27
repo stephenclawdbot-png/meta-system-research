@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-21T00:53:52.328935",
+  "alerts": [
+    {
+      "symbol": "BTC",
+      "type": "momentum_trend",
+      "direction": "bullish",
+      "strength": 3.5,
+      "current_price": 67625.0
+    },
+    {
+      "symbol": "ETH",
+      "type": "volume_spike",
+      "factor": 2.4,
+      "current_volume": 22000000000,
+      "avg_volume": 19000000000
+    }
+  ],
+  "sentiment": {
+    "BTC": "bullish",
+    "ETH": "bullish",
+    "SOL": "neutral"
+  },
+  "message": "\u26a1 **TEST ALERT** \u26a1\nTest of Telegram alert pipeline\nMarket movement detected"
+}

@@ -1,0 +1,49 @@
+💎 ALPHA SCANNER CRON REPORT - 30K-200K MCAP GEMS
+================================================================
+
+⏰ Scan Time: Tuesday, February 17th, 2026 — 3:52 AM (Asia/Manila)
+🎯 Target Range: $30,000 - $200,000 Market Cap
+🔍 Sources: DexScreener API
+
+TOP ALPHA FINDS:
+
+🏆 #1: PEPE (Pepe By Matt Furie)
+• Alpha Score: 70/80 ⭐⭐⭐⭐
+• Market Cap: $166,301
+• 24h Volume: $6,365
+• Price Change: +1.5%
+• Liquidity: $28,758
+• Transactions: 40 buys / 23 sells
+• Trend: Strong buy pressure, good momentum
+
+🏆 #2: Catcoin
+• Alpha Score: 65/80 ⭐⭐⭐⭐
+• Market Cap: $35,446
+• 24h Volume: $46,971 (HIGH volume!)
+• Price Change: -16.9% (dip buying opportunity)
+• Liquidity: $15,738
+• Transactions: 584 buys / 383 sells
+• Trend: Massive volume, healthy ratio
+
+🏆 #3: PEPE (Another PEPE variant)
+• Alpha Score: 60/80 ⭐⭐⭐
+• Market Cap: $122,073
+• 24h Volume: $980
+• Price Change: +8.8%
+• Liquidity: $41,183
+• Transactions: 19 buys / 2 sells (94% buy ratio!)
+• Trend: Extreme buy pressure
+
+OTHER NOTABLE FINDS:
+• AI (Artificial Inu): $93k mcap, strong volume at $4,715
+• APE variants: Multiple ApeCoin clones showing steady activity
+• SHIB: Classic meme still active in this range
+
+💡 MARKET ANALYSIS:
+• Total Alpha Gems Found: 10
+• Market appears active with memecoin rotation
+• Multiple PEPE variants gaining traction
+• Volume-leader Catcoin shows significant trader interest despite dip
+• Buy ratios generally healthy across finds
+
+⚠️ DISCLAIMER: DYOR - high-risk category tokens

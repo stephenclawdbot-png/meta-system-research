@@ -1,0 +1,90 @@
+🧠 MEMECOIN ALPHA SCANNER REPORT - 30K-200K MCAP FOCUS
+============================================================
+Scan Time: Tuesday, March 10, 2026 — 11:39 PM (Asia/Manila)
+Current Time: Tuesday, March 10, 2026 — 11:40 PM (Asia/Manila)
+Target Range: $30k - $200k Market Cap
+
+🔥 TOP ALPHA MEMECOINS DETECTED:
+--------------------------------------------------
+🎯 #1 GEM - Alpha Score: 100/100
+   💰 MCap: $73,827 | Vol: $145,464
+   📈 24h Change: 58.2%
+   🔥 Vol/MCap Ratio: 197.0%
+   🌐 Dex: uniswap | Chain: base
+   🔗 https://dexscreener.com/base/0x1eb03cf98a9f810da36032aa84688e91285884d1629385fb8827ffeb380a842f
+
+🎯 #2 SOL - Alpha Score: 22.2/100
+   💰 MCap: $93,243 | Vol: $28,413
+   📈 24h Change: 3.7%
+   🔥 Vol/MCap Ratio: 30.5%
+   🌐 Dex: helix | Chain: injective
+   🔗 https://dexscreener.com/injective/0xd9089235d2c1b07261cbb2071f4f5a7f92fa1eca940e3cad88bb671c288a972f
+
+🎯 #3 APE - Alpha Score: 20.3/100
+   💰 MCap: $54,910 | Vol: $16,453
+   📈 24h Change: 2.4%
+   🔥 Vol/MCap Ratio: 30.0%
+   🌐 Dex: prjx | Chain: hyperevm
+   🔗 https://dexscreener.com/hyperevm/0xfbae5c7c1edaee089e2c3867f6dfb9cecff0f0a3
+
+🎯 #4 Degen - Alpha Score: 18.3/100
+   💰 MCap: $75,388 | Vol: $20,460
+   📈 24h Change: -10.1%
+   🔥 Vol/MCap Ratio: 27.1%
+   🌐 Dex: pumpswap | Chain: solana
+   🔗 https://dexscreener.com/solana/j7am7a9tvxw6apfx7r24dyw3ud7o2z1hqtfke7wktuya
+
+🎯 #5 PEPE - Alpha Score: 10.5/100
+   💰 MCap: $46,414 | Vol: $6,702
+   📈 24h Change: 4.0%
+   🔥 Vol/MCap Ratio: 14.4%
+   🌐 Dex: sushiswap | Chain: katana
+   🔗 https://dexscreener.com/katana/0xa9be90ff6dbb42fd55fe8f4446cf956ac7975872
+
+🎯 #6 APE - Alpha Score: 8.4/100
+   💰 MCap: $56,104 | Vol: $7,208
+   📈 24h Change: -3.3%
+   🔥 Vol/MCap Ratio: 12.8%
+   🌐 Dex: hybra-finance | Chain: hyperevm
+   🔗 https://dexscreener.com/hyperevm/0xf286be7468d6536478101c5c43a6d95391a67283
+
+🎯 #7 Satoshi - Alpha Score: 7.0/100
+   💰 MCap: $43,301 | Vol: $4,740
+   📈 24h Change: -9.4%
+   🔥 Vol/MCap Ratio: 10.9%
+   🌐 Dex: pumpswap | Chain: solana
+   🔗 https://dexscreener.com/solana/vtrbxdo3yfa1wkzy2x4nkyg1xknswjpzgtfkl7bac8j
+
+🎯 #8 PEPE - Alpha Score: 4.6/100
+   💰 MCap: $101,437 | Vol: $6,569
+   📈 24h Change: 0.1%
+   🔥 Vol/MCap Ratio: 6.5%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/4ycwqxr7eoh29rf2g7u9ymtzct1n7tyhcywg3emif85s
+
+🎯 #9 ALPHA - Alpha Score: 4.9/100
+   💰 MCap: $40,545 | Vol: $2,214
+   📈 24h Change: 4.8%
+   🔥 Vol/MCap Ratio: 5.5%
+   🌐 Dex: uniswap | Chain: base
+   🔗 https://dexscreener.com/base/0xf7ae8215154e45f4efc25e1aa64420382fd38a79579750077136813192b68186
+
+🎯 #10 BTC - Alpha Score: 1.5/100
+   💰 MCap: $46,745 | Vol: $1,063
+   📈 24h Change: -14.8%
+   🔥 Vol/MCap Ratio: 2.3%
+   🌐 Dex: pancakeswap | Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xf1f4f43191fe903d156b0819e400aa2206ec998f
+
+📊 SCAN SUMMARY:
+--------------------
+Total Gems Found: 100 tokens
+🥇 Highest Alpha: GEM (100/100)
+💰 Avg MCap: $79,402
+📈 Avg Volume: $2,592
+🚀 Avg Vol/MCap Ratio: 3.6%
+
+⚠️ ALPHA SCANNER EXECUTION COMPLETE - Cron Job [62bc16b8-c534-4ace-ba7d-615e1c217383]
+Scan completed successfully at: Tuesday, March 10, 2026 — 11:40 PM (Asia/Manila)
+
+DISCLAIMER: High risk memecoin scanning - NFA

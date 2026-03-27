@@ -1,0 +1,88 @@
+💎 MEMECOIN ALPHA SCANNER REPORT
+============================================================
+Filter: Market Cap $30,000 - $200,000
+Time: Tuesday, March 03, 2026 — 1:49 AM (Asia/Manila)
+
+🔍 Scanned queries: meme, doge, pepe, shib, floki, elon
+
+🎯 Found 17 alpha tokens in range
+--------------------------------------------------------
+
+TOP 10 ALPHA GEMS:
+
+🎯 1. MEME
+   📛 MEME
+   💰 Market Cap: $86,709
+   📈 24h Volume: $7.89
+   🌐 Chain: ethereum
+
+🎯 2. DOGE
+   📛 Department of Gov Efficiency
+   💰 Market Cap: $129,150
+   📈 24h Volume: $265.10
+   🌐 Chain: solana
+
+🎯 3. PEPE
+   📛 Pepe
+   💰 Market Cap: $112,693
+   📈 24h Volume: $688.80
+   🌐 Chain: solana
+
+🎯 4. DOGE
+   📛 DOGE
+   💰 Market Cap: $57,870
+   📈 24h Volume: $63.89
+   🌐 Chain: pulsechain
+
+🎯 5. PEPE
+   📛 PEPE
+   💰 Market Cap: $53,321
+   📈 24h Volume: $3.23
+   🌐 Chain: xrpl
+
+🎯 6. PEPE
+   📛 Pepe Coin
+   💰 Market Cap: $56,135
+   📈 24h Volume: $21.51
+   🌐 Chain: stacks
+
+🎯 7. DOGE
+   📛 DOGECOIN
+   💰 Market Cap: $80,952
+   📈 24h Volume: $47.00
+   🌐 Chain: base
+
+🎯 8. DOGE
+   📛 Dogecoin TON
+   💰 Market Cap: $48,841
+   📈 24h Volume: $53.75
+   🌐 Chain: ton
+
+🎯 9. PEPE
+   📛 Pepe
+   💰 Market Cap: $34,591
+   📈 24h Volume: $0.18
+   🌐 Chain: arbitrum
+
+🎯 10. DOGE
+   📛 Binance-Peg DOGE
+   💰 Market Cap: $43,227
+   📈 24h Volume: $81.09
+   🌐 Chain: avalanche
+
+📊 MARKET SUMMARY
+-------------------------
+• Total Alpha Candidates: 17
+• Average Market Cap: ~$64,842
+• Most Active Chain: Solana (2 tokens)
+• Highest Volume: PEPE on Solana ($688.80)
+• Largest MCap: DOGE-Gov ($129,150)
+
+⚠️ RISK DISCLAIMER
+-------------------------
+• This is alpha screening only - not financial advice
+• Always do your own research (DYOR)
+• Memecoins are extremely high risk investments
+• Verify liquidity and trading volume before investing
+
+🔄 Scanner powered by DexScreener API

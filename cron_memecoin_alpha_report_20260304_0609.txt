@@ -1,0 +1,76 @@
+💰 MEMECOIN ALPHA SCANNER REPORT - DETECTED BEFORE MAINSTREAM ATTENTION
+==================================================
+Scan Time: Wednesday, March 4th, 2026 — 6:09 AM (Asia/Manila)
+Market Cap Range: $30k-$200k
+==================================================
+
+💎 TOP ALPHA GEMS (Sorted By Score)
+==================================================
+
+🥇 1. NotifAi ($107,600 MCap) - Alpha Score: 60/110
+• Chain: BSC
+• 24h Volume: $16,310 ✅ High volume
+• Vol/MCap Ratio: 15.2% ✅ Strong
+• Price Change: +0.83% ✅ Positive momentum
+• Liquidity: $37,453 ✅ Healthy pool
+• Buy/Sell Ratio: 53.2% ✅ Buy pressure >50%
+• Transactions: 154/24h ✅ Active trading
+• URL: https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0
+
+🥈 2. Coin ($43,743 MCap) - Alpha Score: 45/110
+• Chain: Solana
+• 24h Volume: $8,032 ✅ Good volume
+• Vol/MCap Ratio: 18.4% ✅ Excellent
+• Price Change: -1.13% ⚠️ Slight dip
+• Liquidity: $36,578 ✅ Healthy pool
+• Buy/Sell Ratio: 59.3% ✅ Strong buy pressure
+• Transactions: 189/24h ✅ Very active
+• URL: https://dexscreener.com/solana/FjT1DpbREUesu2r1DQfHxFATK9uitWAu4BdvNNvM4C4w
+
+🥉 3. SOL ($83,024 MCap) - Alpha Score: 30/110
+• Chain: Pulsechain
+• 24h Volume: $1,160 ✅ Decent volume
+• Vol/MCap Ratio: 1.4% ⚠️ Low ratio
+• Price Change: +3.50% ✅ Positive momentum
+• Liquidity: $12,548 ⚠️ Moderate liquidity
+• Buy/Sell Ratio: 41.5% ⚠️ Slight sell pressure
+• Transactions: 424/24h ✅ Very high activity
+• URL: https://dexscreener.com/pulsechain/0x30fe90B1ad644970C48a6B5886EC39B1e3df97Ee
+
+📊 MARKET OVERVIEW
+==================================================
+• Total Gems Found: 13
+• Average Alpha Score: 21.2/110
+• Average Market Cap: $94,371
+• Average Volume: $2,155
+• Most Active Chains: Solana, BSC, Base, Ethereum
+
+🎯 ALPHA CRITERIA METRIC
+==================================================
+Highest-scoring gems demonstrate:
+✅ High volume relative to market cap
+✅ Positive price momentum
+✅ Healthy liquidity pools
+✅ Buy pressure >50%
+✅ Active transaction volume
+
+⚠️ RISK ASSESSMENT
+==================================================
+• Micro-cap space: Extreme volatility
+• All tokens unverified/unaudited
+• High risk of rug pulls
+• Always DYOR before investing
+• Never invest more than you can lose
+
+🏃‍♂️ ACTIONABLE INSIGHTS
+==================================================
+1. NOTIFAI: Strongest overall metrics - worth monitoring
+2. COIN (Solana): Excellent volume/mcap ratio + strong buy pressure
+3. SOL (Pulsechain): High activity but mixed metrics
+4. Markets appear relatively quiet but gems exist
+5. Focus on tokens with volume > $5k for safety
+
+📈 MONITORING SCHEDULE
+==================================================
+Next scan: 12:09 PM (6 hours from now)
+Channel: cron:62bc16b8-c534-4ace-ba7d-615e1c217383

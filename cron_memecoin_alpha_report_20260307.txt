@@ -1,0 +1,74 @@
+💰 MEMECOIN ALPHA SCANNER REPORT - SUB $30K-$200K MCAP
+============================================================
+Scan Date: Saturday, March 7th, 2026
+Scan Time: 8:22 AM (Asia/Manila)  
+Target Range: $30,000 - $200,000 Market Cap
+
+🔥 CURRENT ALPHA GEMS (Morning Scan):
+----------------------------------------
+1. 💎 Coin ($50,509 MCap) - Alpha Score: 49/100
+   • 📈 24h Volume: $18,541.51 | Vol/MCap: 36.7% ⭐
+   • 📊 Price Change: -30.9% (Dip buying opportunity?)
+   • 🔄 Buy Ratio: 67.2% | Transactions: 411
+   • 💧 Liquidity: $40,856 | 🛡️ Solana Chain
+
+2. 💎 SOL ($89,947 MCap) - Alpha Score: 41/100
+   • 📈 24h Volume: $12,992.98 | Vol/MCap: 14.4%
+   • 📊 Price Change: -4.5% 
+   • 🔄 Buy Ratio: 56.7% | Transactions: 3,357 🌊
+   • 💧 Liquidity: $0 ❗ | 🛡️ Injective Chain
+
+3. 💎 BASE ($31,334 MCap) - Alpha Score: 18/100
+   • 📈 24h Volume: $1,471.02 | Vol/MCap: 4.7%
+   • 📊 Price Change: +10.1% 📈
+   • 🔄 Buy Ratio: 50.0% | Transactions: 44
+   • 💧 Liquidity: $13,230 | 🛡️ Base Chain
+
+📊 MARKET COMPARISON with MARCH 6TH SCAN:
+-------------------------------------------
+• QUANTITY: 3 gems vs 16-25 gems yesterday 📉
+• QUALITY: Avg Score 36.0 vs 22.5-15.7 yesterday ⚖️
+• VOLUME: Much lower trading activity overnight
+• BUY PRESSURE: Still strong (50-67% buy ratios)
+
+🌙 OVERNIGHT MARKET SHIFTS:
+-----------------------------
+• Significant drop in alpha gem quantity - market consolidation
+• Coin token still showing strong metrics (highest score)
+• SOL has massive transaction volume (3,357 txns) but zero liquidity ❗
+• BASE showing modest gains (+10.1%) but low volume
+
+⚡ KEY TAKEAWAYS:
+-------------------
+1. MARKET QUIET: Overnight consolidation phase
+2. Coin token remains strongest candidate (high Volume/MCap)
+3. SOL token has concerning zero liquidity despite high activity
+4. Early morning - expect increased activity later in day
+
+🔍 ALERT LEVELS:
+-----------------
+• COIN: Medium-High 🟡🟡🟡 (Strong metrics but negative momentum)
+• SOL: Low 🔴 (High volume but zero liquidity = HIGH RISK)
+• BASE: Low-Medium 🟡 (Small gain but low metrics overall)
+
+💡 STRATEGY RECOMMENDATION:
+----------------------------
+• Monitor Coin token for reversal opportunities 
+• Avoid SOL due to liquidity concerns (🚨 red flag)
+• Pre-market conditions - wait for normal trading hours for better signals
+• Consider broader market conditions (weekend trading patterns)
+
+📈 TECHNICAL INSIGHT:
+----------------------
+Current scan shows subdued overnight market. Weekend trading often sees:
+• Lower volumes
+• Consolidation patterns
+• Potential breakouts during major market hours
+
+Coin token with 67.2% buy ratio despite price decline suggests accumulation activity.
+
+⚠️ DISCLAIMER: Micro-cap analysis. Weekend volatility patterns differ from weekdays.
+Do your own research and consider timing factors.
+
+------------------------------
+END OF ALPHA SCANNER REPORT

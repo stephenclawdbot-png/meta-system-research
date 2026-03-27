@@ -1,0 +1,51 @@
+MEMECOIN ALPHA SCANNER REPORT
+Time: Tuesday, March 03, 2026 — 02:04 AM (Asia/Manila)
+Filter: Market Cap $30,000 - $200,000
+============================================================
+
+💎 Found 4 Alpha Gems in target range:
+
+🎯 DANDAN (the new doge)
+   🔥 Alpha Score: 75/110 (HIGHEST)
+   💰 Market Cap: $32,490
+   📈 24h Volume: $145,114 (446x mcap ratio!)
+   📊 Price Change: +1,251% (🚀 EXTREME momentum)
+   💧 Liquidity: Low (no liquidity pool)
+   🔄 Transactions: 2,455/24h (62% buy ratio)
+   🌐 Chain: Solana
+   🔗 DexScreener: https://dexscreener.com/solana/9zsf2U9uP5fxoCvLNSCZZBCMeqzp2S2EKYCDkNDujCQn
+
+🎯 NotifAi (NotifAi News)
+   🔥 Alpha Score: 40/110
+   💰 Market Cap: $107,859
+   📈 24h Volume: $7,639
+   📊 Price Change: -16.21%
+   💧 Liquidity: $37,857 (good)
+   🔄 Transactions: 180/24h (66% buy ratio)
+   🌐 Chain: BSC
+
+🎯 topbasetrending (topbasetrending)
+   🔥 Alpha Score: 35/110
+   💰 Market Cap: $40,327
+   📈 24h Volume: $975
+   📊 Price Change: +13.31%
+   💧 Liquidity: $18,339
+   🔄 Transactions: 165/24h (27% buy ratio - caution)
+   🌐 Chain: Base
+
+🎯 NCT (NEWCAT)
+   🔥 Alpha Score: 25/110
+   💰 Market Cap: $72,404
+   📈 24h Volume: $1,218
+   📊 Price Change: -3.86%
+   💧 Liquidity: $12,963
+   🔄 Transactions: 58/24h (60% buy ratio)
+   🌐 Chain: BSC
+
+📊 Market Summary:
+• Average Alpha Score: 44/110
+• Average Market Cap: $63,270
+• Best Performer: DANDAN (75/110 score, extreme vol/mcap ratio)
+
+⚠️ DISCLAIMER: High risk investment - DYOR only
+DANDAN shows extreme momentum but has liquidity risks

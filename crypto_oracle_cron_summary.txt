@@ -1,0 +1,19 @@
+🔮 CRYPTO ORACLE VALIDATION CALL - POLYMARKET TRENDS
+📅 Analysis Time: Sunday, March 8th, 2026 — 2:30 AM (Asia/Manila)
+
+📊 LIVE MARKET DATA
+• BTC: $69,402 (-1.7% ↘)
+• ETH: $2,023.89 (-1.6% ↘)
+• SOL: $85.20 (-2.0% ↘)
+
+⚖️ POLYMARKET ANALYSIS
+• Market Mode: CORRECTION_PHASE
+• Risk Appetite: HIGH
+• Momentum Divergence: 23.47%
+• Volume Weighted Momentum: -1.69
+• Market Sentiment: 0.0%
+
+🎰 POLYMARKET PROBABILITIES
+• Short-term outlook: Neutral to bearish
+• Risk level: high
+• Recommendation: Wait for clearer momentum signals

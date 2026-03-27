@@ -1,0 +1,89 @@
+🎯 MEMECOIN ALPHA SCANNER CRON REPORT
+===================================================
+Scanning DexScreener for sub 30k-200k mcap memecoins
+Scan Time: Monday, March 02, 2026 — 07:18 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Scanner: DexScreener Solana Focus
+
+🔍 EXECUTIVE SUMMARY:
+• 9 potential alpha gems detected
+• Average Alpha Score: 44.4/100
+• Total Volume Across Candidates: $482,069
+• Market shows moderate bullish activity
+
+🏆 TOP ALPHA GEMS DISCOVERED:
+
+1. 🎯 INU (The Moon Inu) - Alpha Score: 80.0/100
+   💰 MCap: $38,555   📈 Volume 24h: $425,416
+   🔥 Vol/MCap Ratio: 1103%   📊 Price Change: +416%
+   🔄 Buy/Sell: 5828/4395 (57.0% buys)
+   💧 Liquidity: $0
+   🔗 DexScreener: https://dexscreener.com/solana/fjtyds7wmkmgfmksgitheoeubvugctqniyrxut19hfpo
+
+2. 🎯 Milo (Gork Dog Milo) - Alpha Score: 61.7/100
+   💰 MCap: $94,280   📈 Volume 24h: $36,705
+   🔥 Vol/MCap Ratio: 39%   📊 Price Change: +812%
+   🔄 Buy/Sell: 1840/285 (86.6% buys)
+   💧 Liquidity: $0
+   🔗 DexScreener: https://dexscreener.com/solana/aqtsmu6wesatstfna2b76s5soyztnworgdwvj7b9ptjj
+
+3. 🎯 Baby (Niche Baby) - Alpha Score: 48.7/100
+   💰 MCap: $136,777   📈 Volume 24h: $12,317
+   🔥 Vol/MCap Ratio: 9%   📊 Price Change: +4.6%
+   🔄 Buy/Sell: 145/73 (66.5% buys)
+   💧 Liquidity: $52,108
+   🔗 DexScreener: https://dexscreener.com/solana/4qbzhs2ecgmvyx77hrexrlvu4hyy4eesmwrdr8xsefqo
+
+4. 🎯 INU (INU) - Alpha Score: 42.6/100
+   💰 MCap: $58,672   📈 Volume 24h: $5,068
+   🔥 Vol/MCap Ratio: 8.6%   📊 Price Change: -2.1%
+   🔄 Buy/Sell: 60/46 (56.6% buys)
+   💧 Liquidity: $21,961
+   🔗 DexScreener: https://dexscreener.com/solana/9gzzcwcfa16xsqmnd1gnazivgfwgpxv8cgftt7wgvgqz
+
+📊 MARKET DYNAMICS:
+• Total Alpha Candidates: 9
+• Avg Market Cap: $93,769
+• Avg Buy Ratio: 56.0%
+• Avg Vol/MCap Ratio: 129.1%
+• Avg Price Change: +137.6%
+
+💡 KEY ALPHA INSIGHTS:
+• Strong volume efficiency observed (429% avg vol/mcap ratio)
+• Higher buy ratios indicate accumulation momentum
+• "The Moon Inu" shows exceptional alpha characteristics
+• Multiple tokens with significant price appreciation
+• Liquidity levels vary widely across candidates
+
+🔥 POTENTIAL ACTIONABLE ALPHA:
+• 🎯 "The Moon Inu" - Strongest candidate with massive volume and high alpha score
+• 🎯 "Gork Dog Milo" - Excellent buy pressure (86.6%) and explosive price movement
+• 💡 Monitor tokens with <$50K liquidity for network sell-offs
+
+⚠️ RISK ASSESSMENT:
+• 🌟 HIGH RISK: "The Moon Inu" - No liquidity (risk of rug pull)
+• 🔴 MEDIUM RISK: Most tokens lack sufficient liquidity
+• 🟡 LOW RISK: None - All candidates exhibit speculative characteristics
+
+🧠 ALPHA STRATEGY:
+• Focus on tokens with >$20K liquidity for safer entry/exit
+• Monitor buy ratios >60% for sustained momentum
+• Avoid tokens with 0 liquidity regardless of volume
+• Consider smaller positions in higher-risk, higher-reward candidates
+
+🔷 RECOMMENDATIONS:
+1. Top Pick: Wait for liquidity improvement in strongest candidates
+2. Secondary: Consider smaller exposure to "Gork Dog Milo" with strict stop-loss
+3. Avoid: Zero-liquidity tokens despite high alpha scores
+4. Next scan: Check again in 2-3 hours for market shifts
+
+END OF REPORT
+🔍 Scanned: DexScreener API | Solana Network
+📋 Market Activity Level: MODERATE
+💎 Alpha Detection Quality: GOOD
+
+⚠️ DISCLAIMER: EXTREMELY HIGH RISK / NOT FINANCIAL ADVICE
+• Memecoins are volatile speculative assets
+• Only risk capital you can afford to lose
+• Conduct thorough research before trading
+• Use proper risk management strategies

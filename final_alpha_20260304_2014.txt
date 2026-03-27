@@ -1,0 +1,47 @@
+🎯 MEMECOIN ALPHA SCANNER - FINAL REPORT
+===================================================
+Scan Time: Wednesday, March 04, 2026 — 08:14 PM (Asia/Manila)
+Market Focus: Sub 30k-200k MCap Gems (Expanded to 20k-250k)
+Scan Scope: Top 10 trending memecoin categories
+
+🔥 ALPHA GEMS DISCOVERED
+--------------------------
+💎💎 PREMIUM ALPHA (Score ≥75) 💎💎
+1. WIF (Wallahi I'm Fasting)
+   ⭐ Alpha Score: 85/100
+   💰 MCap: $61,584
+   📈 Volume 24h: $375,086.03
+   🔥 Vol/MCap: 609.1%
+   📊 Price Chg: +748.0%
+   🔄 Buy/Sell: 5234/2092 (71.4%)
+   💧 Liquidity: $0
+   🔗 Chain: solana
+   📱 DexScreener: https://dexscreener.com/solana/edjswcdxhbkm1dydzwsvowyj2kqzhhsucbgusrm7ctc
+
+🔍 MODERATE POTENTIAL (Score 30-49)
+• GAME (Score: 35, Vol/MCap: 0.1%, Buy: 100.0%)
+• ROCK (Score: 31, Vol/MCap: 0.3%, Buy: 74.3%)
+
+📊 MARKET INSIGHTS:
+• Total qualifying tokens: 14
+• Premium alpha gems: 1
+• Strong candidates: 0
+• Moderate potential: 2
+• Average Alpha Score: 23.8/100
+• Average Market Cap: $111,496
+• Highest Volume Efficiency: WIF (609.1%)
+• Strongest Momentum: WIF (+748.0%)
+• Most Buy Activity: WIF (5234 buys)
+
+⚠️ ALERT: HIGHEST PRIORITY RECOMMENDATIONS
+• Focus on tokens with Vol/MCap ratio > 50% and positive momentum
+• Monitor buy ratio for sustained accumulation
+• Verify liquidity before entering positions
+
+� DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Memecoin investments carry extreme volatility
+• Only use capital you can afford to lose completely
+• Always DYOR (Do Your Own Research)
+• Diversify across multiple opportunities
+
+🎯 NEXT CRON SCAN: 9:07 PM Manila Time

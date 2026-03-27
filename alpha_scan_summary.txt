@@ -1,0 +1,78 @@
+Fetching memecoins...
+Found 30 tokens for 'pepe'
+Found 30 tokens for 'doge'
+Found 30 tokens for 'shib'
+Found 30 tokens for 'floki'
+Found 30 tokens for 'bonk'
+Found 10 tokens for 'slerf'
+Found 30 tokens for 'wif'
+Found 30 tokens for 'cat'
+Found 30 tokens for 'elon'
+Found 30 tokens for 'trump'
+Found 30 tokens for 'maga'
+Found 30 tokens for 'ai'
+Found 30 tokens for 'meme'
+Found 30 tokens for 'harambe'
+Found 30 tokens for 'hamster'
+Found 212 tokens from meme searches
+Fetching emerging tokens...
+Error fetching from /tokens/trending?limit=30: 'NoneType' object is not iterable
+Error fetching from /tokens/hot?limit=20: 'NoneType' object is not iterable
+Found 0 tokens from trending
+Total tokens to analyze: 212
+Filtered to 4 eligible tokens
+🧠 MEMECOIN ALPHA SCANNER
+============================================================
+Scan Time: Sunday, March 08, 2026 — 06:03 AM (Asia/Manila)
+Target Range: $30,000 - $200,000 Market Cap
+
+📊 MARKET OVERVIEW:
+• Total Scanned: 212
+• Eligible Tokens: 4
+• Avg MCap: $45,233
+• Avg Volume: $12,833
+• Avg Vol/MCap: 28.0%
+• Avg Buy Ratio: 43.6%
+• Avg Alpha Score: 55.5/100
+
+🔥 TOP 4 ALPHA GEMS:
+------------------------------------------------------------
+🎯 #1 MAGA - Alpha Score: 86.0/100
+   📈 24h Stats: $31,466 vol • $48,819 mcap • 64.5% ratio
+   📊 Sentiment: 186.0% price • 66.3% buy ratio
+   🔄 Activity: 884 txns
+   💧 Liquidity: $17,758
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/hvimk99ygssdnwz9esqumdthrfz4dade7j6phmfms6at
+
+🎯 #2 TRUMP - Alpha Score: 50.7/100
+   📈 24h Stats: $9,889 vol • $36,880 mcap • 26.8% ratio
+   📊 Sentiment: -4.4% price • 47.0% buy ratio
+   🔄 Activity: 249 txns
+   💧 Liquidity: $43,548
+   🌐 Chain: flowevm
+   🔗 https://dexscreener.com/flowevm/0x83900c7ffece2a47cac867f87252cdf52bd017a2
+
+🎯 #3 AI - Alpha Score: 42.9/100
+   📈 24h Stats: $2,886 vol • $45,203 mcap • 6.4% ratio
+   📊 Sentiment: 24.4% price • 61.0% buy ratio
+   🔄 Activity: 41 txns
+   💧 Liquidity: $22,778
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #4 FLOKI - Alpha Score: 42.5/100
+   📈 24h Stats: $7,092 vol • $50,030 mcap • 14.2% ratio
+   📊 Sentiment: -75.6% price • 0.0% buy ratio
+   🔄 Activity: 9 txns
+   💧 Liquidity: $13,807
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0xfca261560133699ecd4c99941c767e096700216d
+
+💡 KEY INSIGHTS:
+• Highest Alpha: MAGA (86.0/100)
+• Market Health: 55.5/100 average score
+⚠️ MEDIUM RISK: Low liquidity
+📈 GOOD: Healthy market interest
+
+⚠️ DISCLAIMER: High risk alpha scanning - DYOR required

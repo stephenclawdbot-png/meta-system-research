@@ -1,0 +1,68 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Tuesday, March 03, 2026 — 09:30 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP 5 ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 Coin - Alpha Score: 45/100
+   📈 24h Stats: $6,070 vol • $45,150 mcap • 13.4% ratio
+   📊 Sentiment: +10.3% price • 61.7% buy ratio
+   🔄 Activity: 167 txns (103 buys/64 sells)
+   💧 Liquidity: $36,882
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+🎯 #2 MOON - Alpha Score: 40/100
+   📈 24h Stats: $25,589 vol • $52,310 mcap • 48.9% ratio
+   📊 Sentiment: +3.3% price • 55.5% buy ratio
+   🔄 Activity: 375 txns (208 buys/167 sells)
+   💧 Liquidity: $20,822
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/ens8x7yuksb1pw7pvzs9aw6bvjzcsjekm1o1dvfttb45
+
+🎯 #3 ALPHA - Alpha Score: 35/100
+   📈 24h Stats: $20,082 vol • $50,040 mcap • 40.1% ratio
+   📊 Sentiment: -44.7% price • 53.7% buy ratio
+   🔄 Activity: 177 txns (95 buys/82 sells)
+   💧 Liquidity: $60,238
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0xf7ae8215154e45f4efc25e1aa64420382fd38a79579750077136813192b68186
+
+🎯 #4 PEPE - Alpha Score: 10/100
+   📈 24h Stats: $1,042 vol • $152,568 mcap • 0.7% ratio
+   📊 Sentiment: -3.5% price • 31.2% buy ratio
+   🔄 Activity: 32 txns (10 buys/22 sells)
+   💧 Liquidity: $27,385
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/8lvqv2jgnvcx1ndtmhd5ahx8zujetflwygq9mtdfphxe
+
+🎯 #5 GEM - Alpha Score: 10/100
+   📈 24h Stats: $1,086 vol • $34,403 mcap • 3.2% ratio
+   📊 Sentiment: -10.2% price • 33.3% buy ratio
+   🔄 Activity: 3 txns (1 buys/2 sells)
+   💧 Liquidity: $36,074
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x1eb03cf98a9f810da36032aa84688e91285884d1629385fb8827ffeb380a842f
+
+📊 MARKET SUMMARY FOR 5 GEMS
+• Average Alpha Score: 28.0/100
+• Average Market Cap: $66,894
+• Average Volume/MCap Ratio: 21.3%
+• Top Performer: Coin (45/100)
+
+💡 Key Alpha Signals:
+- Volume/Mcap ratio > 20% indicates strong interest for early gems
+- Buy ratio > 60% suggests accumulation phase (Coin: 61.7%)
+- High transaction volume = active community engagement
+
+⚠️ MARKET CONDITIONS:
+Market appears quiet during late evening hours GMT+8
+Coin (#1) shows strongest alpha signals with 61.7% buy ratio and positive price momentum
+
+⚠️ DISCLAIMER: High risk assets - DYOR required
+Next scan scheduled per cron frequency
+
+Scan Message: Using direct search methodology due to API constraints

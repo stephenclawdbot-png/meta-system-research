@@ -1,0 +1,62 @@
+🧠 MEMECOIN ALPHA SCANNER - 30K-200K MCAP FOCUS
+============================================================
+Scan Time: Wednesday, March 04, 2026 — 06:47 PM (Asia/Manila)
+Target Range: $30k - $200k Market Cap
+
+🔥 TOP ALPHA MEMECOINS DETECTED:
+--------------------------------------------------
+🎯 #1 NotifAi - Alpha Score: 55/110
+   💰 MCap: $99,146 | Vol: $13,733
+   📈 24h Change: -2.69%
+   🔥 Vol/MCap Ratio: 13.9%
+   📊 Buy/Sell: 60.8% (96 buys, 62 sells)
+   🌐 Chain: BSC
+   🔗 https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0
+
+🎯 #2 NCT (NEWCAT) - Alpha Score: 50/110
+   💰 MCap: $71,895 | Vol: $1,735
+   📈 24h Change: 20.73%
+   🔥 Vol/MCap Ratio: 2.4%
+   📊 Buy/Sell: 90.2% (120 buys, 13 sells)
+   🌐 Chain: BSC
+   🔗 https://dexscreener.com/bsc/0x6F9Ada2CCe77331B286318BBD67ABe4568dFc1AE
+
+🎯 #3 Coin - Alpha Score: 50/110
+   💰 MCap: $47,107 | Vol: $6,681
+   📈 24h Change: 4.45%
+   🔥 Vol/MCap Ratio: 14.2%
+   📊 Buy/Sell: 60.6% (94 buys, 61 sells)
+   🌐 Chain: Solana
+   🔗 https://dexscreener.com/solana/FjT1DpbREUesu2r1DQfHxFATK9uitWAu4BdvNNvM4C4w
+
+🎯 #4 SOL (Pulsechain) - Alpha Score: 35/110
+   💰 MCap: $91,038 | Vol: $842
+   📈 24h Change: 18.96%
+   🔥 Vol/MCap Ratio: 0.9%
+   📊 Buy/Sell: 40.4% (138 buys, 204 sells)
+   🌐 Chain: Pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x30fe90B1ad644970C48a6B5886EC39B1e3df97Ee
+
+🎯 #5 topbasetrending - Alpha Score: 30/110
+   💰 MCap: $34,743 | Vol: $1,592
+   📈 24h Change: 2.51%
+   🔥 Vol/MCap Ratio: 4.6%
+   📊 Buy/Sell: 26.9% (59 buys, 160 sells)
+   🌐 Chain: Base
+   🔗 https://dexscreener.com/base/0x1883ffbc254f2f72857c38a7c00ffcfe0a7fa0223a4b8fd1e6fcc8216d3b7a67
+
+📊 SCAN SUMMARY:
+--------------------
+Total Gems Found: 11 tokens
+🥇 Highest Alpha: NotifAi (55/110)
+💰 Avg MCap: $97,008
+📈 Avg Volume: $2,401
+🚀 Avg Vol/MCap Ratio: 4.2%
+
+⚠️ DISCLAIMER: High risk memecoin scanning - NFA
+
+---
+SCANNER DETAILS:
+- Market Cap Range: $30,000 - $200,000
+- Alpha Score Components: Volume (30pts), Vol/MCap Ratio (20pts), Price Momentum (25pts), Liquidity (15pts), Activity (10pts), Buy Pressure (10pts)
+- Scan Time: Wednesday, March 04, 2026 — 06:47 PM (Asia/Manila)

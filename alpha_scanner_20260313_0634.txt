@@ -1,0 +1,72 @@
+🧠 MEMECOIN ALPHA SCANNER - 30K-150K FOCUS
+============================================================
+Filter: Market Cap $30,000 - $150,000
+Time: 2026-03-13 06:34:30 GMT+8
+Real-Time Alpha Detection
+
+🔥 ALPHA GEMS DETECTED (30K-150K MCAP)
+--------------------------------------------------
+🎯 #1 ALPH - Alpha Score: 99/100
+   💰 MCap: $39,824
+   📈 Volume: $51,739
+   🔥 Vol/MCap Ratio: 129.9%
+   📊 Price Change: -8.1%
+   🔄 Trades: 404/268
+   💫 Category: LOW_ALPHA
+
+🎯 #2 CATX - Alpha Score: 92/100
+   💰 MCap: $68,070
+   📈 Volume: $180,736
+   🔥 Vol/MCap Ratio: 265.5%
+   📊 Price Change: +93.7%
+   🔄 Trades: 645/499
+   💫 Category: HIGH_ALPHA
+
+🎯 #3 ZETA - Alpha Score: 89/100
+   💰 MCap: $39,234
+   📈 Volume: $41,094
+   🔥 Vol/MCap Ratio: 104.7%
+   📊 Price Change: +4.2%
+   🔄 Trades: 432/331
+   💫 Category: LOW_ALPHA
+
+🎯 #4 GEMX - Alpha Score: 81/100
+   💰 MCap: $71,591
+   📈 Volume: $105,048
+   🔥 Vol/MCap Ratio: 146.7%
+   📊 Price Change: +75.5%
+   🔄 Trades: 957/585
+   💫 Category: MEDIUM_ALPHA
+
+🎯 #5 CATX - Alpha Score: 79/100
+   💰 MCap: $95,924
+   📈 Volume: $273,008
+   🔥 Vol/MCap Ratio: 284.6%
+   📊 Price Change: +0.1%
+   🔄 Trades: 366/231
+   💫 Category: LOW_ALPHA
+
+💎 MARKET ANALYSIS
+--------------------
+• Total Coins Scanned: 8
+• High Alpha Gems: 1
+• Medium Alpha Gems: 2
+• Average MCap: $63,307
+• Average Volume: $133,490
+• Average Change: +27.8%
+
+⚡ ALPHA PATTERNS:
+• 1 coins showing exceptional volume/mcap ratios
+• 2 coins with solid momentum
+• Top performers typically show 100%+ volume/mcap ratios
+• Meme coins in this range often experience rapid price movements
+
+🎯 TOP ALPHA RECOMMENDATIONS:
+• #1 ALPH: LOW_ALPHA - Score 99/100
+• #2 CATX: HIGH_ALPHA - Score 92/100
+• #3 ZETA: LOW_ALPHA - Score 89/100
+
+⚠️ DISCLAIMER: EXTREME RISK - Meme coins are highly volatile. 
+Only risk what you can afford to lose. Do your own research.
+
+Alpha Scanner - 30K-150K Focus Complete

@@ -1,0 +1,14 @@
+{
+  "scan_time": "2026-03-03T01:56:00+08:00",
+  "market_cap_range": [30000, 200000],
+  "alpha_gems": [],
+  "market_metrics": {
+    "total_tokens_scanned": 0,
+    "tokens_in_range": 0,
+    "average_mcap": 0,
+    "average_volume": 0,
+    "average_vol_mcap_ratio": 0,
+    "average_buy_ratio": 0
+  },
+  "top_picks": []
+}

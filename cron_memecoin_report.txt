@@ -1,0 +1,53 @@
+🎯 MEMECOIN ALPHA SCANNER REPORT
+Date: March 4, 2026, 1:25 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🚀 TOP ALPHA MEMECOINS DETECTED:
+
+1. **WIF (Wallahi I'm Fasting)**
+   • MCAP: $61,584 • Volume: $375K • Alpha Score: 85/100
+   • Price: $0.000062 • 24h Change: +748.00%
+   • Transactions: 7,326 • Buy Ratio: 71.4%
+   • Age: 7.4 hours • Source: wif
+
+2. **ALPHA (AlphArena)**
+   • MCAP: $47,113 • Volume: $22K • Alpha Score: 50/100
+   • Price: $0.000000 • 24h Change: -28.41%
+   • Transactions: 288 • Buy Ratio: 53.1%
+   • Age: 11.4 days • Source: alpha
+
+3. **DOG (DOG GO TO THE MOON)**
+   • MCAP: $37,517 • Volume: $651 • Alpha Score: 40/100
+   • Price: $0.000753 • 24h Change: -2.83%
+   • Transactions: 6 • Buy Ratio: 66.7%
+   • Age: 226 days • Source: dog
+
+4. **DOGE (Binance-Peg DOGE)**
+   • MCAP: $41,503 • Volume: $13 • Alpha Score: 40/100
+   • Price: $0.091170 • 24h Change: -2.62%
+   • Transactions: 20 • Buy Ratio: 75.0%
+   • Source: doge
+
+5. **SWIFH (Samwifhat)**
+   • MCAP: $34,645 • Volume: $117 • Alpha Score: 40/100
+   • Price: $0.000365 • 24h Change: -3.09%
+   • Transactions: 1,958 • Buy Ratio: 19.5%
+   • Age: 64 days • Source: wifhat
+
+📊 SCAN SUMMARY:
+- Total pairs scanned: 548
+- Matches in MCAP range: 6
+- Alpha threshold met: 6 (Alpha Score ≥ 40)
+- Best performer: WIF (+748% in 24h with 71.4% buy ratio)
+
+🔍 METHODOLOGY:
+The scanner analyzes memecoins based on:
+- Market cap (30k-200k range prioritized)
+- Volume/market cap ratio
+- Transaction activity and buy ratio
+- Price momentum
+- Token age (newer tokens favored)
+
+⚠️ RISK DISCLAIMER:
+These are high-risk memecoins. Always DYOR before investing.
+High alpha scores indicate potential but don't guarantee profit.

@@ -1,0 +1,29 @@
+🧠 MEMECOIN ALPHA SCANNER - 03/04 00:03
+Target: 30k-200k gems (DexScreener)
+
+Found 8 tokens | Strong: 0 | Moderate: 1
+1. Coin: 59.3/100
+   MCap: $45,679 | Vol: $7,400.84
+   Ratio: 16.2% | Chg: 0.6%
+   Chain: solana
+2. ELON: 34.1/100
+   MCap: $53,308 | Vol: $947.98
+   Ratio: 1.8% | Chg: 10.3%
+   Chain: pulsechain
+3. BABY: 25.7/100
+   MCap: $32,312 | Vol: $768.42
+   Ratio: 2.4% | Chg: -5.4%
+   Chain: solana
+4. DOG: 23.4/100
+   MCap: $37,800 | Vol: $651.85
+   Ratio: 1.7% | Chg: -6.6%
+   Chain: starknet
+5. DOGE: 22.7/100
+   MCap: $60,485 | Vol: $598.43
+   Ratio: 1.0% | Chg: 3.2%
+   Chain: pulsechain
+
+⚠️ MODERATE: Monitor volume growth
+
+Next scan: 5 min
+NFA - DYOR

@@ -1,0 +1,260 @@
+#!/usr/bin/env python3
+"""
+Alpha Scanner - Query DexScreener for memecoins using curl with multiple searches
+"""
+
+import json
+import subprocess
+from datetime import datetime
+
+def fetch_dexscreener_data(search_term):
+    """Fetch data from DexScreener API using curl"""
+    try:
+        # Encode search term for URL
+        encoded_term = search_term.replace(' ', '%20')
+        url = f"https://api.dexscreener.com/latest/dex/search/?q={encoded_term}"
+        
+        result = subprocess.run(
+            ['curl', '-s', url],
+            capture_output=True, text=True
+        )
+        
+        if result.returncode == 0:
+            data = json.loads(result.stdout)
+            return data.get('pairs', [])
+        else:
+            print(f"Curl error: {result.stderr}")
+            return []
+    except Exception as e:
+        print(f"Error processing data for {search_term}: {e}")
+        return []
+
+def filter_memecoins(pairs):
+    """Filter for memecoins in 30k-200k mcap range"""
+    memecoins = []
+    seen_addresses = set()
+    
+    for pair in pairs:
+        mcap = pair.get('marketCap', 0)
+        volume_24h = pair.get('volume', {}).get('h24', 0)
+        
+        # Filter criteria: 30k-200k mcap, min $1k volume
+        if (mcap and 30000 <= mcap <= 200000 and 
+            volume_24h and volume_24h >= 1000):
+            
+            # Avoid duplicates
+            addr = pair.get('pairAddress', '')
+            if addr in seen_addresses:
+                continue
+            seen_addresses.add(addr)
+            
+            # Get transaction data
+            txns = pair.get('txns', {}).get('h24', {'buys': 0, 'sells': 0})
+            buys = txns.get('buys', 0)
+            sells = txns.get('sells', 0)
+            total_txns = buys + sells
+            buy_ratio = buys / total_txns if total_txns > 0 else 0
+            
+            vol_mcap_ratio = (volume_24h / mcap) * 100 if mcap > 0 else 0
+            price_change = pair.get('priceChange', {}).get('h24', 0)
+            
+            # Enhanced alpha scoring
+            alpha_score = 0
+            
+            # Volume efficiency (max 25)
+            if vol_mcap_ratio >= 50:
+                alpha_score += 25
+            elif vol_mcap_ratio >= 30:
+                alpha_score += 20
+            elif vol_mcap_ratio >= 20:
+                alpha_score += 15
+            elif vol_mcap_ratio >= 10:
+                alpha_score += 10
+            elif vol_mcap_ratio >= 5:
+                alpha_score += 5
+            
+            # Buy pressure (max 25)
+            if buy_ratio >= 0.8:
+                alpha_score += 25
+            elif buy_ratio >= 0.7:
+                alpha_score += 20
+            elif buy_ratio >= 0.6:
+                alpha_score += 15
+            elif buy_ratio >= 0.55:
+                alpha_score += 10
+            elif buy_ratio >= 0.5:
+                alpha_score += 5
+            
+            # Volume strength (max 20)
+            if volume_24h >= 20000:
+                alpha_score += 20
+            elif volume_24h >= 10000:
+                alpha_score += 15
+            elif volume_24h >= 5000:
+                alpha_score += 10
+            elif volume_24h >= 2000:
+                alpha_score += 5
+            
+            # Price momentum (max 15)
+            if price_change >= 100:
+                alpha_score += 15
+            elif price_change >= 50:
+                alpha_score += 10
+            elif price_change >= 25:
+                alpha_score += 7
+            elif price_change >= 10:
+                alpha_score += 3
+            elif price_change > 0:
+                alpha_score += 1
+            
+            # Transaction activity (max 15)
+            if buys >= 1000:
+                alpha_score += 15
+            elif buys >= 500:
+                alpha_score += 12
+            elif buys >= 200:
+                alpha_score += 8
+            elif buys >= 100:
+                alpha_score += 5
+            elif buys >= 50:
+                alpha_score += 2
+            
+            # Cap score adjustment (higher scores for smaller caps)
+            if mcap < 50000:
+                alpha_score += 5
+            elif mcap < 100000:
+                alpha_score += 3
+            elif mcap < 150000:
+                alpha_score += 1
+            
+            pair['alpha_score'] = min(alpha_score, 100)  # Cap at 100
+            pair['buy_ratio'] = buy_ratio
+            pair['vol_mcap_ratio'] = vol_mcap_ratio
+            memecoins.append(pair)
+    
+    return sorted(memecoins, key=lambda x: x['alpha_score'], reverse=True)
+
+def generate_report(memecoins):
+    """Generate formatted report"""
+    current_time = datetime.now().strftime("%A, %B %d, %Y — %I:%M %p (Asia/Manila)")
+    
+    report = f"""🎯 MEMECOIN ALPHA SCANNER REPORT
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: {current_time}
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP ALPHA GEMS DETECTED
+------------------------------
+"""
+    
+    if not memecoins:
+        report += "No tokens found matching criteria\n\n"
+    else:
+        analysis_data = {
+            'total_candidates': len(memecoins),
+            'avg_alpha_score': sum(c['alpha_score'] for c in memecoins) / len(memecoins),
+            'avg_vol_mcap_ratio': sum(c['vol_mcap_ratio'] for c in memecoins) / len(memecoins),
+            'avg_buy_ratio': sum(c['buy_ratio'] for c in memecoins) / len(memecoins),
+            'avg_mcap': sum(c['marketCap'] for c in memecoins) / len(memecoins)
+        }
+        
+        for i, coin in enumerate(memecoins[:10], 1):  # Show top 10
+            symbol = coin['baseToken']['symbol']
+            name = coin['baseToken']['name']
+            mcap = coin['marketCap']
+            volume = coin['volume']['h24']
+            price_change = coin.get('priceChange', {}).get('h24', 0)
+            buy_sell = coin.get('txns', {}).get('h24', {'buys': 0, 'sells': 0})
+            dex_url = coin.get('url', '#')
+            
+            # Risk assessment
+            risk_level = "HIGH RISK"
+            if coin['alpha_score'] >= 70:
+                risk_level = "MEDIUM-HIGH RISK"
+            if coin['alpha_score'] >= 85:
+                risk_level = "CONSIDER MONITORING"
+            
+            report += f"""{i}. {symbol} ({name}) - {risk_level} ⚠️
+   🎯 Alpha Score: {coin['alpha_score']}/100
+   💰 MCap: ${mcap:,}
+   📈 Volume 24h: ${volume:,}
+   🔥 Vol/MCap Ratio: {coin['vol_mcap_ratio']:.1f}%
+   📊 Price Change: {price_change:+.1f}%
+   🔄 Buy/Sell: {buy_sell.get('buys', 0)}/{buy_sell.get('sells', 0)} ({coin['buy_ratio']:.1%} buys)
+   🔗 Chain: {coin.get('chainId', 'Unknown').upper()}
+   🔗 DexScreener: {dex_url}
+
+"""
+        
+        # Find highest momentum and volume efficiency
+        if len(memecoins) > 1:
+            best_momentum = max(memecoins, key=lambda x: x.get('priceChange', {}).get('h24', 0))
+            best_volume_eff = max(memecoins, key=lambda x: x['vol_mcap_ratio'])
+            highest_buys = max(memecoins, key=lambda x: x.get('txns', {}).get('h24', {}).get('buys', 0))
+            
+            report += f"""📊 MARKET ANALYSIS:
+• Total candidates found: {analysis_data['total_candidates']} tokens meeting criteria
+• Average Alpha Score: {analysis_data['avg_alpha_score']:.1f}/100
+• Average Vol/MCap Ratio: {analysis_data['avg_vol_mcap_ratio']:.1f}%
+• Average Buy Ratio: {analysis_data['avg_buy_ratio']:.1%}
+• Average Market Cap: ${analysis_data['avg_mcap']:,.0f}
+• Highest Momentum: {best_momentum['baseToken']['symbol']} (+{best_momentum.get('priceChange', {}).get('h24', 0):.1f}%)
+• Most Efficient Volume: {best_volume_eff['baseToken']['symbol']} ({best_volume_eff['vol_mcap_ratio']:.1f}% vol/mcap)
+• Highest Buy Pressure: {highest_buys['baseToken']['symbol']} ({highest_buys.get('txns', {}).get('h24', {}).get('buys', 0)} buys)
+"""
+        else:
+            report += f"📊 MARKET ANALYSIS:\n• Total candidates found: {analysis_data['total_candidates']} token\n"
+        
+        # Highlight tokens with exceptional scores
+        high_alpha_tokens = [coin for coin in memecoins if coin['alpha_score'] >= 70]
+        if high_alpha_tokens:
+            report += "\n💎 EXCEPTIONAL ALPHA GEMS 💎\n"
+            for token in high_alpha_tokens:
+                report += f"• {token['baseToken']['symbol']} - Score {token['alpha_score']}/100\n"
+    
+    report += """
+⚠️ DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Always conduct your own research before investing
+• Memecoins are extremely volatile
+• Only risk what you can afford to lose
+• Monitor volume and buy/sell ratios closely
+"""
+    
+    return report
+
+def main():
+    print("🔍 Scanning DexScreener for 30k-200k mcap memecoins...")
+    
+    # Search for various memecoin categories
+    search_terms = [
+        "solana", "dog", "cat", "pepe", "inu", "baby", "elon",
+        "frog", "moon", "elon", "shib", "floki", "bonk", "woof"
+    ]
+    
+    all_pairs = []
+    
+    for term in search_terms[:5]:  # Limit to first 5 terms to avoid too many requests
+        print(f"Searching for {term}...")
+        pairs = fetch_dexscreener_data(term)
+        all_pairs.extend(pairs)
+        print(f"Found {len(pairs)} pairs for {term}")
+    
+    print(f"Total pairs collected: {len(all_pairs)}")
+    
+    memecoins = filter_memecoins(all_pairs)
+    print(f"Filtered memecoins: {len(memecoins)}")
+    
+    report = generate_report(memecoins)
+    print(report)
+    
+    # Save report
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M")
+    filename = f"memecoin_alpha_scan_{timestamp}.txt"
+    with open(filename, "w") as f:
+        f.write(report)
+    
+    print(f"\n📄 Report saved as: {filename}")
+
+if __name__ == "__main__":
+    main()

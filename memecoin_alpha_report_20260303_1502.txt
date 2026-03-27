@@ -1,0 +1,85 @@
+🎯 MEMECOIN ALPHA SCANNER REPORT
+================================================
+Scan Time: Tuesday, March 03, 2026 — 2:59 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Alpha Score Threshold: 40 (Volume + Buy Pressure + Momentum)
+
+🔥 ALPHA DETECTED:
+=================
+
+TOP 10 HIGHEST SCORING TOKENS:
+
+🥇 #1 WIF (Cronos)
+   Alpha Score: 52.4/100
+   Market Cap: $123,726
+   24h Volume: $3.92  |  24h Change: +4.8%
+   Buy Ratio: 100% (Pure accumulation)
+   Vol/MCap Ratio: 0.0%
+   Chain: Cronos
+   Trade: https://dexscreener.com/cronos/0x8d944aa67c55c096628c073f93c5a1c8dede10d3
+
+🥈 #2 DOGE (Pulsechain)
+   Alpha Score: 51.2/100
+   Market Cap: $61,614
+   24h Volume: $33.68  |  24h Change: +10.6%
+   Buy Ratio: 91.7% (Strong buy pressure)
+   Vol/MCap Ratio: 0.1%
+   Chain: Pulsechain
+   Trade: https://dexscreener.com/pulsechain/0xd9e7afb35ad1040c470cc0d495e4b8d61cf52c9b
+
+🥉 #3 FLOKI (Cronos)
+   Alpha Score: 50.1/100
+   Market Cap: $89,056
+   24h Volume: $100.07  |  24h Change: 0.0%
+   Buy Ratio: 100% (Pure accumulation)
+   Vol/MCap Ratio: 0.1%
+   Chain: Cronos
+   Trade: https://dexscreener.com/cronos/0x3b3ae49bdd1159909fe9c3e53f89adf27c97d829
+
+🎯 #4 BOME (Solana)
+   Alpha Score: 45.1/100
+   Market Cap: $43,772
+   24h Volume: $2,111  |  24h Change: +17.4%
+   Buy Ratio: 68.1% (Solid buy pressure)
+   Vol/MCap Ratio: 4.8% (HIGHEST VOL/MCAP RATIO)
+   Chain: Solana
+   Trade: https://dexscreener.com/solana/hyru7vns9srvwxpunkshdsdsrdydwe2wu6b3kdgcbrwe
+
+🎯 #5 DOGE (Base)
+   Alpha Score: 38.5/100
+   Market Cap: $80,979
+   24h Volume: $241  |  24h Change: +6.2%
+   Buy Ratio: 70.6% (Good buy pressure)
+   Vol/MCap Ratio: 0.3%
+   Chain: Base
+   Trade: https://dexscreener.com/base/0x95dd03e7df28a7fdbb2e36a5675034937218a6ae
+
+📊 MARKET ANALYSIS:
+=================
+• Total tokens scanned: 33
+• Alpha tokens detected: 25
+• Average MCap: $83,595
+• Average 24h Volume: $293
+• Average Buy Ratio: 89%
+• Top chains: Cronos, Pulsechain, Solana, Base
+
+💡 KEY INSIGHTS:
+===============
+1. BOME shows HIGHEST volume relative to market cap (4.8%) - indicates strong attention
+2. Multiple WIF tokens showing 100% buy ratios - pure accumulation phase
+3. Pulsechain DOGE has strong momentum (+10.6%) with 91.7% buy pressure
+4. Cronos chain showing multiple high-alpha tokens
+5. Most tokens are in early accumulation phases
+
+⚠️ RISK ASSESSMENT:
+==================
+• Market cap range (30k-200k) = moderate risk/reward
+• High buy ratios suggest accumulation phase
+• Low volumes on most tokens = potential for rapid moves
+• Early-stage projects = high volatility expected
+
+🔥 ALPHA SPOTLIGHT: BOME
+======================
+With the highest Vol/MCap ratio (4.8%) and strong buy pressure (68.1%), BOME shows the most compelling alpha signal. The combination of healthy volume relative to market cap and significant price momentum (+17.4%) suggests genuine market interest.
+
+⚠️ DISCLAIMER: This is alpha detection, not financial advice. DYOR and only risk what you can afford to lose. High-risk memecoin space.

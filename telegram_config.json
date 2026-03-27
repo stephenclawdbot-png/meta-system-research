@@ -1,0 +1,11 @@
+{
+    "memecoin_group_id": "-1002328055394",
+    "alert_format": "mandatory",
+    "scan_interval": 1800,
+    "min_market_cap": 50000,
+    "min_volume": 50000,
+    "max_alerts_per_scan": 3,
+    "timezone": "Asia/Manila",
+    "active_hours": ["09:00-23:00"],
+    "keywords": ["memecoin", "lowcap", "pump", "trending", "solana", "eth", "base"]
+}

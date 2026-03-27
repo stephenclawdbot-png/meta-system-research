@@ -1,0 +1,68 @@
+🧠 MEMECOIN ALPHA SCANNER - SUB 30K-200K MCAP
+============================================================
+Scan Time: Wednesday, March 04, 2026 — 07:16 PM (Asia/Manila)
+Target Range: $30k - $200k Market Cap
+
+🔥 TOP ALPHA MEMECOINS DETECTED:
+--------------------------------------------------
+🎯 #1 NotifAi - Alpha Score: 55/110
+   💰 MCap: $99,146 | Vol: $13,726
+   📈 24h Change: -3.07%
+   🔥 Vol/MCap Ratio: 13.8%
+   📊 Buy/Sell: 61.1% (96 buys, 61 sells)
+   🌐 Chain: BSC
+   🔗 https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0
+
+🎯 #2 Coin - Alpha Score: 55/110
+   💰 MCap: $47,748 | Vol: $6,740
+   📈 24h Change: 5.99%
+   🔥 Vol/MCap Ratio: 14.1%
+   📊 Buy/Sell: 60.6% (94 buys, 61 sells)
+   🌐 Chain: Solana
+   🔗 https://dexscreener.com/solana/FjT1DpbREUesu2r1DQfHxFATK9uitWAu4BdvNNvM4C4w
+
+🎯 #3 SOL (Pulsechain) - Alpha Score: 35/110
+   💰 MCap: $90,224 | Vol: $817
+   📈 24h Change: 19.03%
+   🔥 Vol/MCap Ratio: 0.9%
+   📊 Buy/Sell: 40.9% (132 buys, 191 sells)
+   🌐 Chain: Pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x30fe90B1ad644970C48a6B5886EC39B1e3df97Ee
+
+🎯 #4 topbasetrending - Alpha Score: 30/110
+   💰 MCap: $34,743 | Vol: $1,590
+   📈 24h Change: 1.21%
+   🔥 Vol/MCap Ratio: 4.6%
+   📊 Buy/Sell: 26.9% (58 buys, 158 sells)
+   🌐 Chain: Base
+   🔗 https://dexscreener.com/base/0x1883ffbc254f2f72857c38a7c00ffcfe0a7fa0223a4b8fd1e6fcc8216d3b7a67
+
+🎯 #5 BNB (Base chain) - Alpha Score: 30/110
+   💰 MCap: $168,777 | Vol: $82
+   📈 24h Change: 13.75%
+   🔥 Vol/MCap Ratio: 0.0%
+   📊 Buy/Sell: 35.7% (10 buys, 18 sells)
+   🌐 Chain: Base
+   🔗 https://dexscreener.com/base/0x627874dac50df063700c59cdee016887008724977ae6d46065336576cf6474d6
+
+📊 SCAN SUMMARY:
+--------------------
+Total Gems Found: 10 tokens
+🥇 Highest Alpha: NotifAi & Coin (tie at 55/110)
+💰 Avg MCap: $99,502
+📈 Avg Volume: $2,471
+🚀 Avg Vol/MCap Ratio: 3.5%
+
+🔍 KEY INSIGHTS:
+• Market showing moderate activity with 10 qualifying tokens
+• Highest scorers show strong volume/mcap ratios suggesting undervaluation
+• Mixed signals with both positive and negative price momentum
+• BSC and Solana chains showing the most promising alpha signals
+
+⚠️ DISCLAIMER: High risk memecoin scanning - NFA
+
+---
+SCANNER DETAILS:
+- Market Cap Range: $30,000 - $200,000
+- Alpha Score Components: Volume (30pts), Vol/MCap Ratio (20pts), Price Momentum (25pts), Liquidity (15pts), Activity (10pts), Buy Pressure (10pts)
+- Scan Time: Wednesday, March 04, 2026 — 07:16 PM (Asia/Manila)

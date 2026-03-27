@@ -1,0 +1,37 @@
+💰 MEMECOIN ALPHA SCANNER - SUMMARY REPORT
+================================================
+Scan Time: Friday, March 06, 2026 — 05:31 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Alpha Gems Found: 71
+
+🔥 TOP ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------
+
+💎 #1 Diamond Hands (Solana) - Alpha Score: 91.3
+   📈 Explosive Volume: $6M vs $71K MCap (85x ratio)
+   📊 Huge Momentum: +191% price, 71% buy ratio
+   🔄 Extreme Activity: 12,024 transactions
+
+💎 #2 Diamond (Base) - Alpha Score: 89.3
+   📈 Strong Volume: $332K vs $71K MCap (4.6x ratio)
+   📊 Bullish Signals: +236% price, 64% buy ratio
+
+💎 #3 Diamond Hands (Solana) - Alpha Score: 89.0
+   📈 Major Rally: +737% price, $49K volume
+   📊 Healthy Activity: 1,157 transactions, 63% buy ratio
+
+💎 #4 Coin (Solana) - Alpha Score: 60.2
+   📈 Established Volume: $144K, 2.1x ratio
+   📊 Consistent: 55% buy ratio, $48K liquidity
+
+📊 MARKET SUMMARY
+• Average Alpha Score: 29.6/100
+• High Alpha Gems (>25): 13 tokens
+• Bullish Sentiment Detected
+
+💡 KEY PATTERNS:
+- "Diamond" theme dominating with huge volume ratios
+- Solana chain showing strongest alpha signals
+- Early-stage pumps with massive transaction counts
+
+⚠️ DISCLAIMER: High-risk microcaps - DYOR required

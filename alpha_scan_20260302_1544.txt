@@ -1,0 +1,24 @@
+🎯 MEMECOIN ALPHA SCANNER REPORT
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: Monday, March 02, 2026 — 03:44 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP ALPHA GEMS DETECTED
+------------------------------
+📊 MARKET ANALYSIS:
+• Total candidates found: 0 tokens meeting criteria
+• Average Alpha Score: 0.0/80
+• Average Vol/MCap Ratio: 0.0%
+• Average Buy Ratio: 0.0%
+• Average Market Cap: $0
+
+💡 KEY ALPHA INSIGHTS:
+• Potential alpha gems identified based on volume efficiency and buy pressure
+• Higher alpha scores indicate stronger momentum and volume activity
+
+⚠️ DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Always conduct your own research before investing
+• Memecoins are extremely volatile
+• Only risk what you can afford to lose
+• Monitor volume and buy/sell ratios closely

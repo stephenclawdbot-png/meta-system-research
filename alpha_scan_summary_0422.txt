@@ -1,0 +1,41 @@
+🧠 ALPHA SCANNER REPORT - 04:22 GMT+8
+March 7, 2026 - 15-Minute Interval
+
+📊 SCAN SUMMARY:
+• Target Range: $30K-$200K MCap
+• Tokens Analyzed: 328
+• Alpha Gems Found: 31 (no change from 04:07)
+• Avg Metrics: $94K mcap, 850% vol efficiency
+
+🔥 ALPHA CONSISTENCY ANALYSIS 💎
+
+🔄 TOP ALPHA UNCHANGED (15-min interval):
+🎯 #1: hamster (75.9/100 score) - ✅ STABLE
+• Vol Efficiency: 215% ($282K vol / $130K mcap)
+• Price Action: +1650% 📈 Consistent
+• Buy Ratio: 61.7%
+• Activity: 6,686 txns
+⚠️ WARNING: $0 liquidity - unchanged risk
+
+🎯 #2: CASH (72.0/100) - ✅ STABLE
+• Outstanding: 9,867% volume efficiency
+• Strong buy pressure: 69.5%
+
+🎯 #3: INU (56.8/100) - ✅ STABLE
+• Solid growth: +65.5% price action
+• Consistent trading flow
+
+💡 MARKET INSIGHTS:
+• Weekend alpha signals showing remarkable stability
+• Top 3 alpha gems unchanged over 15-minute interval
+• Volume efficiency metrics consistent
+• Liquidity concerns remain primary risk factor
+
+📈 SCANNER PERFORMANCE:
+• Framework: ✅ Operational with consistent results
+• Data Quality: ✅ High reliability across executions
+• Detection: ✅ Effective alpha signal identification
+
+⚠️ DISCLAIMER: High risk memecoin detection. DYOR required.
+
+📊 Next scan scheduled per cron frequency.

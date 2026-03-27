@@ -1,0 +1,55 @@
+🎯 MEMECOIN ALPHA SCANNER
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: 2026-03-02 11:12:30 GMT+8
+
+🔥 TOP ALPHA GEMS DETECTED
+------------------------------
+1. Cute Animal Tech (CAT) - Alpha Score: 75/80
+   💰 MCap: $30,013
+   📈 Volume 24h: $21,986
+   🔥 Vol/MCap Ratio: 73.3%
+   📊 Price Change: 57%
+   🔄 Buy/Sell: 285/210
+   🔗 Chain: Solana
+
+2. MOONCOIN (MOON) - Alpha Score: 40/80
+   💰 MCap: $55,278
+   📈 Volume 24h: $6,462
+   🔥 Vol/MCap Ratio: 11.7%
+   📊 Price Change: -8%
+   🔄 Buy/Sell: 70/42
+   🔗 Chain: Solana
+
+3. Niche Baby (Baby) - Alpha Score: 40/80
+   💰 MCap: $138,914
+   📈 Volume 24h: $12,570
+   🔥 Vol/MCap Ratio: 9.0%
+   📊 Price Change: 7%
+   🔄 Buy/Sell: 122/80
+   🔗 Chain: Solana
+
+4. INU (INU) - Alpha Score: 30/80
+   💰 MCap: $61,660
+   📈 Volume 24h: $5,109
+   🔥 Vol/MCap Ratio: 8.3%
+   📊 Price Change: -2%
+   🔄 Buy/Sell: 63/54
+   🔗 Chain: Solana
+
+5. PEPE (PEPE) - Alpha Score: 25/80
+   💰 MCap: $195,411
+   📈 Volume 24h: $1,378
+   🔥 Vol/MCap Ratio: 0.7%
+   📊 Price Change: -7%
+   🔄 Buy/Sell: 147/83
+   🔗 Chain: Pulsechain
+
+6. Pepe By Matt Furie (PEPE) - Alpha Score: 10/80
+   💰 MCap: $150,430
+   📈 Volume 24h: $1,866
+   🔥 Vol/MCap Ratio: 1.2%
+   📊 Price Change: -4%
+   🔄 Buy/Sell: 8/19
+   🔗 Chain: Solana
+

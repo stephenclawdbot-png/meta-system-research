@@ -1,0 +1,47 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON EXECUTION
+================================================
+Scan Time: Monday, March 2, 2026 — 9:05 AM (Asia/Manila)
+Target Range: Sub $30K-200K Market Cap Memecoins
+
+💎 ALPHA GEMS DETECTED: 5
+
+🥇 TOP PERFORMERS:
+
+1. PEPE (Niche Pepe) - Score: 36/100
+   • Market Cap: $192K | Volume: $2,152
+   • Volume/MCap: 1.1% | Buy Ratio: 60.7%
+   • Price: $0.000192 | Change: -9.8%
+   • Liquidity: $20,874
+   • DexScreener: https://dexscreener.com/pulsechain/0x2a8f6137ba7749560bb9e84b36cb2ac9536d9e88
+
+2. BABY (Niche Baby) - Score: 34/100  
+   • Market Cap: $133K | Volume: $12,099
+   • Volume/MCap: 9.1% | Buy Ratio: 60.0%
+   • Price: $0.000145 | Change: +5.3%
+   • Liquidity: $51,584
+   • DexScreener: https://dexscreener.com/solana/4qbzhs2ecgmvyx77hrexrlvu4hyy4eesmwrdr8xsefqo
+
+3. INU (Inu) - Score: 29/100
+   • Market Cap: $61K | Volume: $5,122
+   • Volume/MCap: 8.4% | Buy Ratio: 54.3%
+   • Price: $0.000062 | Change: -1.0%
+   • Liquidity: $22,411
+   • DexScreener: https://dexscreener.com/solana/9gzzcwcfa16xsqmnd1gnazivgfwgpxv8cgftt7wgvgqz
+
+📊 MARKET ANALYSIS:
+• Average Market Cap: $128K
+• Average Volume: $4,748
+• Average Buy Ratio: 49.3%
+• Total Candidates: 5
+• Maximum Alpha Score: 36/100
+
+⚠️ MARKET CONDITIONS:
+• Early Monday morning scan
+• Generally lower weekend/morning activity
+• Prices mostly consolidating
+• Buy pressure moderate to strong
+
+🔄 NEXT SCAN SCHEDULED: 1:00 PM (in ~4 hours)
+
+================================================
+🔍 ALGORITHM: Volume/MCap Ratio + Buy Pressure + Price Momentum

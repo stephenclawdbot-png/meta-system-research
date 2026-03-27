@@ -1,0 +1,48 @@
+🎯 COMPREHENSIVE MEMECOIN ALPHA SCANNER REPORT
+========================================================
+Scanning multiple keywords for sub 30k-200k MCap gems
+Scan Time: Thursday, March 05, 2026 — 02:03 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Filter Criteria: Minimum $500 volume, positive buy pressure
+
+🔥 TOP ALPHA GEMS DETECTED
+------------------------------
+💎 HIGH QUALITY ALPHA (Score ≥40)
+1. WIF (Wallahi I'm Fasting) - Alpha Score: 90/100
+   💰 MCap: $61,584
+   📈 Volume 24h: $375,086.03
+   🔥 Vol/MCap Ratio: 609.1%
+   📊 Price Change: +748.0%
+   🔄 Buy/Sell: 5234/2092 (71.4% buys)
+   💧 Liquidity: $0
+   🔗 Chain: solana
+   DexScreener: https://dexscreener.com/solana/edjswcdxhbkm1dydzwsvowyj2kqzhhsucbgusrm7ctc
+
+2. SOL (Solana) - Alpha Score: 41/100
+   💰 MCap: $97,174
+   📈 Volume 24h: $22,032.18
+   🔥 Vol/MCap Ratio: 22.7%
+   📊 Price Change: +7.6%
+   🔄 Buy/Sell: 2186/2281 (48.9% buys)
+   💧 Liquidity: $0
+   🔗 Chain: injective
+   DexScreener: https://dexscreener.com/injective/0xd9089235d2c1b07261cbb2071f4f5a7f92fa1eca940e3cad88bb671c288a972f
+
+📊 MARKET ANALYSIS:
+• Total candidates: 9 tokens
+• High quality (≥40): 2 tokens
+• Average Alpha Score: 23.6/100
+• Average Vol/MCap Ratio: 71.2%
+• Average Buy Ratio: 59.0%
+• Average Market Cap: $95,509
+• Highest Momentum: WIF (+748.0%)
+• Most Efficient Volume: WIF (609.1% vol/mcap)
+• Highest Buy Pressure: WIF (5234 buys)
+
+⚠️ DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Always conduct your own research before investing
+• Memecoins are extremely volatile
+• Only risk what you can afford to lose
+• Monitor volume and buy/sell ratios closely
+
+📈 NEXT SCAN: Scheduled for next hour

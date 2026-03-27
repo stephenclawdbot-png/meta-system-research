@@ -1,0 +1,53 @@
+💎 MEMECOIN ALPHA SCANNER CRON REPORT
+=====================================================
+Scan Time: Monday, March 2nd, 2026 — 9:14 AM (Asia/Manila)
+Target Range: $30,000 - $200,000 Market Cap
+Scanned Sources: DexScreener API
+
+🔍 KEY FINDINGS:
+• Total Alpha Gems Found: 19 tokens in target range
+• Best Alpha Scores: PEPE (45/100), WIF (45/100)
+• Market Conditions: Generally bearish with price declines
+
+📊 TOP ALPHA CANDIDATES:
+
+1. PEPE - Score: 45/100
+   • MCap: $192,206
+   • 24h Vol: $1,999
+   • Price Change: -8.5%
+   • Buy Ratio: 63.2%
+   • Chain: PulseChain
+
+2. WIF - Score: 45/100
+   • MCap: $117,895
+   • 24h Vol: $1,020
+   • Price Change: -0.5%
+   • Buy Ratio: 55.3%
+   • Chain: Cronos
+
+3. PEPE - Score: 20/100
+   • MCap: $119,356
+   • 24h Vol: $899
+   • Price Change: -7.0%
+   • Buy Ratio: 55.6%
+   • Chain: Solana
+
+📈 MARKET ANALYSIS:
+• Most tokens showing negative price momentum (-5% to -8%)
+• Low volume across most candidates suggests limited activity
+• High buy ratios indicate accumulation despite bearish market
+• Vol/MCap ratios below 2% suggest undervalued potential
+
+⚠️ RISK ASSESSMENT:
+• High volatility with significant price drops
+• Low liquidity on several chains (especially outside Solana/Ethereum)
+• DYOR essential - verify contract authenticity and roadmap
+
+💡 RECOMMENDATION:
+Current market conditions show bearish momentum. Monitor PEPE and WIF tokens on Cronos/PulseChain for potential reversal signs. Wait for increased volume and positive price momentum before considering positions.
+
+🧠 SCANNER METHODOLOGY:
+• Alpha Score: Composite of volume, buy pressure, price momentum
+• Filters: MCap $30K-$200K, minimum $100 volume
+• Chains: Solana, Ethereum, PulseChain, Cronos, Near
+• Real-time API: DexScreener

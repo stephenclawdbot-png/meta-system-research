@@ -1,0 +1,36 @@
+🚀 MEMECOIN ALPHA SCANNER REPORT
+================================================================================
+Scan Time: Wednesday, March 04, 2026 — 10:31 PM (Asia/Manila)
+Target Range: $30K - $200K Market Cap
+
+SCANNER SUMMARY:
+- Multiple PEPE tokens detected in target range
+- Market caps ranging from $53K to $161K
+- Highest volume observed: $1,766.92 on PEPE with $161K mcap
+- Volume/MCap ratios: ranging from 0.2% to 1.1%
+
+TOP ALPHA FINDINGS:
+
+1. PEPE ($161,332 MCap)
+   - Volume: $1,766.92 (1.1% ratio)
+   - Moderate activity level
+
+2. PEPE ($103,939 MCap) 
+   - Volume: $1,630.14 (1.6% ratio)
+   - Good volume efficiency
+
+3. PEPE ($124,780 MCap)
+   - Volume: $104.01 (0.1% ratio)
+   - Lower activity
+
+RISK ASSESSMENT:
+- All tokens are PEPE variants (high memecoin correlation)
+- Volume levels are relatively low across the board
+- Limited diversification in meme categories
+
+RECOMMENDATION:
+Current scan shows limited alpha opportunities. Market appears to be consolidating with 
+lower than expected volume levels in the target mcap range. Suggest monitoring for 
+new token launches or wait for improved volume signals.
+
+⚠️ DISCLAIMER: High risk memecoins. Do Your Own Research.

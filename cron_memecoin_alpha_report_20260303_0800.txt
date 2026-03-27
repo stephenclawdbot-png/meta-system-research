@@ -1,0 +1,85 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Tuesday, March 03, 2026 — 08:00 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 POPCAT - Alpha Score: 75.9/100
+   📈 24h Stats: $52,256 vol • $53,000 mcap • 98.6% ratio
+   📊 Sentiment: 484.0% price • 63.7% buy ratio
+   🔄 Activity: 4535 txns (2888 buys/1647 sells)
+   💧 Liquidity: $37,100 (est.)
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/hre898slypksaatvfwvpbzcsfsbmykxzpfw6tswvvwre
+
+🎯 #2 PEPE - Alpha Score: 75.9/100
+   📈 24h Stats: $12,857 vol • $30,261 mcap • 42.5% ratio
+   📊 Sentiment: 37.7% price • 85.8% buy ratio
+   🔄 Activity: 372 txns (319 buys/53 sells)
+   💧 Liquidity: $21,182 (est.)
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x734537df027cd7e8d4f7d316802fec087eeddfdc
+
+🎯 #3 BURN - Alpha Score: 56.5/100
+   📈 24h Stats: $18,625 vol • $66,010 mcap • 28.2% ratio
+   📊 Sentiment: 9.5% price • 65.3% buy ratio
+   🔄 Activity: 739 txns (482 buys/257 sells)
+   💧 Liquidity: $46,207 (est.)
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+🎯 #4 Coin - Alpha Score: 40.7/100
+   📈 24h Stats: $62 vol • $45,264 mcap • 0.1% ratio
+   📊 Sentiment: 22.2% price • 76.7% buy ratio
+   🔄 Activity: 73 txns (56 buys/17 sells)
+   💧 Liquidity: $31,684 (est.)
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/eqptmef8y98yyqn7krblzfqwmytcmt3oyzpiwzsscyet
+
+🎯 #5 BOME - Alpha Score: 40.6/100
+   📈 24h Stats: $2,111 vol • $43,772 mcap • 4.8% ratio
+   📊 Sentiment: 17.4% price • 68.1% buy ratio
+   🔄 Activity: 144 txns (98 buys/46 sells)
+   💧 Liquidity: $30,640 (est.)
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/hyru7vns9srvwxpunkshdsdsrdydwe2wu6b3kdgcbrwe
+
+🎯 #6 Honey - Alpha Score: 32.2/100
+   📈 24h Stats: $456 vol • $36,464 mcap • 1.3% ratio
+   📊 Sentiment: 2.5% price • 100.0% buy ratio
+   🔄 Activity: 42 txns (42 buys/0 sells)
+   💧 Liquidity: $25,524 (est.)
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xa4729a0a1c3832bf1bda280f156a28014a14c509
+
+🎯 #7 SOL - Alpha Score: 30.3/100
+   📈 24h Stats: $666 vol • $81,584 mcap • 0.8% ratio
+   📊 Sentiment: 21.7% price • 36.8% buy ratio
+   🔄 Activity: 163 txns (60 buys/103 sells)
+   💧 Liquidity: $57,108 (est.)
+   🌐 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x30fe90b1ad644970c48a6b5886ec39b1e3df97ee
+
+🎯 #8 ETH - Alpha Score: 28.7/100
+   📈 24h Stats: $53 vol • $44,435 mcap • 0.1% ratio
+   📊 Sentiment: 10.6% price • 81.8% buy ratio
+   🔄 Activity: 22 txns (18 buys/4 sells)
+   💧 Liquidity: $31,104 (est.)
+   🌐 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x77e4e36e9ab013e6d48b34836b61441c328b1738
+
+📊 MARKET SUMMARY FOR 8 GEMS
+• Average Alpha Score: 43.0/100
+• Average Market Cap: $51,812
+• Average Volume/MCap Ratio: 131.7%
+• Top Performer: POPCAT (75.9/100)
+
+💡 Key Alpha Signals:
+15+ transactions = active community
+Vol/Mcap > 25% = strong interest
+Buy ratio > 60% = accumulation phase
+
+⚠️ DISCLAIMER: High risk assets - DYOR required

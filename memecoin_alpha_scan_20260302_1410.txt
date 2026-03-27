@@ -1,0 +1,76 @@
+🎯 MEMECOIN ALPHA SCANNER REPORT
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: Monday, March 02, 2026 — 02:10 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP ALPHA GEMS DETECTED
+------------------------------
+1. Solana (The Baby Elephant) - MEDIUM-HIGH RISK ⚠️
+   🎯 Alpha Score: 78/100
+   💰 MCap: $74,174
+   📈 Volume 24h: $350,056.1
+   🔥 Vol/MCap Ratio: 471.9%
+   📊 Price Change: +114.0%
+   🔄 Buy/Sell: 6846/8117 (45.8% buys)
+   🔗 Chain: SOLANA
+   🔗 DexScreener: https://dexscreener.com/solana/8ittpmfhz8srxfy5u5xoasdevdbf3gs6xjxzwp8g1nft
+
+2. SOL (Solana) - HIGH RISK ⚠️
+   🎯 Alpha Score: 43/100
+   💰 MCap: $88,983
+   📈 Volume 24h: $16,138.26
+   🔥 Vol/MCap Ratio: 18.1%
+   📊 Price Change: -3.0%
+   🔄 Buy/Sell: 1003/1167 (46.2% buys)
+   🔗 Chain: INJECTIVE
+   🔗 DexScreener: https://dexscreener.com/injective/0xd9089235d2c1b07261cbb2071f4f5a7f92fa1eca940e3cad88bb671c288a972f
+
+3. PEPE (PEPE) - HIGH RISK ⚠️
+   🎯 Alpha Score: 28/100
+   💰 MCap: $194,126
+   📈 Volume 24h: $1,925.43
+   🔥 Vol/MCap Ratio: 1.0%
+   📊 Price Change: -7.2%
+   🔄 Buy/Sell: 251/93 (73.0% buys)
+   🔗 Chain: PULSECHAIN
+   🔗 DexScreener: https://dexscreener.com/pulsechain/0x2a8f6137ba7749560bb9e84b36cb2ac9536d9e88
+
+4. INU (INU) - HIGH RISK ⚠️
+   🎯 Alpha Score: 20/100
+   💰 MCap: $59,410
+   📈 Volume 24h: $4,617.75
+   🔥 Vol/MCap Ratio: 7.8%
+   📊 Price Change: -2.6%
+   🔄 Buy/Sell: 58/49 (54.2% buys)
+   🔗 Chain: SOLANA
+   🔗 DexScreener: https://dexscreener.com/solana/9gzzcwcfa16xsqmnd1gnazivgfwgpxv8cgftt7wgvgqz
+
+5. PEPE (Pepe By Matt Furie) - HIGH RISK ⚠️
+   🎯 Alpha Score: 0/100
+   💰 MCap: $150,430
+   📈 Volume 24h: $1,768.71
+   🔥 Vol/MCap Ratio: 1.2%
+   📊 Price Change: -2.3%
+   🔄 Buy/Sell: 8/18 (30.8% buys)
+   🔗 Chain: SOLANA
+   🔗 DexScreener: https://dexscreener.com/solana/8lvqv2jgnvcx1ndtmhd5ahx8zujetflwygq9mtdfphxe
+
+📊 MARKET ANALYSIS:
+• Total candidates found: 5 tokens meeting criteria
+• Average Alpha Score: 33.8/100
+• Average Vol/MCap Ratio: 100.0%
+• Average Buy Ratio: 50.0%
+• Average Market Cap: $113,425
+• Highest Momentum: Solana (+114.0%)
+• Most Efficient Volume: Solana (471.9% vol/mcap)
+• Highest Buy Pressure: Solana (6846 buys)
+
+💎 EXCEPTIONAL ALPHA GEMS 💎
+• Solana - Score 78/100
+
+⚠️ DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Always conduct your own research before investing
+• Memecoins are extremely volatile
+• Only risk what you can afford to lose
+• Monitor volume and buy/sell ratios closely

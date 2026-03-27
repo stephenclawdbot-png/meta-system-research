@@ -1,0 +1,31 @@
+🚨 Alpha Scanner Service Offline
+
+Current time: Wednesday March 4, 2026 — 5:23 AM (Asia/Manila)
+
+Status: Alpha Scanner service is not running on port 3111
+
+Request Details:
+- Task: Scan DexScreener for sub 30k-200k mcap memecoins
+- Filter: Detect alpha before mainstream attention
+- Expected source: DexScreener API
+
+Required Action:
+- Start the Alpha Scanner service to resume automated scanning
+- Service should run on localhost:3111
+- Scanner automatically runs every 5 minutes
+
+Next Steps:
+1. Check if Alpha Scanner process needs to be started
+2. Verify port 3111 is available
+3. Monitor service logs for any errors
+4. Resume cron job once service is operational
+
+The scanner uses sophisticated alpha detection criteria including:
+- Market cap filtering ($5K-$5M range)
+- Volume analysis (>$1K 24h volume)
+- Buy/sell ratio (>50% buys)
+- Age freshness (5min-24h)
+- Liquidity requirements
+- Social media presence scoring
+
+Manual workaround: Use DexScreener directly until scanner is restored

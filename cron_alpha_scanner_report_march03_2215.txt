@@ -1,0 +1,66 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Tuesday, March 03, 2026 — 10:15 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+Scan Results: 49 tokens total
+
+🔥 TOP 6 ALPHA GEMS (Sorted by High Vol/MCap Ratio)
+------------------------------------------------------------
+
+🎯 #1 Mars - Alpha Score: 67/100
+   📈 24h Stats: $536,951 vol • $74,865 mcap • 717.2% ratio
+   📊 Sentiment: -43.7% price momentum
+   🔄 Activity: High volume suggests active trading
+   💧 Chain: solana (dominant memecoin ecosystem)
+   🔗 https://dexscreener.com/solana/7urzc3jsszh1xawmfkvokhhhldxjy8eon6r8n9mm1qvu
+
+🎯 #2 SHIBA - Alpha Score: 59/100
+   📈 24h Stats: $130,170 vol • $58,283 mcap • 223.3% ratio
+   📊 Sentiment: -71.2% price momentum
+   🔄 Activity: Strong volumetric signals despite bearish price
+   💧 Chain: solana
+   🔗 https://dexscreener.com/solana/c1piktpchfufvbn68vtjpn1gapgpywbuogwyjzqafdno
+
+🎯 #3 memecoin - Alpha Score: 62/100
+   📈 24h Stats: $141,535 vol • $81,480 mcap • 173.7% ratio
+   📊 Sentiment: -51.0% price momentum
+   🔄 Activity: Consistent high volume despite price drop
+   💧 Chain: solana
+   🔗 https://dexscreender.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4cety
+
+🎯 #4 MOON (MOONCOIN) - Alpha Score: 46/100
+   📈 24h Stats: $23,657 vol • $52,981 mcap • 44.7% ratio
+   📊 Sentiment: +20.7% bullish momentum
+   🔄 Activity: Positive price trend with healthy volume
+   💧 Chain: solana
+   🔗 https://dexscreener.com/solana/ens8x7yuksb1pw7pvzs9aw6bvjzcsjekm1o1dvfttb45
+
+🎯 #5 ELON - Alpha Score: 26/100
+   📈 24h Stats: $948 vol • $53,308 mcap • 1.8% ratio
+   📊 Sentiment: +20.8% bullish momentum
+   🔄 Activity: Low volume despite price appreciation
+   💧 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x2dcee3eba5de855ad27e8bdfe39a0869761e7e72
+
+🎯 #6 MOON - Alpha Score: 9/100
+   📈 24h Stats: $4,418 vol • $62,106 mcap • 7.1% ratio
+   📊 Sentiment: -9.8% price momentum
+   🔄 Activity: Low volumetric activity
+   💧 Chain: ethereum
+   🔗 https://dexscreener.com/ethereum/0x1dbe5ac06999f50534736af50144469f0382be3e
+
+📊 MARKET SUMMARY FOR SCANNED GEMS
+• Average Alpha Score (Top 6): 44.8/100
+• Average Market Cap: $63,870
+• Average Volume/MCap Ratio (Top 6): 194.7%
+• Top Performer: Mars (717.2% vol/mcap ratio)
+• Total Gems Found: 49 tokens in target range
+
+💡 KEY ALPHA SIGNALS DETECTED:
+- 4/6 gems exceed 25% vol/mcap threshold (strong alpha indicators)
+- Solana chains dominate with 3/6 gems (popular memecoin ecosystem)
+- High volume suggests organic interest despite bearish price action
+- Mars leads with exceptional 717% volume-to-mcap ratio
+
+⚠️ DISCLAIMER: High risk assets - DYOR required. Volume ratios indicate interest but do not guarantee price appreciation.

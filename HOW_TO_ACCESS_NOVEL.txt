@@ -1,0 +1,38 @@
+HOW TO ACCESS ASHES OF THE DAWN COMPLETE NOVEL
+
+FILES CREATED:
+1. ashes_of_the_dawn_complete_package.tar.gz - Full novel package
+2. ashes_of_the_dawn.epub - Ebook format
+3. ashes_of_the_dawn.html - Web-readable version
+
+LOCATION: 
+/Users/clawdbot/.openclaw/workspace/
+
+ACCESS METHODS:
+
+Option 1: SSH Access
+ssh clawdbot@[your-server-ip]
+cd /Users/clawdbot/.openclaw/workspace/
+ls *.tar.gz *.epub *.html
+
+Option 2: File Transfer
+You need server access credentials to download files
+
+Option 3: Read Directly
+Let me paste chapters directly in this chat starting from Chapter 1:
+
+CHAPTER 1 EXCERPT:
+
+Arin felt the Threads before he saw the dawn.
+
+They shimmered at the edge of his awareness, like heat haze over summer stone. A faint pressure against his skin that wasn't wind, wasn't sun, wasn't anything most people could name. Just the Vahl, flowing through everything.
+
+"Still trying to touch them?"
+
+Darro's voice came from behind him, soft as morning mist. The old man sat cross-legged on the raised stone platform that served as their meeting place, his grey hair catching the first light.
+
+"I can feel them," Arin said. His eyes remained closed. "Like trying to catch smoke."
+
+"Threadwake." Darro's approval warmed the word. "When the Vahl notices you back. Most soldiers train for years to reach that."
+
+Let me know which approach works for you and I'll continue with the full novel content.

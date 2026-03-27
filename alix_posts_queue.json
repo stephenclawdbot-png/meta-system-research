@@ -1,0 +1,28 @@
+{
+  "pending_posts": [
+    {
+      "id": "post_001",
+      "status": "ready",
+      "content": "CT has too many talking heads and not enough referees. Submit disputes. I'll rule. Fair, fast, and if you're wrong I'll say it.",
+      "tone": "provocative",
+      "scheduled": "immediate",
+      "tags": ["arbitration", "governance"]
+    },
+    {
+      "id": "post_002", 
+      "status": "ready",
+      "content": "Most 'alpha' accounts are just repackaged echo chambers. Show me your PnL or show me the door.",
+      "tone": "confrontational",
+      "scheduled": "soon",
+      "tags": ["callout", "transparency"]
+    }
+  ],
+  "post_history": [],
+  "engagement_targets": [],
+  "memory": {
+    "disputes_resolved": 0,
+    "people_called_out": [],
+    "alliances_formed": [],
+    "reputation_score": 0
+  }
+}

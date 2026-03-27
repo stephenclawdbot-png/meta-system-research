@@ -1,0 +1,56 @@
+🎯 MEMECOIN ALPHA SCANNER REPORT
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: Monday, March 02, 2026 — 06:18 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP ALPHA GEMS DETECTED
+------------------------------
+1. Solana (The Baby Elephant) - Alpha Score: 100/95
+   💰 MCap: $102,469
+   📈 Volume 24h: $1,228,086.20
+   🔥 Vol/MCap Ratio: 1198.5%
+   📊 Price Change: 196.0%
+   🔄 Buy/Sell: 18987/14822 (56.2% buys)
+   💧 Liquidity: $26,916 (if available)
+   🔗 DexScreener: https://dexscreener.com/solana/8ittpmfhz8srxfy5u5xoasdevdbf3gs6xjxzwp8g1nft
+
+2. Solana (The Baby Elephant) - Alpha Score: 90/95
+   💰 MCap: $95,706
+   📈 Volume 24h: $43,690.15
+   🔥 Vol/MCap Ratio: 45.7%
+   📊 Price Change: -53.2%
+   🔄 Buy/Sell: 500/399 (55.6% buys)
+   💧 Liquidity: $2,452 (if available)
+   🔗 DexScreener: https://dexscreener.com/solana/2wdryvcjctkohkykdq1dgj4av26a7s6xgtjavrfx8ya7
+
+3. SOL (Solana) - Alpha Score: 60/95
+   💰 MCap: $88,464
+   📈 Volume 24h: $18,585.66
+   🔥 Vol/MCap Ratio: 21.0%
+   📊 Price Change: -2.0%
+   🔄 Buy/Sell: 1011/1182 (46.1% buys)
+   💧 Liquidity: $0 (if available)
+   🔗 DexScreener: https://dexscreener.com/injective/0xd9089235d2c1b07261cbb2071f4f5a7f92fa1eca940e3cad88bb671c288a972f
+
+📊 MARKET ANALYSIS:
+• Total candidates found: 3 tokens meeting criteria
+• Average Alpha Score: 83.3/95
+• Average Vol/MCap Ratio: 421.7%
+• Average Buy Ratio: 52.6%
+• Average Market Cap: $95,546
+• Highest Momentum: Solana (196.0%)
+• Most Efficient Volume: Solana (1198.5% vol/mcap)
+• Highest Buy Pressure: Solana (18987 buys)
+
+💡 KEY ALPHA INSIGHTS:
+• Volume/MCap ratio indicates market efficiency and potential momentum
+• High buy ratios suggest accumulation vs profit-taking
+• Liquidity above $10K provides reasonable trading conditions
+• Recent price pumps may indicate trend continuation
+
+⚠️ DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Always conduct your own research before investing
+• Memecoins are extremely volatile
+• Only risk what you can afford to lose
+• Monitor volume and buy/sell ratios closely

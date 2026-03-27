@@ -1,0 +1,13 @@
+{
+  "cron_id": "62bc16b8-c534-4ace-ba7d-615e1c217383",
+  "task": "Scan DexScreener for sub 30k-200k mcap memecoins - detect alpha before mainstream attention",
+  "execution_time": "2026-03-06 16:51",
+  "status": "service_unavailable",
+  "details": {
+    "service_endpoint": "http://localhost:3111",
+    "service_status": "not_running",
+    "recommendation": "Start the Alpha Scanner service to resume memecoin scanning operations",
+    "next_scheduled_run": "Every 5 minutes"
+  },
+  "scan_results": []
+}

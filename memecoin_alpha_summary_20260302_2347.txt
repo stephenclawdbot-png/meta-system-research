@@ -1,0 +1,55 @@
+🧠 MEMECOIN ALPHA SCANNER - COMPREHENSIVE ANALYSIS
+===================================================
+Scan Time: Monday, March 02, 2026 — 11:47 PM (Asia/Manila)
+TARGET RANGE: $30k - $200k Market Cap
+
+🔥 TOP ALPHA GEMS DETECTED (Score >25):
+-------------------------------------------
+🥇 MOON (MOONCOIN) - Solana
+   • Alpha Score: 57.6/100
+   • MCap: $81,827 | Volume: $25,318
+   • Vol/MCap: 0.31x | Buy Ratio: 55.5%
+   • Price Change: +32.6%
+
+🥈 Satoshi (Ash Ketchum) - Solana  
+   • Alpha Score: 54.1/100
+   • MCap: $66,288 | Volume: $22,347
+   • Vol/MCap: 0.34x | Buy Ratio: 53.4%
+   • Price Change: -8.7%
+
+🥉 Coin - Solana
+   • Alpha Score: 49.6/100
+   • MCap: $45,657 | Volume: $10,080
+   • Vol/MCap: 0.22x | Buy Ratio: 58.4%
+   • Price Change: +22.5%
+
+🏅 ALPHA (AlphArena) - Base
+   • Alpha Score: 43.6/100
+   • MCap: $94,224 | Volume: $21,777
+   • Vol/MCap: 0.23x | Buy Ratio: 54.6%
+   • Price Change: -25.0%
+
+📊 MARKET OVERVIEW:
+• Total Candidates: 52 tokens in range
+• High Alpha (>25 score): 6 tokens
+• Medium Alpha (15-25): 6 tokens
+• Avg MCap: $88K | Avg Volume: $13.6K
+• Avg Vol/MCap: 15.4% | Avg Buy Ratio: 56.3%
+
+🚀 BULLISH SIGNALS:
+• Strong buy pressure with avg 56% buy ratio
+• Healthy transaction volume across top tokens
+• Solana ecosystem dominance (4/6 top gems)
+• Market sentiment: 🔥 BULLISH - Good alpha opportunities
+
+📈 KEY METRICS TRACKING:
+• Volume/Market Cap Ratios ✓ (Healthy)
+• Buy/Sell Pressure ✓ (Accumulation phase)
+• Transaction Volume ✓ (Active community)
+• Price Momentum ✓ (Mixed but favorable)
+
+⚠️ HIGH RISK DISCLAIMER:
+• Memecoins are EXTREMELY volatile
+• Always DYOR before investing
+• Monitor liquidity and volume closely
+• Only risk what you can afford to lose

@@ -1,0 +1,20 @@
+{
+    "scanner": {
+        "min_market_cap": 30000,
+        "max_market_cap": 100000,
+        "min_volume": 1000,
+        "max_age_hours": 24,
+        "min_buy_ratio": 0.6,
+        "scan_interval_minutes": 5
+    },
+    "filtering": {
+        "blocked_keywords": ["elon", "musk", "trump", "biden", "moon", "rocket", "1000x", "100x", "safe", "elonmusk"],
+        "min_liquidity": 1000
+    },
+    "alerts": {
+        "enable_telegram": false,
+        "telegram_bot_token": "YOUR_BOT_TOKEN_HERE",
+        "telegram_chat_id": "YOUR_CHAT_ID_HERE",
+        "alert_format": "detailed"
+    }
+}

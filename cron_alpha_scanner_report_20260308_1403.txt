@@ -1,0 +1,56 @@
+🧠 MEMECOIN ALPHA SCANNER CRON REPORT
+
+Date: Sunday, March 8th, 2026 — 2:03 PM (Asia/Manila)
+Filter: Market Cap $30,000 - $200,000
+
+🔥 TOP ALPHA GEMS FOUND (Score > 25):
+
+🏆 WINNER - PEPE: Alpha Score 75.8/100
+• Chain: solana
+• MCap: $31,060
+• 24h Volume: $41,895
+• Vol/MCap Ratio: 1.35x
+• Buy Ratio: 54.5%
+• Transactions: 736
+• DexScreener: https://dexscreener.com/solana/hdv7qk4x2hsppf6u7ynyydcacfoyb86zub5kub8u3ay
+
+💎 LIFE: Alpha Score 40.6/100
+• Chain: solana
+• MCap: $30,591
+• 24h Volume: $3,977
+• Vol/MCap Ratio: 0.13x
+• Buy Ratio: 45.1%
+• DexScreener: https://dexscreener.com/solana/9kufvej87kk8dy9saxjwr7xyqjte9sigawyyhjpgsk6j
+
+💎 MARS: Alpha Score 38.8/100
+• Chain: solana
+• MCap: $129,719
+• 24h Volume: $6,219
+• Buy Ratio: 66.3%
+• DexScreener: https://dexscreener.com/solana/bvszkeemjxs9hpxxjbskgziujbkgtojvjhhinhhk6j
+
+💎 Satoshi: Alpha Score 35.1/100
+• Chain: solana
+• MCap: $49,276
+• 24h Volume: $10,464
+• Vol/MCap Ratio: 0.21x
+• Buy Ratio: 59.4%
+• DexScreener: https://dexscreener.com/solana/vtrbxdo3yfa1wkzy2x4nkyg1xknswjpzgtfkl7bac8j
+
+💎 Coin: Alpha Score 34.1/100
+• Chain: solana
+• MCap: $58,247
+• 24h Volume: $8,141
+• Buy Ratio: 59.9%
+• DexScreener: https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+📊 MARKET ANALYSIS:
+• Total tokens scanned: 53
+• High Alpha Gems (Score > 25): 5
+• Medium Alpha Gems (Score 15-25): 1
+• Market Sentiment: 🔥 BULLISH
+
+🚨 KEY INSIGHT:
+PEPE stands out with exceptional volume/mcap ratio (1.35x) and high transaction volume (736), suggesting strong momentum.
+
+⚠️ DISCLAIMER: High risk analysis only - always DYOR

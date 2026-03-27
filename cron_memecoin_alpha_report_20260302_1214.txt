@@ -1,0 +1,71 @@
+🎯 MEMECOIN ALPHA SCANNER REPORT
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: Monday, March 2, 2026 — 12:14 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP ALPHA GEMS DETECTED
+------------------------------
+1. Milo (Gork Dog Milo) - Alpha Score: 71.3/100
+   💰 MCap: $94,280
+   📈 Volume 24h: $36,705
+   🔥 Vol/MCap Ratio: 38.9%
+   📊 Price Change: +812.0%
+   🔄 Buy/Sell: 1840/285 (86.6% buys)
+   🔗 Chain: Solana
+   ▶ Age: 0.5 days
+
+2. CAT (Cute Animal Tech) - Alpha Score: 68.9/100
+   💰 MCap: $31,240
+   📈 Volume 24h: $23,558
+   🔥 Vol/MCap Ratio: 75.4%
+   📊 Price Change: +74.6%
+   🔄 Buy/Sell: 293/218 (57.3% buys)
+   🔗 Chain: Solana
+   ▶ Age: 8.0 days
+
+3. memecoin (Memecoin) - Alpha Score: 35.4/100
+   💰 MCap: $51,869
+   📈 Volume 24h: $7,578
+   🔥 Vol/MCap Ratio: 14.6%
+   📊 Price Change: +14.0%
+   🔄 Buy/Sell: 38/24 (61.3% buys)
+   🔗 Chain: Solana
+   ▶ Age: 322.2 days
+
+4. DOGE (Department of Gov Efficiency) - Alpha Score: 22.1/100
+   💰 MCap: $123,193
+   📈 Volume 24h: $765
+   🔥 Vol/MCap Ratio: 0.6%
+   📊 Price Change: -7.3%
+   🔄 Buy/Sell: 10/13 (43.5% buys)
+   🔗 Chain: Solana
+   ▶ Age: 488.8 days
+
+5. INU (INU) - Alpha Score: 21.8/100
+   💰 MCap: $60,730
+   📈 Volume 24h: $5,177
+   🔥 Vol/MCap Ratio: 8.5%
+   📊 Price Change: -4.8%
+   🔄 Buy/Sell: 63/54 (53.8% buys)
+   🔗 Chain: Solana
+   ▶ Age: 33.5 days
+
+📊 MARKET ANALYSIS:
+• Total candidates found: 7 tokens
+• Average Vol/MCap Ratio: 19.7%
+• Average Buy Ratio: 51.2%
+• Average Market Cap: $82,236
+• Average Age: 298.5 days
+• Highest Alpha Score: 71.3
+• Youngest Token: Milo (0.5 days)
+
+💡 KEY ALPHA INSIGHTS:
+• Milo is the standout gem with explosive +812% growth, high buy ratio (86.6%), and early age
+• CAT shows strong fundamentals with 75.4% volume-to-mcap ratio
+• Overall market shows mixed sentiment with 51.2% average buy ratio
+
+⚠️ DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Always conduct your own research before investing
+• Memecoins are extremely volatile
+• Only risk what you can afford to lose

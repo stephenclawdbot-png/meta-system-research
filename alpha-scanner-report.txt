@@ -1,0 +1,27 @@
+🔍 Alpha Scanner Cron Job Report
+Date: Monday, March 2nd, 2026 — 10:57 AM (Asia/Manila)
+Status: Service Unavailable
+
+CRITICAL: Alpha Scanner service is not running on localhost:3111
+
+⚠️ Configuration Issue:
+1. Alpha Scanner service needs to be running locally
+2. Port 3111 is not responding
+3. No memecoin data available for scanning
+
+ACTION REQUIRED:
+- Start the Alpha Scanner service
+- Verify the API endpoint is accessible at http://localhost:3111/api/status
+- Check the scanner process and logs
+
+The cron job is configured to scan DexScreener/Pump.fun for:
+- Market cap range: $30k-$200k
+- New alpha gems before mainstream attention
+- Buy ratio > 50%, recent age, high velocity
+
+Next scheduled run will also fail unless service is restored.
+
+Recommended follow-up:
+1. Check service status: ps aux | grep alpha
+2. Review logs for startup errors
+3. Restart service if needed

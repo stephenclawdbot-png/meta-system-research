@@ -1,0 +1,65 @@
+💰 MEMECOIN ALPHA SCANNER REPORT - SUB 30K-200K MCAP
+======================================================================
+Scan Time: Thursday, March 05, 2026 — 08:20 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+======================================================================
+
+🔥 TOP APLHA GEMS IDENTIFIED:
+
+🥇 #1 Top Pick - SHIBA (Alpha Score: 100/100)
+• Market Cap: $83,620 | Volume: $537,776
+• Vol/MCap Ratio: 413.2% | 🔥 EXTREME INTEREST
+• Dex: pumpswap | Chain: solana
+• Link: https://dexscreener.com/solana/hkcz6tfqou2gajmd4kcouci1idupug1sv3qr7cpgzdv
+
+🥈 #2 Strong Contender - Coin (Alpha Score: 85/110)
+• Market Cap: $58,492 | Volume: $14,408
+• Vol/MCap Ratio: 24.6% | Price: +22.42%
+• Dex: - | Chain: solana
+• Link: https://dexscreener.com/solana/FjT1DpbREUesu2r1DQfHxFATK9uitWAu4BdvNNvM4C4w
+• Strong buy pressure: 58% buy ratio (152 buys/110 sells)
+
+🥉 #3 High Volume Gem - SHIBA (Alpha Score: 88.9/100)
+• Market Cap: $83,620 | Volume: $63,710
+• Vol/MCap Ratio: 76.2% | Age: 24h
+• Dex: meteora | Chain: solana
+• Link: https://dexscreener.com/solana/7ipytxfoehscgywlf1imnvar4yttgxtlqafpnqckrvkl
+
+🏆 #4 Emerging Opportunity - Dreamcatcher (Alpha Score: 100/100)
+• Market Cap: $106,006 | Volume: $166,764
+• Vol/MCap Ratio: 157.3% | Age: 24h
+• Dex: pump.fun | Chain: solana
+• Link: https://dexscreener.com/solana/ayepyvwhvrwbwqvkgzsfa5kxqbgcx8y5a5kzaoykcsbg
+
+🔥 #5 Fresh Meme - Pepe Reserve Note (Alpha Score: 100/100)
+• Market Cap: $111,995 | Volume: $175,881
+• Vol/MCap Ratio: 157.0% | Age: 0.2h (BORN FRESH!)
+• Dex: pump.fun | Chain: solana
+• Link: https://dexscreener.com/solana/d3zar5epffwxyn27wumfz7grjurj89vs2k8tc6yms3e
+
+📊 MARKET OVERVIEW:
+• Total Quality Gems Found: 132 tokens
+• Average Market Cap: $89,930
+• Average Volume: $71,806
+• Average Vol/MCap Ratio: 54.9%
+• Top 3 strongest alpha signals detected
+
+🧠 KEY INSIGHTS:
+• SOLANA Dominance: Most high-alpha tokens on Solana chain
+• Extreme Volume Ratios: Multiple tokens with >100% Vol/MCap ratio
+• Fresh Launches: Several tokens under 1 hour old detected
+• Strong Buy Pressure: Significant accumulation activity
+
+⚠️ HIGH-RISK ALERT:
+• These are micro-cap memecoins (30k-200k range)
+• Extreme volatility expected
+• Multiple options could disappear quickly
+• DYOR crucial before any investment
+
+💡 INVESTMENT STRATEGY:
+1. Prioritize tokens with >50% Vol/MCap ratio
+2. Focus on <24h age for maximum alpha
+3. Look for strong buy pressure (>50% buy ratio)
+4. Start small - risk management essential
+
+📈 NEXT SCAN IN 30 MINUTES - MARKETS ARE VOLATILE!

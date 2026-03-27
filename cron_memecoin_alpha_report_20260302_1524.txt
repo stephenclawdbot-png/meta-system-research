@@ -1,0 +1,18 @@
+MEMECOIN ALPHA SCANNER SUMMARY
+Scan Date: Monday, March 2nd, 2026 — 3:24 PM (Asia/Manila)
+Status: Manual DexScreener Scan (Service Down)
+
+📊 RESULTS:
+- Found 13+ memecoins in 30k-200k mcap range
+- Top pick: PEPE (Pulsechain) - $198k MCap, strong buy momentum (255 buys)
+- PEPE (Solana) showing positive price action
+- DOG tokens showing sell pressure
+- Market conditions: Quiet with negative momentum
+
+⚠️ RECOMMENDATIONS:
+1. PEPE (Pulsechain) - Best buy momentum
+2. PEPE (Solana) - Reasonable setup
+3. General caution - most tokens declining
+
+Alpha Scanner Service Status: OFFLINE
+Full report: memecoin_alpha_report_20260302_1524.txt

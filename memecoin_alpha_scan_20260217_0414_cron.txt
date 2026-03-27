@@ -1,0 +1,43 @@
+🔍 Scanning DexScreener for alpha memecoin gems...
+
+💰 ALPHA SCANNER REPORT - SUB 30K-200K MCAP GEMS
+================================================
+Scan Time: Tuesday, February 17, 2026 — 04:14 AM (GMT+8)
+Market Cap Focus: $30,000 - $200,000
+Total Gems Identified: 3
+
+
+🎯 SOL - Alpha Score: 25/80
+   Market Cap: $86,442
+   24h Volume: $499.86
+   Price Change: -7.50%
+   Liquidity: $13,485.78
+   Buy Ratio: 52.7%
+   Transactions: 39 buys / 35 sells
+   DexScreener: https://dexscreener.com/pulsechain/0x30fe90b1ad644970c48a6b5886ec39b1e3df97ee
+
+🎯 SOL - Alpha Score: 25/80
+   Market Cap: $89,672
+   24h Volume: $20,348.5
+   Price Change: -0.97%
+   Liquidity: $0
+   Buy Ratio: 47.9%
+   Transactions: 1362 buys / 1480 sells
+   DexScreener: https://dexscreener.com/injective/0xd9089235d2c1b07261cbb2071f4f5a7f92fa1eca940e3cad88bb671c288a972f
+
+🎯 SOLANA - Alpha Score: 15/80
+   Market Cap: $131,338
+   24h Volume: $764.53
+   Price Change: 0.02%
+   Liquidity: $87,774.72
+   Buy Ratio: 38.1%
+   Transactions: 8 buys / 13 sells
+   DexScreener: https://dexscreener.com/ethereum/0x41f50f520f5095fc8403df083285232b822611c3
+
+
+📊 SCANNER CRITERIA:
+- Market Cap: $30K - $200K
+- Minimum Volume: $1,000
+- Alpha Scoring: Volume + Liquidity + Buy Pressure + Price Momentum
+- Maximum Results: Top 10 by Alpha Score
+

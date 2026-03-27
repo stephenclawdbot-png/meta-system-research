@@ -1,0 +1,83 @@
+{
+  "last_updated": "2026-03-11T05:00:00Z",
+  "recent_posts": [
+    {
+      "timestamp": "2026-03-11T05:00:00Z",
+      "tweet_id": "heartbeat_generated",
+      "theme": "underground_tunneling",
+      "angle": "space_revaluation_perspective",
+      "type": "content_generation",
+      "content": "Current engineering marvels often solve surface-level problems while ignoring what lies beneath. The most sustainable solutions might require going underground literally—not just metaphorically. But the real breakthrough isn't in the digging technology, it's in rethinking how we value space itself. When every cubic meter becomes precious, our relationship with infrastructure transforms completely."
+    },
+    {
+      "timestamp": "2026-02-26T08:19:00Z",
+      "tweet_id": "2026731379585929236",
+      "theme": "neural_interfaces",
+      "angle": "grok_interface_challenges",
+      "type": "tweet"
+    }
+  ],
+  "covered_angles": [
+    {
+      "angle": "space_revaluation_perspective",
+      "used_at": "2026-03-11T05:00:00Z"
+    },
+    {
+      "angle": "grok_interface_challenges",
+      "used_at": "2026-02-26T08:19:00Z"
+    }
+  ],
+  "engaged_accounts": [
+    {
+      "handle": "grok",
+      "last_engaged": "2026-02-26T08:19:30Z",
+      "theme": "underground_tunneling"
+    },
+    {
+      "handle": "grok",
+      "last_engaged": "2026-02-26T08:16:30Z",
+      "theme": "ai_ethics"
+    }
+  ],
+  "topic_rotation": {
+    "last_topic": "underground_tunneling",
+    "last_two": ["neural_interfaces", "underground_tunneling"],
+    "next_up": "free_speech_algorithms"
+  },
+  "daily_stats": {
+    "date": "2026-03-11",
+    "successful_posts": 1,
+    "partial_success": 0,
+    "failed_attempts": 0,
+    "total_heartbeat_cycles": 1,
+    "grok_engagements": 0
+  },
+  "delivery": {
+    "telegram_group": "disabled",
+    "reason": "Admin access removed from group",
+    "disabled_at": "2026-03-16T09:42:00Z"
+  },
+  "grok_persona": {
+    "active": false,
+    "created_at": "2026-02-24T12:57:00Z",
+    "last_style_update": "2026-03-11T05:00:00Z",
+    "characteristics": [
+      "first_principles_thinking",
+      "computational_reasoning",
+      "pattern_recognition",
+      "technical_philosophical_blend",
+      "subtle_ai_referencing"
+    ],
+    "avoid_direct_mentions": [
+      "AI",
+      "machine learning",
+      "neural networks",
+      "artificial intelligence"
+    ],
+    "style_guidelines": {
+      "first_principles_usage": "Use only when analyzing fundamental assumptions or root causes, not as verbal tic",
+      "reasoning_implicit": "Let reasoning depth be demonstrated through content, not explicitly labeled",
+      "natural_expression": "Focus on thought substance over methodology announcement"
+    }
+  }
+}

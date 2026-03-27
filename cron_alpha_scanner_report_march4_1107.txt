@@ -1,0 +1,86 @@
+🧠 MEMECOIN ALPHA SCANNER - 30K-200K MCAP FOCUS
+============================================================
+Scan Time: Wednesday, March 04, 2026 — 11:07 AM (GMT+8)
+Target Range: $30k - $200k Market Cap
+
+🔥 TOP ALPHA MEMECOINS DETECTED:
+--------------------------------------------------
+🎯 #1 WIF - Alpha Score: 100/100
+   💰 MCap: $61,584 | Vol: $375,086
+   📈 24h Change: 748.0%
+   🔥 Vol/MCap Ratio: 609.1%
+   🌐 Dex: pumpswap | Chain: solana
+   🔗 https://dexscreener.com/solana/edjswcdxhbkm1dydzwsvowyj2kqzhhsucbgusrm7ctc
+
+🎯 #2 AI - Alpha Score: 76.2/100
+   💰 MCap: $50,719 | Vol: $40,393
+   📈 24h Change: 81.2%
+   🔥 Vol/MCap Ratio: 79.6%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #3 MEME - Alpha Score: 3.5/100
+   💰 MCap: $45,561 | Vol: $837
+   📈 24h Change: 7.6%
+   🔥 Vol/MCap Ratio: 1.8%
+   🌐 Dex: uniswap | Chain: ethereum
+   🔗 https://dexscreener.com/ethereum/0xdcc55de68c9ee1438bb1398c50382ae3788b51b4
+
+🎯 #4 DOG - Alpha Score: 1.1/100
+   💰 MCap: $37,517 | Vol: $651
+   📈 24h Change: -2.8%
+   🔥 Vol/MCap Ratio: 1.7%
+   🌐 Dex: ekubo | Chain: starknet
+   🔗 https://dexscreener.com/starknet/0x040e81cfeb176bfdbc5047bbc55eb471cfab20a6b221f38d8fda134e1bfffca4-0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d-3402823669209384634633746074317682114-19802-0x0
+
+🎯 #5 ELON - Alpha Score: 2.6/100
+   💰 MCap: $55,088 | Vol: $911
+   📈 24h Change: 5.1%
+   🔥 Vol/MCap Ratio: 1.7%
+   🌐 Dex: pulsex | Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x2dcee3eba5de855ad27e8bdfe39a0869761e7e72
+
+🎯 #6 DOGE - Alpha Score: 3.2/100
+   💰 MCap: $63,251 | Vol: $754
+   📈 24h Change: 8.0%
+   🔥 Vol/MCap Ratio: 1.2%
+   🌐 Dex: pulsex | Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x56aece39050608a7944908a1754d0397067aa435
+
+🎯 #7 AI - Alpha Score: 0.8/100
+   💰 MCap: $100,433 | Vol: $1,118
+   📈 24h Change: 0.1%
+   🔥 Vol/MCap Ratio: 1.1%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/dpawppcceyb99wnncoqsmgexauhnmqfxe79mnnvvtphc
+
+🎯 #8 PEPE - Alpha Score: 0.7/100
+   💰 MCap: $146,917 | Vol: $1,283
+   📈 24h Change: -2.8%
+   🔥 Vol/MCap Ratio: 0.9%
+   🌐 Dex: meteora | Chain: solana
+   🔗 https://dexscreener.com/solana/8lvqv2jgnvcx1ndtmhd5ahx8zujetflwygq9mtdfphxe
+
+🎯 #9 AI - Alpha Score: 0.6/100
+   💰 MCap: $117,768 | Vol: $920
+   📈 24h Change: -3.8%
+   🔥 Vol/MCap Ratio: 0.8%
+   🌐 Dex: pancakeswap | Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xbacbea108e060aeb3aa4bd55bf46534bdde6f6b7
+
+🎯 #10 CAT - Alpha Score: 1.1/100
+   💰 MCap: $144,486 | Vol: $986
+   📈 24h Change: 1.9%
+   🔥 Vol/MCap Ratio: 0.7%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/axpuepytfjx3emdtmtcmi3x3pato2v74vesj9sckgmy3
+
+📊 SCAN SUMMARY:
+--------------------
+Total Gems Found: 48 tokens
+🥇 Highest Alpha: WIF (100/100)
+💰 Avg MCap: $82,206
+📈 Avg Volume: $8,885
+🚀 Avg Vol/MCap Ratio: 14.6%
+
+⚠️ DISCLAIMER: High risk memecoin scanning - NFA

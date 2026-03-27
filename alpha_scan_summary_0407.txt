@@ -1,0 +1,37 @@
+🧠 ALPHA SCANNER REPORT - 04:07 GMT+8
+March 7, 2026 - Weekend Session
+
+📊 SCAN SUMMARY:
+• Target Range: $30K-$200K MCap
+• Tokens Analyzed: 328
+• Alpha Gems Found: 31
+• Avg Metrics: $94K mcap, $892K vol, 850% efficiency
+
+🔥 TOP ALPHA PICKS:
+
+🎯 #1: hamster (75.9/100 score)
+• Vol Efficiency: 215% ($282K vol / $130K mcap)
+• Price Action: +1650% 📈
+• Buy Ratio: 61.7%
+• Activity: 6,686 txns
+⚠️ WARNING: $0 liquidity - slippage risk
+
+🎯 #2: CASH (72.0/100 score)  
+• Outstanding: 9,867% volume efficiency
+• Strong buy pressure: 69.5%
+• Healthy liquidity: $21M pool
+
+🎯 #3: INU (56.8/100 score)
+• Solid growth: +65.5% price action
+• Consistent trading flow
+• $29K liquidity pool
+
+💡 MARKET INSIGHTS:
+• Solana ecosystem dominance
+• Weekend momentum unexpectedly strong
+• Multiple gems showing 50%+ volume efficiency
+• Liquidity variance significant risk factor
+
+⚠️ DISCLAIMER: High risk memecoin alpha detection. DYOR required.
+
+📈 Scanner Framework Operational - Next scan scheduled per cron.

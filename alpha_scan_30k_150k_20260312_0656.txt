@@ -1,0 +1,147 @@
+💰 DEXSCREENER ALPHA SCANNER - SUB 30K-150K MCAP
+======================================================================
+Scan Time: Thursday, March 12, 2026 — 07:00 AM (Asia/Manila)
+Market Cap Range: $30,000 - $150,000
+======================================================================
+
+💎 Found 14 Alpha Gems
+----------------------------------------------------------------------
+
+🎯 COIN (for buying)
+   ⚡ Alpha Score: 90/110
+   💰 Market Cap: $79,981
+   📈 24h Volume: $4,268,405.03
+   🔥 Vol/MCap Ratio: 5336.8%
+   📊 Price Change: 355.00%
+   💧 Liquidity: $87,124.86
+   🔄 Transactions: 4378/24h (2388 buys, 1990 sells)
+   📈 Buy/Sell Ratio: 54.5%
+   🌐 Chain: solana
+   🔗 DexScreener: https://dexscreener.com/solana/65QUrrFTHj7w6rbF7HPrAPc8BrwErJs4WkEwbY99L3jk
+
+🎯 NotifAi (NotifAi News)
+   ⚡ Alpha Score: 55/110
+   💰 Market Cap: $102,593
+   📈 24h Volume: $9,866.2
+   🔥 Vol/MCap Ratio: 9.6%
+   📊 Price Change: 12.96%
+   💧 Liquidity: $37,356.84
+   🔄 Transactions: 162/24h (77 buys, 85 sells)
+   📈 Buy/Sell Ratio: 47.5%
+   🌐 Chain: bsc
+   🔗 DexScreener: https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0
+
+🎯 Coin (Coin)
+   ⚡ Alpha Score: 45/110
+   💰 Market Cap: $52,738
+   📈 24h Volume: $7,359.53
+   🔥 Vol/MCap Ratio: 14.0%
+   📊 Price Change: -6.06%
+   💧 Liquidity: $42,800.78
+   🔄 Transactions: 230/24h (152 buys, 78 sells)
+   📈 Buy/Sell Ratio: 66.1%
+   🌐 Chain: solana
+   🔗 DexScreener: https://dexscreener.com/solana/FjT1DpbREUesu2r1DQfHxFATK9uitWAu4BdvNNvM4C4w
+
+🎯 GAVIN (Gavin Newsom)
+   ⚡ Alpha Score: 35/110
+   💰 Market Cap: $96,325
+   📈 24h Volume: $713.06
+   🔥 Vol/MCap Ratio: 0.7%
+   📊 Price Change: 11.96%
+   💧 Liquidity: $30,282.49
+   🔄 Transactions: 8/24h (5 buys, 3 sells)
+   📈 Buy/Sell Ratio: 62.5%
+   🌐 Chain: solana
+   🔗 DexScreener: https://dexscreener.com/solana/EkgZSercRd3yLTGtrTbcvq43RmuoWnWRueozhw57DC9k
+
+🎯 SOL (SOLANA)
+   ⚡ Alpha Score: 20/110
+   💰 Market Cap: $87,236
+   📈 24h Volume: $583.81
+   🔥 Vol/MCap Ratio: 0.7%
+   📊 Price Change: -0.95%
+   💧 Liquidity: $13,528.75
+   🔄 Transactions: 113/24h (38 buys, 75 sells)
+   📈 Buy/Sell Ratio: 33.6%
+   🌐 Chain: pulsechain
+   🔗 DexScreener: https://dexscreener.com/pulsechain/0x30fe90B1ad644970C48a6B5886EC39B1e3df97Ee
+
+🎯 SOLANA (BarbieCrashBandicootRFK888Inu)
+   ⚡ Alpha Score: 20/110
+   💰 Market Cap: $148,563
+   📈 24h Volume: $59.13
+   🔥 Vol/MCap Ratio: 0.0%
+   📊 Price Change: 1.88%
+   💧 Liquidity: $95,820.43
+   🔄 Transactions: 12/24h (6 buys, 6 sells)
+   📈 Buy/Sell Ratio: 50.0%
+   🌐 Chain: ethereum
+   🔗 DexScreener: https://dexscreener.com/ethereum/0x41F50f520f5095fC8403DF083285232B822611c3
+
+🎯 coin (coin)
+   ⚡ Alpha Score: 20/110
+   💰 Market Cap: $175,981
+   📈 24h Volume: $568.68
+   🔥 Vol/MCap Ratio: 0.3%
+   📊 Price Change: -5.09%
+   💧 Liquidity: $128,542.45
+   🔄 Transactions: 9/24h (3 buys, 6 sells)
+   📈 Buy/Sell Ratio: 33.3%
+   🌐 Chain: base
+   🔗 DexScreener: https://dexscreener.com/base/0x5122E02898Ece3BC62dF8c1efDb29A9e914244D3
+
+🎯 topbasetrending (topbasetrending)
+   ⚡ Alpha Score: 15/110
+   💰 Market Cap: $48,804
+   📈 24h Volume: $278.21
+   🔥 Vol/MCap Ratio: 0.6%
+   📊 Price Change: -0.81%
+   💧 Liquidity: $20,565.52
+   🔄 Transactions: 89/24h (22 buys, 67 sells)
+   📈 Buy/Sell Ratio: 24.7%
+   🌐 Chain: base
+   🔗 DexScreener: https://dexscreener.com/base/0x1883ffbc254f2f72857c38a7c00ffcfe0a7fa0223a4b8fd1e6fcc8216d3b7a67
+
+🎯 ETHEREUM (VoldemortTrumpRobotnik-10Neko)
+   ⚡ Alpha Score: 15/110
+   💰 Market Cap: $80,706
+   📈 24h Volume: $2.81
+   🔥 Vol/MCap Ratio: 0.0%
+   📊 Price Change: 0.00%
+   💧 Liquidity: $64,410.82
+   🔄 Transactions: 1/24h (0 buys, 1 sells)
+   📈 Buy/Sell Ratio: 0.0%
+   🌐 Chain: ethereum
+   🔗 DexScreener: https://dexscreener.com/ethereum/0x5F538E4A8D8C833aA9e7a926a99A3b415bb029eF
+
+🎯 BNB (BNB Binance Smart Chaine)
+   ⚡ Alpha Score: 15/110
+   💰 Market Cap: $158,058
+   📈 24h Volume: $25.09
+   🔥 Vol/MCap Ratio: 0.0%
+   📊 Price Change: -1.29%
+   💧 Liquidity: $129,822.61
+   🔄 Transactions: 8/24h (4 buys, 4 sells)
+   📈 Buy/Sell Ratio: 50.0%
+   🌐 Chain: base
+   🔗 DexScreener: https://dexscreener.com/base/0x627874dac50df063700c59cdee016887008724977ae6d46065336576cf6474d6
+
+📊 SUMMARY STATISTICS:
+------------------------------
+• Average Alpha Score: 26.4/110
+• Average Market Cap: $97,802
+• Average Volume: $306,295
+• Total Gems Found: 14
+
+🧠 ALPHA SCORE EXPLANATION:
+------------------------------
+• Volume (30 pts): Higher = more trader interest
+• Vol/MCap Ratio (20 pts): Low mcap + high volume = undervalued
+• Price Momentum (25 pts): Positive momentum = upside potential
+• Liquidity (15 pts): Healthy pool = easier trading
+• Activity (10 pts): Higher txns = more community
+• Buy Pressure (10 pts): Buy ratio > 50% = accumulation
+
+⚠️ Disclaimer: Alpha scanner results only. DYOR before investing.
+Market conditions change rapidly. High risk micro-cap space.

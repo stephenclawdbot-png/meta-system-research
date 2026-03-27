@@ -1,0 +1,78 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Tuesday, March 03, 2026 — 04:13 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP 8 ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 FLOKI - Alpha Score: 71/100
+   📈 24h Stats: $100 vol • $89,056 mcap • 0.1% ratio
+   📊 Sentiment: 8.1% price • 100.0% buy ratio
+   💧 Liquidity: $6,700
+   🌐 Chain: cronos
+   🔗 https://dexscreener.com/cronos/0x3b3ae49bdd1159909fe9c3e53f89adf27c97d829
+
+🎯 #2 PEPE - Alpha Score: 58/100
+   📈 24h Stats: $688 vol • $112,691 mcap • 0.6% ratio
+   📊 Sentiment: -3.9% price • 71.2% buy ratio
+   💧 Liquidity: $58,154
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/4ycwqxr7eoh29rf2g7u9ymtzct1n7tyhcywg3emif85s
+
+🎯 #3 SHIB - Alpha Score: 38/100
+   📈 24h Stats: $800 vol • $89,240 mcap • 0.9% ratio
+   📊 Sentiment: -1.2% price • 41.0% buy ratio
+   💧 Liquidity: $31,430
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/36y1lqjqnl7jpu4huofhgegxnqhkjgggkg5insukrtur
+
+🎯 #4 DOGE - Alpha Score: 38/100
+   📈 24h Stats: $255 vol • $128,188 mcap • 0.2% ratio
+   📊 Sentiment: 6.3% price • 50.0% buy ratio
+   💧 Liquidity: $91,464
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/3pvml7m24uqzudaxuymvixtkwtc5yadhtusyb8cewnjk
+
+🎯 #5 ELON - Alpha Score: 36/100
+   📈 24h Stats: $142 vol • $175,786 mcap • 0.1% ratio
+   📊 Sentiment: -0.1% price • 50.0% buy ratio
+   💧 Liquidity: $106,470
+   🌐 Chain: ethereum
+   🔗 https://dexscreener.com/ethereum/0xd6b117076222d95a05032a99f10738103c60d64d
+
+🎯 #6 BONK - Alpha Score: 30/100
+   📈 24h Stats: $173 vol • $105,139 mcap • 0.2% ratio
+   📊 Sentiment: 8.0% price • 40.0% buy ratio
+   💧 Liquidity: $46,184
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x176567c44342edda7aae629f7cecab246f22f69a
+
+🎯 #7 CAT - Alpha Score: 26/100
+   📈 24h Stats: $289 vol • $144,389 mcap • 0.2% ratio
+   📊 Sentiment: 6.6% price • 31.8% buy ratio
+   💧 Liquidity: $30,704
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/axpuepytfjx3emdtmtcmi3x3pato2v74vesj9sckgmy3
+
+🎯 #8 MOON - Alpha Score: 24/100
+   📈 24h Stats: $47 vol • $40,521 mcap • 0.1% ratio
+   📊 Sentiment: 4.7% price • 33.3% buy ratio
+   💧 Liquidity: $17,435
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x091a931a4e77c7bab013657fc218fcf1229ae16b
+
+📊 MARKET SUMMARY FOR 8 GEMS
+• Average Alpha Score: 40.1/100
+• Average Market Cap: $110,626
+• Average Volume/MCap Ratio: 0.3%
+• Top Performer: FLOKI (71/100)
+
+💡 Key Alpha Signals:
+- FLOKI showing strong accumulation (100% buy ratio)
+- PEPE maintains decent volume momentum
+- SOLANA chain dominates with 4 of 8 gems
+
+⚠️ DISCLAIMER: High risk assets - DYOR required
+Next scan in 5 minutes

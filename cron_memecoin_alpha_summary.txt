@@ -1,0 +1,18 @@
+⚡ ALPHA SCANNER CRON REPORT - 3/3/2026 3:02 PM (GMT+8)
+===================================================
+
+📊 MARKET SCAN RESULTS (30k-200k MCap Range)
+• Tokens scanned: 33
+• Alpha opportunities detected: 25
+• Average alpha score: 47.8/100
+
+🔥 TOP ALPHA TOKENS:
+1. WIF (Cronos) - Score: 52.4, MCap: $123k, 100% buy ratio
+2. DOGE (Pulsechain) - Score: 51.2, MCap: $62k, +10.6%
+3. FLOKI (Cronos) - Score: 50.1, MCap: $89k, 100% buy ratio
+4. BOME (Solana) - Score: 45.1, MCap: $44k, +17.4% momentum
+5. DOGE (Base) - Score: 38.5, MCap: $81k, 70.6% buy ratio
+
+🎯 KEY FINDING: BOME shows highest Vol/MCap ratio (4.8%) suggesting strong attention despite smaller size.
+
+⚠️ Market appears healthy with 25/33 tokens showing alpha potential. Multiple 100% buy ratios indicate accumulation phases.

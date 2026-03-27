@@ -1,0 +1,65 @@
+🧠 MEMECOIN ALPHA SCANNER - CRON REPORT
+======================================================================
+Scan Time: Sunday, March 08, 2026 — 03:12 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Keywords: meme, pepe, doge, bonk, shiba, dog, cat, kitty, puppy, frog, elon, musk
+
+📊 MARKET OVERVIEW:
+• Total tokens scanned: 58
+• Unique tokens in range: 58  
+• Tokens with alpha score ≥20: 6
+• Market appears relatively quiet with limited high-alpha opportunities
+
+🔥 TOP ALPHA GEMS:
+----------------------------------------------------------------------
+🎯 #1 CAT (BSC) - Alpha Score: 31.6/100
+   📛 Cat
+   💰 MCap: $98,108 | Vol: $324
+   📈 24h Change: -1.8%
+   💧 Liquidity: $241,857
+   🔄 Buy Ratio: 57.1% (8/6)
+   🔗 https://dexscreener.com/bsc/0x51d6e1dbe1bd149259a17594e1394de7634241ce
+   ⚡ Moderate alpha potential with decent liquidity
+
+🎯 #2 DOG (Blast) - Alpha Score: 24.7/100
+   📛 DOG•GO•TO•THE•MOON
+   💰 MCap: $93,085 | Vol: $224
+   📈 24h Change: +1.5%
+   💧 Liquidity: $38,475
+   🔄 Buy Ratio: 100.0% (30/0) - Strong buy pressure
+   🔗 https://dexscreener.com/blast/0xb1fea9446ca2762b5cb909f495e3ec66c0d3a050
+   ⚡ Promising buy ratio but moderate volume
+
+🎯 #3 DOG (Starknet) - Alpha Score: 22.6/100
+   📛 DOG GO TO THE MOON
+   💰 MCap: $35,921 | Vol: $2
+   📈 24h Change: 0.0%
+   💧 Liquidity: $25,910
+   🔄 Buy Ratio: 100.0% (1/0)
+   🔗 https://dexscreener.com/starknet/0x040e81cfeb176bfdbc5047bbc55eb471cfab20a6b221f38d8fda134e1bfffca4-0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d-3402823669209384634633746074317682114-19802-0x0
+   ⚡ Extremely low volume - high risk
+
+⚠️ MARKET CONDITIONS ANALYSIS:
+• Overall alpha scores are moderate (avg 23.1/100)
+• Low trading volumes across most tokens
+• Several tokens with 100% buy ratios but minimal volume
+• Market appears to be in a consolidation phase
+• No standout alpha opportunities detected at this moment
+
+📈 MARKET METRICS:
+• Avg Alpha Score: 23.1/100
+• Avg Market Cap: $67,491
+• Avg Volume: $92 (very low)
+• Top Alpha Score: 31.6/100
+
+💡 INVESTMENT INSIGHTS:
+1. Current market shows limited alpha opportunities
+2. Volumes are generally very low, suggesting limited liquidity
+3. Best opportunities appear to be on BSC and Blast networks
+4. Focus on tokens with actual trading volume vs. the 100% buy ratio anomalies
+
+⚠️ DISCLAIMER: High risk memecoin scanning - Not financial advice
+• These are high-risk, speculative assets
+• Always perform your own research (DYOR)
+• Only invest what you can afford to lose
+• Current market conditions suggest caution

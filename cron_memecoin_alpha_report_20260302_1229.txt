@@ -1,0 +1,72 @@
+🎯 MEMECOIN ALPHA SCANNER REPORT
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: Monday, March 2, 2026 — 12:29 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP ALPHA GEMS DETECTED
+------------------------------
+1. CAT (Cute Animal Tech) - Alpha Score: 75/80
+   💰 MCap: $30,341
+   📈 Volume 24h: $23,677
+   🔥 Vol/MCap Ratio: 78.0%
+   📊 Price Change: +70%
+   🔄 Buy/Sell: 293/221 (57.0% buys)
+   🔗 Chain: Solana
+
+2. Milo (Gork Dog Milo) - Alpha Score: 63/80
+   💰 MCap: $94,280
+   📈 Volume 24h: $36,705
+   🔥 Vol/MCap Ratio: 38.9%
+   📊 Price Change: +812.0%
+   🔄 Buy/Sell: 1840/285 (86.6% buys) 
+   🔗 Chain: Solana
+   ▶ Age: Recently launched (high momentum)
+
+3. MOONCOIN (MOON) - Alpha Score: 40/80
+   💰 MCap: $59,890
+   📈 Volume 24h: $7,040
+   🔥 Vol/MCap Ratio: 11.8%
+   📊 Price Change: -1%
+   🔄 Buy/Sell: 70/45 (60.9% buys)
+   🔗 Chain: Solana
+
+4. Niche Baby (Baby) - Alpha Score: 35/80
+   💰 MCap: $138,914
+   📈 Volume 24h: $11,039
+   🔥 Vol/MCap Ratio: 7.9%
+   📊 Price Change: +5%
+   🔄 Buy/Sell: 117/76 (60.6% buys)
+   🔗 Chain: Solana
+
+5. INU (INU) - Alpha Score: 30/80
+   💰 MCap: $60,730
+   📈 Volume 24h: $5,177
+   🔥 Vol/MCap Ratio: 8.5%
+   📊 Price Change: -5%
+   🔄 Buy/Sell: 63/54 (53.8% buys)
+   🔗 Chain: Solana
+
+📊 MARKET ANALYSIS:
+• Total candidates found: 6 tokens meeting criteria
+• Average Alpha Score: 50.5/80
+• Average Vol/MCap Ratio: 24.4%
+• Average Buy Ratio: 62.6%
+• Average Market Cap: $92,608
+• Highest Momentum: Milo (+812% growth, 86.6% buy ratio)
+• Most Efficient Volume: CAT (78.0% vol/mcap ratio)
+
+💡 KEY ALPHA INSIGHTS:
+• Milo shows exceptional momentum with explosive +812% growth and extremely high buy pressure (86.6%)
+• CAT demonstrates excellent volume efficiency with 78% ratio and strong fundamentals
+• Market shows overall bullish sentiment with 62.6% average buy ratio
+• MOONCOIN maintains steady volume despite slight price dip
+
+🚨 HIGH ALPHA ALERT:
+CAT and Milo are showing clear alpha characteristics - CAT has strong fundamentals and Milo has explosive momentum with overwhelming buy pressure.
+
+⚠️ DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Always conduct your own research before investing
+• Memecoins are extremely volatile
+• Only risk what you can afford to lose
+• Monitor volume and buy/sell ratios closely

@@ -1,0 +1,31 @@
+{
+  "timestamp": "Thursday, March 05, 2026 — 11:45 PM (Asia/Manila)",
+  "market_regime": "STRONG_BULLISH",
+  "trend_shifts_detected": 0,
+  "btc_momentum": "STRONG_BULLISH",
+  "eth_momentum": "STRONG_BULLISH", 
+  "sol_momentum": "STRONG_BULLISH",
+  "validation_score": 84.7,
+  "correlation_strength": 0.87,
+  "institutional_activity": "VERY_HIGH",
+  "polymarket_predictions": {
+    "btc_targets": {
+      "58000_achieved": true,
+      "80000_march_confidence": 0.40,
+      "85000_march_confidence": 0.18
+    },
+    "eth_targets": {
+      "1600_achieved": true,
+      "2400_march_confidence": 0.45,
+      "2600_march_confidence": 0.23
+    },
+    "sol_targets": {
+      "40_achieved": true,
+      "110_march_confidence": 0.31,
+      "120_march_confidence": 0.16
+    }
+  },
+  "risk_level": "HIGH",
+  "session_volatility": "HIGH",
+  "recommended_position": "SHORT_TO_MEDIUM_TERM"
+}

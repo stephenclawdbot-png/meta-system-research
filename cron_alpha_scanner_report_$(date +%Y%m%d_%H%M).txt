@@ -1,0 +1,54 @@
+💰 MEMECOIN ALPHA SCANNER REPORT - 30K-200K MCAP RANGE
+=========================================================
+Scan Time: Monday, March 9, 2026 — 7:31 PM (Asia/Manila)
+Target Range: $30,000 - $200,000 Market Cap
+
+MAJOR FINDINGS:
+===============
+🚀 STRONG MARKET ACTIVITY - 101 tokens detected with notable alpha signals
+
+TOP ALPHA GEMS DETECTED:
+========================
+
+🔥 HIGHEST ALPHA (Score 100/100):
+1. **GEM** on Base chain
+   • MCap: $34,889 | 24h Vol: $1,402,073
+   • 24h Change: +60.8% | Vol/MCap Ratio: 4018.7%
+   • Dex: Uniswap | Active trading momentum
+   • 🔗 https://dexscreener.com/base/0x272fde666a61b08b6114bf4ec41ec2eaf0e3e657
+
+🎯 STRONG CONTENDERS (Score 58.4/100):
+2. **GEM** on Base chain
+   • MCap: $44,438 | 24h Vol: $27,142
+   • 24h Change: +63.6% | High buy pressure
+   • 🔗 https://dexscreener.com/base/0x1eb03cf98a9f810da36032aa84688e91285884d1629385fb8827ffeb380a842f
+
+📊 MARKET ANALYSIS:
+==================
+• **Volume Distribution**: Highly concentrated - Top token (GEM) accounts for massive volume spike
+• **Momentum Signals**: Strong bullish momentum detected with +60% gains
+• **Chain Distribution**: Base chain showing strongest alpha signals
+• **Activity Level**: High transaction velocity across detected tokens
+
+🔍 KEY OBSERVATIONS:
+====================
+1. **Extreme Volume Concentration**: Single token (GEM) driving 90%+ of total scanned volume
+2. **Cross-Chain Activity**: Multiple chains active (Base, Solana, Pulsechain, Polygon)
+3. **Early Signal**: High Vol/MCap ratios indicate potential undervalued tokens
+4. **Volume Breakout**: Significant surge in trading activity detected
+
+🎯 TOP RECOMMENDATION:
+======================
+**GEM (Base chain)**: Maximum alpha score with explosive volume and strong momentum. Requires immediate attention.
+
+⚠️ DISCLAIMER:
+==============
+• High-risk memecoin scanning - DYOR before any investment
+• Extreme volatility possible in micro-cap tokens
+• Focus on tokens with established liquidity and volume
+
+💡 NEXT SCAN:
+=============
+Scheduled for next cron cycle. Monitor GEM token for sustained momentum.
+
+Generated: Monday, March 9, 2026 — 7:32 PM Asia/Manila

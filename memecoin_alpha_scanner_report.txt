@@ -1,0 +1,180 @@
+🧠 DEXSCREENER ALPHA SCANNER REPORT - SUB 30K-200K MCAP
+=================================================================
+Scan Time: Wednesday, March 11, 2026 — 01:48 PM (Asia/Manila)
+Market Cap Focus: $30,000 - $200,000
+Scan Method: Direct DexScreener API Queries
+
+🔍 SUMMARY OF FINDINGS
+===================
+Total Alpha Gems Discovered: 21 tokens
+Target Range: $30,000 - $200,000 market cap
+Search Tags: cat, pepe, bonk, wif, memecoin
+
+🔥 TOP MEMECOIN OPPORTUNITIES
+==========================
+
+💎 CATEGORY: CAT TOKENS (3 tokens)
+----------------------------------
+1. Cat (BSC chain)
+   • MCap: $40,289 | Volume: $134
+   • Price: $0.00000000000019 | Change: +0.14%
+   • Liquidity: $43,797 | Trades: 1 buy / 4 sell
+   • URL: https://dexscreener.com/bsc/0xdbeb6a1636ac1c8f2f8cc72fd26b211d977f2bc2
+
+2. CAT (HyperEVM chain)
+   • MCap: $68,650 | Volume: $0.12
+   • Price: $0.0572 | Change: +2.08%
+   • Liquidity: $3,054 | Trades: 1 buy / 1 sell
+   • URL: https://dexscreener.com/hyperevm/0xa4eb4536e7d9512496e68d95e2e6ca6ff77c1a0b
+
+3. Cat (BSC chain)
+   • MCap: $101,015 | Volume: $325
+   • Price: $0.000000000000228 | Change: -0.84%
+   • Liquidity: $249,690 | Trades: 7 buy / 8 sell
+   • URL: https://dexscreener.com/bsc/0x51d6e1dbe1bd149259a17594e1394de7634241ce
+
+💎 CATEGORY: PEPE TOKENS (8 tokens)
+----------------------------------
+1. PEPE (XRPL chain)
+   • MCap: $55,983 | Volume: $681
+   • Price: $0.00000000000014 | Change: +4.38%
+   • Liquidity: $15,701 | Trades: 16 buy / 72 sell
+   • URL: https://dexscreener.com/xrpl/5045504500000000000000000000000000000000.rjeapmjv7kvvopb8nb1wxqpqyvu84vrgta_xrp
+
+2. Pepe Coin (Stacks chain)
+   • MCap: $65,658 | Volume: $125
+   • Price: $0.000003282 | Change: -2.26%
+   • Liquidity: $4,610 | Trades: 7 buy / 6 sell
+   • URL: https://dexscreener.com/stacks/0x96d0e1b6779fd406beda67d5065b0df1294aa67a76404795e1aaa263ce1ec1b4
+
+3. Pepe Coin (Stacks chain)
+   • MCap: $65,849 | Volume: $41
+   • Price: $0.000003292 | Change: -2.18%
+   • Liquidity: $3,374 | Trades: 4 buy / 5 sell
+   • URL: https://dexscreener.com/stacks/sm1793c4r5pz4ns4vq4wmp7skkyvh8jzewsz9hccr.xyk-pool-pepe-stx-v-1-1
+
+4. Pepe (Solana chain)
+   • MCap: $100,999 | Volume: $191
+   • Price: $0.000158 | Change: -1.13%
+   • Liquidity: $55,076 | Trades: 19 buy / 10 sell
+   • URL: https://dexscreener.com/solana/4ycwqxr7eoh29rf2g7u9ymtzct1n7tyhcywg3emif85s
+
+5. PEPE (Hyperliquid chain)
+   • MCap: $122,707 | Volume: $264
+   • Price: $0.001231 | Change: +37.54%
+   • Liquidity: Unknown | Trades: 1 buy / 3 sell
+   • URL: https://dexscreener.com/hyperliquid/0x20c7c128ed63238b64e2d046f8dc8be2
+
+6. PEPE (Solana chain)
+   • MCap: $129,586 | Volume: $30
+   • Price: $0.0001599 | Change: +4.84%
+   • Liquidity: $1,538 | Trades: 13 buy / 0 sell
+   • URL: https://dexscreener.com/solana/9t6ajd4qj67hzbpvfbixuqeb5ywxwat5bkuo8fmvpwub
+
+7. Pepe By Matt Furie (Solana chain)
+   • MCap: $133,333 | Volume: $653
+   • Price: $0.0001333 | Change: -0.89%
+   • Liquidity: $25,968 | Trades: 8 buy / 13 sell
+   • URL: https://dexscreener.com/solana/8lvqv2jgnvcx1ndtmhd5ahx8zujetflwygq9mtdfphxe
+
+8. PEPE (Solana chain)
+   • MCap: $137,722 | Volume: $1,511
+   • Price: $0.0001602 | Change: +8.54%
+   • Liquidity: $44,177 | Trades: 28 buy / 16 sell
+   • URL: https://dexscreener.com/solana/gdygvj6l5keuickgcnxdaaoog4gfjevpr2njd3bfryf5
+
+💎 CATEGORY: BONK TOKEN (1 token)
+--------------------------------
+1. Bonk (Base chain)
+   • MCap: $100,483 | Volume: $248
+   • Price: $0.00000000101 | Change: +1.74%
+   • Liquidity: $44,945 | Trades: 26 buy / 15 sell
+   • URL: https://dexscreener.com/base/0x176567c44342edda7aae629f7cecab246f22f69a
+
+💎 CATEGORY: WIF TOKENS (6 tokens)
+----------------------------------
+1. WIF (Ethereum chain)
+   • MCap: $37,608 | Volume: $217
+   • Price: $0.0000376 | Change: -1.98%
+   • Liquidity: $29,936 | Trades: 1 buy / 1 sell
+   • URL: https://dexscreener.com/ethereum/0xb0a85d466b58562456c7bc9cf0f83ccac593461a
+
+2. Wif (Solana chain)
+   • MCap: $41,038 | Volume: $45
+   • Price: $0.00005131 | Change: -0.04%
+   • Liquidity: $30,515 | Trades: 3 buy / 1 sell
+   • URL: https://dexscreener.com/solana/32vfamd12dthmwo9g5quce9sgvdv72yufk9pmp2dtbj7
+
+3. WIF (TON chain)
+   • MCap: $50,480 | Volume: $2
+   • Price: $0.00005053 | Change: Unknown
+   • Liquidity: $31,622 | Trades: 1 buy / 0 sell
+   • URL: https://dexscreener.com/ton/eqaob_eu83hgrij5wfnln77m98tcnynfhhe4auunnfazsskv
+
+4. WIF (Cronos chain)
+   • MCap: $98,448 | Volume: $66
+   • Price: $0.1627 | Change: -4.65%
+   • Liquidity: $1,604 | Trades: 6 buy / 7 sell
+   • URL: https://dexscreener.com/cronos/0x92c80ba394365e819d3e91deacc9f69e6491839f
+
+5. WIF (Cronos chain)
+   • MCap: $99,435 | Volume: $1,217
+   • Price: $0.1643 | Change: -3.83%
+   • Liquidity: $14,930 | Trades: 23 buy / 23 sell
+   • URL: https://dexscreener.com/cronos/0x3916153d25077b2edf8d8fd5efc4d34c92665405
+
+6. WIF (Cronos chain)
+   • MCap: $100,572 | Volume: $3
+   • Price: $0.1662 | Change: -2.01%
+   • Liquidity: $51 | Trades: 0 buy / 3 sell
+   • URL: https://dexscreener.com/cronos/0x8d944aa67c55c096628c073f93c5a1c8dede10d3
+
+💎 CATEGORY: MEMECOIN TOKEN (1 token)
+-----------------------------------
+1. Memecoin (Solana chain)
+   • MCap: $150,162 | Volume: $19,455
+   • Price: $0.00597 | Change: +5.31%
+   • Liquidity: $476,249 | Trades: 1047 buy / 1037 sell
+   • URL: https://dexscreener.com/solana/2kv6hkaaij9vc7xhl8pfzxelcfekjw9o8zx3xl155gm3
+
+📊 MARKET ANALYSIS
+================
+• Total tokens found: 21
+• Chain distribution:
+  - Solana: 6 tokens
+  - Stacks: 2 tokens  
+  - Cronos: 3 tokens
+  - BSC: 2 tokens
+  - Ethereum: 1 token
+  - XRPL: 1 token
+  - HyperEVM: 1 token
+  - Hyperliquid: 1 token
+  - TON: 1 token
+  - Base: 1 token
+
+• Average market cap: ~$95,000
+• Highest volume: $19,455 (Memecoin on Solana)
+• Highest liquidity: $476,249 (Memecoin on Solana)
+• Most active trading: 2084 transactions (Memecoin on Solana)
+
+🔍 ALPHA INSIGHTS
+================
+• Most promising: PEPE on Hyperliquid shows +37.54% momentum
+• Highest liquidity: Memecoin on Solana has best liquidity
+• Most balanced trading: Memecoin on Solana has nearly equal buys/sells
+• Strong momentum: Several PEPE tokens showing positive price action
+
+⚠️ DISCLAIMER
+==========
+• These are extremely high-risk memecoins - DO YOUR OWN RESEARCH
+• Most have LOW VOLUME and LIMITED LIQUIDITY
+• Only invest what you can afford to lose completely
+• Many tokens have very low trading activity
+• Always verify contract addresses before investing
+
+💎 RECOMMENDED FOR FURTHER ANALYSIS
+=================================
+1. Memecoin (Solana) - Best liquidity and trading volume
+2. PEPE (Hyperliquid) - Strong momentum (+37.54%)
+3. PEPE (Solana) - High trade volume with positive momentum
+4. Bonk (Base) - Balanced buy/sell ratio with decent volume

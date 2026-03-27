@@ -1,0 +1,129 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Wednesday, March 04, 2026 — 12:27 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP 12 ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 AI - Alpha Score: 78.9/100
+   📈 24h Stats: $37,015 vol • $62,633 mcap • 59.1% ratio
+   📊 Sentiment: 130.0% price • 61.6% buy ratio
+   🔄 Activity: 696 txns total
+   💧 Liquidity: $26,749
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #2 CASH - Alpha Score: 73.2/100
+   📈 24h Stats: $5,047,922 vol • $104,495 mcap • 4830.8% ratio
+   📊 Sentiment: 0.0% price • 82.3% buy ratio
+   🔄 Activity: 1055 txns total
+   💧 Liquidity: $23,827,838
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/3wijqvpkm6jhqrakfppok5o8wjcwpm1dgg17nmew8q1w
+
+🎯 #3 memecoin - Alpha Score: 70.9/100
+   📈 24h Stats: $107,367 vol • $91,124 mcap • 117.8% ratio
+   📊 Sentiment: -31.0% price • 58.6% buy ratio
+   🔄 Activity: 2067 txns total
+   💧 Liquidity: $55,973
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4cety
+
+🎯 #4 INU - Alpha Score: 44.8/100
+   📈 24h Stats: $7,651 vol • $55,319 mcap • 13.8% ratio
+   📊 Sentiment: -5.7% price • 58.1% buy ratio
+   🔄 Activity: 198 txns total
+   💧 Liquidity: $21,656
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/9gzzcwcfa16xsqmnd1gnazivgfwgpxv8cgftt7wgvgqz
+
+🎯 #5 SOL - Alpha Score: 39.7/100
+   📈 24h Stats: $938 vol • $78,669 mcap • 1.2% ratio
+   📊 Sentiment: -3.6% price • 43.8% buy ratio
+   🔄 Activity: 417 txns total
+   💧 Liquidity: $12,098
+   🌐 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x30fe90b1ad644970c48a6b5886ec39b1e3df97ee
+
+🎯 #6 SAM - Alpha Score: 38.3/100
+   📈 24h Stats: $8,989 vol • $175,143 mcap • 5.1% ratio
+   📊 Sentiment: -9.8% price • 18.0% buy ratio
+   🔄 Activity: 307 txns total
+   💧 Liquidity: $73,709
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0xd72a82022134ba0d417c8d733139057e9bb9ea3f
+
+🎯 #7 AI - Alpha Score: 38.2/100
+   📈 24h Stats: $8,666 vol • $100,986 mcap • 8.6% ratio
+   📊 Sentiment: 13.5% price • 53.8% buy ratio
+   🔄 Activity: 100 txns total
+   💧 Liquidity: $42,572
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/dpawppcceyb99wnncoqsmgexauhnmqfxe79mnnvvtphc
+
+🎯 #8 HAMMY - Alpha Score: 37.9/100
+   📈 24h Stats: $1,245 vol • $192,856 mcap • 0.6% ratio
+   📊 Sentiment: -3.3% price • 63.4% buy ratio
+   🔄 Activity: 151 txns total
+   💧 Liquidity: $89,176
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/x131b3frgn4b8ue51eyvrnzwutubgom93uryrnteefy
+
+🎯 #9 DOGE - Alpha Score: 36.9/100
+   📈 24h Stats: $598 vol • $60,485 mcap • 1.0% ratio
+   📊 Sentiment: 3.2% price • 47.1% buy ratio
+   🔄 Activity: 150 txns total
+   💧 Liquidity: $10,997
+   🌐 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x56aece39050608a7944908a1754d0397067aa435
+
+🎯 #10 Frog - Alpha Score: 35.8/100
+   📈 24h Stats: $416 vol • $59,315 mcap • 0.7% ratio
+   📊 Sentiment: -3.7% price • 62.0% buy ratio
+   🔄 Activity: 125 txns total
+   💧 Liquidity: $17,870
+   🌐 Chain: seiv2
+   🔗 https://dexscreener.com/seiv2/0x373e718e54e73fb462fec3a73e9645efea280b84
+
+🎯 #11 SOL - Alpha Score: 35.4/100
+   📈 24h Stats: $33,476 vol • $92,374 mcap • 36.2% ratio
+   📊 Sentiment: -2.8% price • 50.1% buy ratio
+   🔄 Activity: 5990 txns total
+   💧 Liquidity: $0
+   🌐 Chain: injective
+   🔗 https://dexscreener.com/injective/0xd9089235d2c1b07261cbb2071f4f5a7f92fa1eca940e3cad88bb671c288a972f
+
+🎯 #12 AI - Alpha Score: 31.6/100
+   📈 24h Stats: $952 vol • $120,883 mcap • 0.8% ratio
+   📊 Sentiment: -3.7% price • 60.0% buy ratio
+   🔄 Activity: 71 txns total
+   💧 Liquidity: $24,775
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xbacbea108e060aeb3aa4bd55bf46534bdde6f6b7
+
+📊 MARKET SUMMARY FOR 33 GEMS
+------------------------------------------------------------
+• Average Alpha Score: 46.8/100
+• Average Market Cap: $99,524
+• Average Volume/MCap Ratio: 423.0%
+• Average Buy Ratio: 54.9%
+• Total Tokens Analyzed: 354
+
+💡 STRONGEST ALPHA SIGNALS
+------------------------------------------------------------
+• Top performer: AI token showing excellent metrics
+• Volume efficiency: High volume/mcap ratios suggest strong interest
+• Buy dominance: Majority of tokens show 58%+ buy ratios
+• Fresh gems: Multiple Solana-based tokens with recent activity
+
+⚠️ RISK ASSESSMENT
+------------------------------------------------------------
+• Top alpha has adequate liquidity and positive sentiment
+• Volume ratios indicate genuine community interest  
+• Mixed volatility - some tokens showing significant price movements
+• Multiple chains represented (Solana, Base, BSC, PulseChain)
+
+⚠️ DISCLAIMER: High risk memecoin scanning - DYOR required before any investment
+Next scan scheduled in 5 minutes

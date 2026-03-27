@@ -1,0 +1,111 @@
+💰 DEXSCREENER ALPHA SCANNER - SUB 30K-200K MCAP
+======================================================================
+Scan Time: Wednesday, March 04, 2026 — 12:27 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+======================================================================
+
+💎 Found 7 Alpha Gems
+----------------------------------------------------------------------
+
+🎯 SOL (Solana)
+   ⚡ Alpha Score: 60.0/100
+   💰 Market Cap: $90,255
+   📈 24h Volume: $30,866.97
+   🔥 Vol/MCap Ratio: 34.2%
+   📊 Price Change: -1.24%
+   💧 Liquidity: $0.00
+   🔄 Transactions: 5005/24h (2493 buys, 2512 sells)
+   📈 Buy/Sell Ratio: 49.8%
+   🌐 Chain: injective
+   🔗 DexScreener: https://dexscreener.com/injective/0xd9089235d2c1b07261cbb2071f4f5a7f92fa1eca940e3cad88bb671c288a972f
+
+🎯 BSC (Binance Super Cycle)
+   ⚡ Alpha Score: 34.2/100
+   💰 Market Cap: $68,137
+   📈 24h Volume: $1,732.89
+   🔥 Vol/MCap Ratio: 2.5%
+   📊 Price Change: 5.88%
+   💧 Liquidity: $42,892.83
+   🔄 Transactions: 32/24h (17 buys, 15 sells)
+   📈 Buy/Sell Ratio: 53.1%
+   🌐 Chain: bsc
+   🔗 DexScreener: https://dexscreener.com/bsc/0xff0a8df8c4a0332e28a4c94ebb3f633944b08a94
+
+🎯 SOL (SOLANA)
+   ⚡ Alpha Score: 33.7/100
+   💰 Market Cap: $85,538
+   📈 24h Volume: $1,382.73
+   🔥 Vol/MCap Ratio: 1.6%
+   📊 Price Change: 3.93%
+   💧 Liquidity: $12,801.71
+   🔄 Transactions: 504/24h (201 buys, 303 sells)
+   📈 Buy/Sell Ratio: 39.9%
+   🌐 Chain: pulsechain
+   🔗 DexScreener: https://dexscreener.com/pulsechain/0x30fe90b1ad644970c48a6b5886ec39b1e3df97ee
+
+🎯 BASE (BrianArmstrongCoinbaseUSDC2012Normie)
+   ⚡ Alpha Score: 19.9/100
+   💰 Market Cap: $35,037
+   📈 24h Volume: $913.46
+   🔥 Vol/MCap Ratio: 2.6%
+   📊 Price Change: 0.12%
+   💧 Liquidity: $23,119.26
+   🔄 Transactions: 11/24h (9 buys, 2 sells)
+   📈 Buy/Sell Ratio: 81.8%
+   🌐 Chain: base
+   🔗 DexScreener: https://dexscreener.com/base/0x60dc51ab5ad447f72d4c86fffcccb89038391471
+
+🎯 BASE (Base House )
+   ⚡ Alpha Score: 18.4/100
+   💰 Market Cap: $39,535
+   📈 24h Volume: $0.04
+   🔥 Vol/MCap Ratio: 0.0%
+   📊 Price Change: 1.61%
+   💧 Liquidity: $29,651.17
+   🔄 Transactions: 2/24h (0 buys, 2 sells)
+   📈 Buy/Sell Ratio: 0.0%
+   🌐 Chain: base
+   🔗 DexScreener: https://dexscreener.com/base/0x86cdfeb34f3f25b134418d1d78e6b3c1bf6a5247c10024687a7255aa1fd9119f
+
+🎯 SOL (Solana)
+   ⚡ Alpha Score: 17.6/100
+   💰 Market Cap: $50,397
+   📈 24h Volume: $698.38
+   🔥 Vol/MCap Ratio: 1.4%
+   📊 Price Change: -3.37%
+   💧 Liquidity: $27,437.06
+   🔄 Transactions: 5/24h (2 buys, 3 sells)
+   📈 Buy/Sell Ratio: 40.0%
+   🌐 Chain: near
+   🔗 DexScreener: https://dexscreener.com/near/refv1-3019
+
+🎯 SOLANA (BarbieCrashBandicootRFK888Inu)
+   ⚡ Alpha Score: 16.3/100
+   💰 Market Cap: $140,360
+   📈 24h Volume: $172.47
+   🔥 Vol/MCap Ratio: 0.1%
+   📊 Price Change: -0.59%
+   💧 Liquidity: $91,117.69
+   🔄 Transactions: 10/24h (5 buys, 5 sells)
+   📈 Buy/Sell Ratio: 50.0%
+   🌐 Chain: ethereum
+   🔗 DexScreener: https://dexscreener.com/ethereum/0x41f50f520f5095fc8403df083285232b822611c3
+
+📊 SUMMARY STATISTICS:
+------------------------------
+• Average Alpha Score: 28.6/100
+• Average Market Cap: $72,751
+• Average Volume: $5,110
+• Total Gems Found: 7
+
+🧠 ALPHA SCORE EXPLANATION:
+------------------------------
+• Volume (30 pts): Higher = more trader interest
+• Vol/MCap Ratio (20 pts): Low mcap + high volume = undervalued
+• Price Momentum (25 pts): Positive momentum = upside potential
+• Liquidity (15 pts): Healthy pool = easier trading
+• Activity (10 pts): Higher txns = more community
+• Buy Pressure (Combined): Buy ratio > 50% = accumulation
+
+⚠️ Disclaimer: Alpha scanner results only. DYOR before investing.
+Market conditions change rapidly. High risk micro-cap space.

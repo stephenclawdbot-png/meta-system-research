@@ -1,0 +1,74 @@
+🎯 MEMECOIN ALPHA SCANNER CRON REPORT
+=================================================
+Scan Time: Wednesday, March 04, 2026 — 08:14 AM (Asia/Manila)
+Target: $30K-$200K MCap Alpha Memecoins
+Source: DexScreener enhanced scanner
+
+📊 MARKET OVERVIEW:
+• Total Scanned: 216 tokens
+• Eligible Candidates: 6 tokens
+• Avg MCap: $81,516
+• Avg Volume: $70,439
+• Avg Vol/MCap Ratio: 116.2%
+• Avg Buy Ratio: 52.9%
+• Avg Alpha Score: 51.5/100
+
+🔥 TOP ALPHA GEMS:
+
+🎯 #1 AI - Alpha Score: 81.7/100
+   Market Cap: $51,628
+   24h Volume: $41,673 (80.7% ratio)
+   Price Change: ↗64.2%
+   Buy Ratio: 59.5%
+   Transactions: 398
+   Chain: Solana
+   Link: https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #2 WIF - Alpha Score: 80.8/100
+   Market Cap: $61,584
+   24h Volume: $375,086 (609.1% ratio) ⚡ HIGH VOLUME
+   Price Change: ↗748.0% 💥 POWERFUL MOVE
+   Buy Ratio: 71.4% 🔥 STRONG ACCUMULATION
+   Transactions: 7,326
+   Chain: Solana
+   Link: https://dexscreener.com/solana/edjswcdxhbkm1dydzwsvowyj2kqzhhsucbgusrm7ctc
+
+🎯 #3 SHIB - Alpha Score: 38.1/100
+   Market Cap: $83,691
+   24h Volume: $1,029 (1.2% ratio)
+   Price Change: ↘3.9%
+   Buy Ratio: 58.0%
+   Transactions: 50
+   Chain: Solana
+
+🎯 #4 TRUMP - Alpha Score: 36.8/100
+   Market Cap: $41,756
+   24h Volume: $1,376 (3.3% ratio)
+   Price Change: ↘3.0%
+   Buy Ratio: 41.3%
+   Transactions: 46
+   Chain: FlowEVM
+
+🎯 #5 CAT - Alpha Score: 36.8/100
+   Market Cap: $103,520
+   24h Volume: $2,165 (2.1% ratio)
+   Price Change: ↘3.0%
+   Buy Ratio: 52.6%
+   Transactions: 19
+   Chain: BSC
+
+🎯 #6 PEPE - Alpha Score: 35.0/100
+   Market Cap: $146,917
+   24h Volume: $1,304 (0.9% ratio)
+   Price Change: ↘4.1%
+   Buy Ratio: 34.5%
+   Transactions: 29
+   Chain: Solana
+
+💡 STRONGEST SIGNALS:
+• WIF shows exceptional metrics: 748% price increase with 609% volume-to-market-cap ratio
+• AI demonstrates solid fundamentals with 80% V/M ratio and positive momentum
+• Shib and Trump show moderate accumulation patterns
+• Market health: Medium-low range (51.5 average score)
+
+⚠️ DISCLAIMER: High risk alpha scanning - DYOR required

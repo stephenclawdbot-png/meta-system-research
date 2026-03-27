@@ -1,0 +1,86 @@
+🧠 MEMECOIN ALPHA SCANNER - 30K-200K MCAP FOCUS
+============================================================
+Scan Time: Wednesday, March 04, 2026 — 02:17 AM (GMT+8)
+Target Range: $30k - $200k Market Cap
+
+🔥 TOP ALPHA MEMECOINS DETECTED:
+--------------------------------------------------
+🎯 #1 AI - Alpha Score: 74.4/100
+   💰 MCap: $49,742 | Vol: $37,870
+   📈 24h Change: 83.0%
+   🔥 Vol/MCap Ratio: 76.1%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/dpfpxwd4fkbbru2q9ytmfk7tnxvef8fyfjyb3eebmms
+
+🎯 #2 AI - Alpha Score: 10.5/100
+   💰 MCap: $100,986 | Vol: $8,657
+   📈 24h Change: 15.1%
+   🔥 Vol/MCap Ratio: 8.6%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/dpawppcceyb99wnncoqsmgexauhnmqfxe79mnnvvtphc
+
+🎯 #3 ELON - Alpha Score: 6.4/100
+   💰 MCap: $54,917 | Vol: $949
+   📈 24h Change: 17.6%
+   🔥 Vol/MCap Ratio: 1.7%
+   🌐 Dex: pulsex | Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x2dcee3eba5de855ad27e8bdfe39a0869761e7e72
+
+🎯 #4 DOG - Alpha Score: 1.1/100
+   💰 MCap: $37,800 | Vol: $651
+   📈 24h Change: -2.1%
+   🔥 Vol/MCap Ratio: 1.7%
+   🌐 Dex: ekubo | Chain: starknet
+   🔗 https://dexscreener.com/starknet/0x040e81cfeb176bfdbc5047bbc55eb471cfab20a6b221f38d8fda134e1bfffca4-0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d-3402823669209384634633746074317682114-19802-0x0
+
+🎯 #5 DOGE - Alpha Score: 3.8/100
+   💰 MCap: $62,732 | Vol: $690
+   📈 24h Change: 10.3%
+   🔥 Vol/MCap Ratio: 1.1%
+   🌐 Dex: pulsex | Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x56aece39050608a7944908a1754d0397067aa435
+
+🎯 #6 PEPE - Alpha Score: 0.7/100
+   💰 MCap: $143,210 | Vol: $1,300
+   📈 24h Change: -5.7%
+   🔥 Vol/MCap Ratio: 0.9%
+   🌐 Dex: meteora | Chain: solana
+   🔗 https://dexscreener.com/solana/8lvqv2jgnvcx1ndtmhd5ahx8zujetflwygq9mtdfphxe
+
+🎯 #7 AI - Alpha Score: 0.5/100
+   💰 MCap: $120,282 | Vol: $867
+   📈 24h Change: -3.4%
+   🔥 Vol/MCap Ratio: 0.7%
+   🌐 Dex: pancakeswap | Chain: bsc
+   🔗 https://dexscreener.com/bsc/0xbacbea108e060aeb3aa4bd55bf46534bdde6f6b7
+
+🎯 #8 ELON - Alpha Score: 0.5/100
+   💰 MCap: $97,525 | Vol: $668
+   📈 24h Change: -1.8%
+   🔥 Vol/MCap Ratio: 0.7%
+   🌐 Dex: quickswap | Chain: polygon
+   🔗 https://dexscreener.com/polygon/0x7ce77c761f1486ca926382c92fc438500f29344d
+
+🎯 #9 AI - Alpha Score: 0.4/100
+   💰 MCap: $70,095 | Vol: $457
+   📈 24h Change: -2.1%
+   🔥 Vol/MCap Ratio: 0.7%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/963skud5mn3ss8ronbcn2g88at8kzbsu5x9okhbgzxel
+
+🎯 #10 PEPE - Alpha Score: 0.4/100
+   💰 MCap: $122,054 | Vol: $603
+   📈 24h Change: -1.8%
+   🔥 Vol/MCap Ratio: 0.5%
+   🌐 Dex: raydium | Chain: solana
+   🔗 https://dexscreener.com/solana/gdygvj6l5keuickgcnxdaaoog4gfjevpr2njd3bfryf5
+
+📊 SCAN SUMMARY:
+--------------------
+Total Gems Found: 46 tokens
+🥇 Highest Alpha: AI (74.4/100)
+💰 Avg MCap: $83,189
+📈 Avg Volume: $1,221
+🚀 Avg Vol/MCap Ratio: 2.1%
+
+⚠️ DISCLAIMER: High risk memecoin scanning - NFA

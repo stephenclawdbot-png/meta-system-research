@@ -1,0 +1,78 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Friday, March 06, 2026 — 04:29 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+🔥 TOP 7 ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 Diamond Hands - Alpha Score: 83/100
+   📈 24h Stats: $49,338 vol • $34,052 mcap • 144.9% ratio
+   📊 Sentiment: +737.0% price • 56.0% buy ratio
+   🔄 Activity: 6140 txns (3440 buys/2700 sells)
+   💧 Liquidity: Not available
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/fymcoc1gtn4aandfxohvgfiqnjyjncjkf9wpefjtstej
+
+🎯 #2 Therian - Alpha Score: 50/100
+   📈 24h Stats: $22,698 vol • $55,904 mcap • 40.6% ratio
+   📊 Sentiment: -44.6% price • 55.5% buy ratio
+   🔄 Activity: 472 txns (262 buys/210 sells)
+   💧 Liquidity: Not available
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/aqfptl2acbfb2dbrehevu3sxcredzz9nd5et6tedg5tz
+
+🎯 #3 KITTY - Alpha Score: 40/100
+   📈 24h Stats: $16,755 vol • $41,647 mcap • 40.2% ratio
+   📊 Sentiment: -60.2% price • 18.8% buy ratio
+   🔄 Activity: 165 txns (31 buys/134 sells)
+   💧 Liquidity: Not available
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x2f2daaddf32dd1310054aee790dd0b4b2af1272e
+
+🎯 #4 Satoshi - Alpha Score: 37/100
+   📈 24h Stats: $18,189 vol • $63,814 mcap • 28.5% ratio
+   📊 Sentiment: -4.2% price • 58.8% buy ratio
+   🔄 Activity: 216 txns (127 buys/89 sells)
+   💧 Liquidity: Not available
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/vtrbxdo3yfa1wkzy2x4nkyg1xknswjpzgtfkl7bac8j
+
+🎯 #5 Baby - Alpha Score: 33/100
+   📈 24h Stats: $31,774 vol • $195,492 mcap • 16.3% ratio
+   📊 Sentiment: -30.9% price • 64.7% buy ratio
+   🔄 Activity: 439 txns (284 buys/155 sells)
+   💧 Liquidity: Not available
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/4qbzhs2ecgmvyx77hrexrlvu4hyy4eesmwrdr8xsefqo
+
+🎯 #6 MOONCOIN - Alpha Score: 25/100
+   📈 24h Stats: $8,620 vol • $64,280 mcap • 13.4% ratio
+   📊 Sentiment: +6.8% price • 61.0% buy ratio
+   🔄 Activity: 118 txns (72 buys/46 sells)
+   💧 Liquidity: Not available
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/ens8x7yuksb1pw7pvzs9aw6bvjzcsjekm1o1dvfttb45
+
+🎯 #7 Mog Coin - Alpha Score: 20/100
+   📈 24h Stats: $2,536 vol • $49,445 mcap • 5.1% ratio
+   📊 Sentiment: +6.5% price • 83.3% buy ratio
+   🔄 Activity: 48 txns (40 buys/8 sells)
+   💧 Liquidity: Not available
+   🌐 Chain: base
+   🔗 https://dexscreener.com/base/0x6eed5ab6ebe61e3b3a5f83bdedb1aef413a97bcc
+
+📊 MARKET SUMMARY FOR 17 GEMS
+• Average Alpha Score: 41.1/100
+• Average Market Cap: $78,376
+• Average Volume/MCap Ratio: 41.3%
+• Top Performer: Diamond Hands (83/100)
+
+💡 Key Alpha Signals:
+- Volume/Mcap ratio > 25% indicates strong interest
+- Buy ratio > 60% suggests accumulation phase
+- High transaction volume = active community
+
+⚠️ DISCLAIMER: High risk assets - DYOR required
+The top alpha signal is "Diamond Hands" with strong price momentum (+737%) and solid buy pressure.

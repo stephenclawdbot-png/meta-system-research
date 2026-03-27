@@ -1,0 +1,41 @@
+🎯 MEMECOIN ALPHA SCANNER REPORT
+==================================================
+Scanning DexScreener for sub 30k-200k MCap gems
+Scan Time: Wednesday, March 04, 2026 — 08:07 PM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+
+🔥 TOP ALPHA GEMS DETECTED
+------------------------------
+1. SOL (Solana) - Alpha Score: 59/100
+   💰 MCap: $95,171
+   📈 Volume 24h: $30,377.96
+   🔥 Vol/MCap Ratio: 31.9%
+   📊 Price Change: +6.0%
+   🔄 Buy/Sell: 2370/2458 (49.1% buys)
+   🔗 Chain: injective
+   DexScreener: https://dexscreener.com/injective/0xd9089235d2c1b07261cbb2071f4f5a7f92fa1eca940e3cad88bb671c288a972f
+
+2. SOLANA (BarbieCrashBandicootRFK888Inu) - Alpha Score: 12/100
+   💰 MCap: $145,108
+   📈 Volume 24h: $1,193.98
+   🔥 Vol/MCap Ratio: 0.8%
+   📊 Price Change: +3.0%
+   🔄 Buy/Sell: 7/5 (58.3% buys)
+   🔗 Chain: ethereum
+   DexScreener: https://dexscreener.com/ethereum/0x41f50f520f5095fc8403df083285232b822611c3
+
+📊 MARKET ANALYSIS:
+• Total candidates found: 2 tokens meeting criteria
+• Average Alpha Score: 35.5/100
+• Average Vol/MCap Ratio: 16.4%
+• Average Buy Ratio: 53.7%
+• Average Market Cap: $120,140
+• Highest Momentum: SOL (+6.0%)
+• Most Efficient Volume: SOL (31.9% vol/mcap)
+• Highest Buy Pressure: SOL (2370 buys)
+
+⚠️ DISCLAIMER: HIGH RISK / NOT FINANCIAL ADVICE
+• Always conduct your own research before investing
+• Memecoins are extremely volatile
+• Only risk what you can afford to lose
+• Monitor volume and buy/sell ratios closely

@@ -1,0 +1,140 @@
+🧠 MEMECOIN ALPHA SCANNER - 30K-200K MCAP
+============================================================
+Filter: Market Cap $30,000 - $200,000
+Time: Wednesday, March 04, 2026 — 02:41 PM ()
+
+🔍 Scanning DexScreener for memecoins...
+📊 Scan Complete: Found 17 alpha candidates
+
+🔥 TOP ALPHA GEMS (30K-200K MCAP)
+------------------------------------------------------------
+
+1. 💎 memecoin - Alpha Score: 68.8/100
+   📛 Name: Memecoin
+   💰 MCap: $115,403
+   📈 24h Volume: $77,751.2
+   🔥 Vol/MCap Ratio: 0.7x
+   📊 1h Change: 3.2%
+   🔄 Buy Ratio: 60.9%
+   💧 Transactions 24h: 991
+   🏦 Liquidity: $62,874.71
+   🌐 Filter Score: 55/100
+   🔗 DexScreener: https://dexscreener.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4cety
+
+2. 💎 TOKEN - Alpha Score: 57.4/100
+   📛 Name: Token.com
+   💰 MCap: $142,846
+   📈 24h Volume: $53,184.57
+   🔥 Vol/MCap Ratio: 0.4x
+   📊 1h Change: 0.0%
+   🔄 Buy Ratio: 50.0%
+   💧 Transactions 24h: 118
+   🏦 Liquidity: $89,805.33
+   🌐 Filter Score: 40/100
+   🔗 DexScreener: https://dexscreener.com/base/0x2ff525c71cb7b29fcde4bea8c8f601b1dd22480a
+
+3. 💎 Coin - Alpha Score: 54.5/100
+   📛 Name: Coin
+   💰 MCap: $45,998
+   📈 24h Volume: $6,282
+   🔥 Vol/MCap Ratio: 0.1x
+   📊 1h Change: 0.5%
+   🔄 Buy Ratio: 100.0%
+   💧 Transactions 24h: 151
+   🏦 Liquidity: $37,640.51
+   🌐 Filter Score: 25/100
+   🔗 DexScreener: https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+4. 💎 coin - Alpha Score: 41.4/100
+   📛 Name: coin
+   💰 MCap: $45,507
+   📈 24h Volume: $18,846.4
+   🔥 Vol/MCap Ratio: 0.4x
+   📊 1h Change: 0.0%
+   🔄 Buy Ratio: 0.0%
+   💧 Transactions 24h: 326
+   🏦 Liquidity: $13.43
+   🌐 Filter Score: 30/100
+   🔗 DexScreener: https://dexscreener.com/solana/hxsbx6rft228s3geu3tyxm9q3nju3ybnaejnwbwkid9n
+
+5. 💎 TOKEN - Alpha Score: 41.0/100
+   📛 Name: Token.com (Wormhole)
+   💰 MCap: $143,099
+   📈 24h Volume: $28,700.86
+   🔥 Vol/MCap Ratio: 0.2x
+   📊 1h Change: 0.0%
+   🔄 Buy Ratio: 0.0%
+   💧 Transactions 24h: 46
+   🏦 Liquidity: $93,427.25
+   🌐 Filter Score: 40/100
+   🔗 DexScreener: https://dexscreener.com/solana/bxekxq1pqdgt7vs3l6gyxs7tpdojj5niibbszsjpm2gf
+
+6. 💎 ADHD - Alpha Score: 34.0/100
+   📛 Name: Addicted Dopamine Hopium Degens
+   💰 MCap: $68,801
+   📈 24h Volume: $10,189.06
+   🔥 Vol/MCap Ratio: 0.1x
+   📊 1h Change: 0.0%
+   🔄 Buy Ratio: 0.0%
+   💧 Transactions 24h: 1139
+   🏦 Liquidity: $0
+   🌐 Filter Score: 40/100
+   🔗 DexScreener: https://dexscreener.com/solana/2hs9jxjq9wro9nfxcuibdz3adjtgn43bnbbx7ortyuxh
+
+7. 💎 coin - Alpha Score: 20.7/100
+   📛 Name: coin
+   💰 MCap: $160,568
+   📈 24h Volume: $766.38
+   🔥 Vol/MCap Ratio: 0.0x
+   📊 1h Change: 0.0%
+   🔄 Buy Ratio: 0.0%
+   💧 Transactions 24h: 9
+   🏦 Liquidity: $120,450.24
+   🌐 Filter Score: 30/100
+   🔗 DexScreener: https://dexscreener.com/base/0x5122e02898ece3bc62df8c1efdb29a9e914244d3
+
+8. 💎 WSOD - Alpha Score: 20.4/100
+   📛 Name: World Series of Degens
+   💰 MCap: $119,488
+   📈 24h Volume: $2,819.78
+   🔥 Vol/MCap Ratio: 0.0x
+   📊 1h Change: 0.0%
+   🔄 Buy Ratio: 0.0%
+   💧 Transactions 24h: 34
+   🏦 Liquidity: $36,724.02
+   🌐 Filter Score: 35/100
+   🔗 DexScreener: https://dexscreener.com/solana/dj7hbqokom2yhnbjnvapxlntddrqmxeevesjwijv3r8l
+
+9. 💎 MEME - Alpha Score: 16.5/100
+   📛 Name: Meme
+   💰 MCap: $43,648
+   📈 24h Volume: $837.43
+   🔥 Vol/MCap Ratio: 0.0x
+   📊 1h Change: 0.0%
+   🔄 Buy Ratio: 0.0%
+   💧 Transactions 24h: 5
+   🏦 Liquidity: $22,493.27
+   🌐 Filter Score: 25/100
+   🔗 DexScreener: https://dexscreener.com/ethereum/0xdcc55de68c9ee1438bb1398c50382ae3788b51b4
+
+10. 💎 Coin - Alpha Score: 15.8/100
+   📛 Name: Coin
+   💰 MCap: $44,837
+   📈 24h Volume: $43.17
+   🔥 Vol/MCap Ratio: 0.0x
+   📊 1h Change: 0.0%
+   🔄 Buy Ratio: 0.0%
+   💧 Transactions 24h: 50
+   🏦 Liquidity: $491.64
+   🌐 Filter Score: 20/100
+   🔗 DexScreener: https://dexscreener.com/solana/eqptmef8y98yyqn7krblzfqwmytcmt3oyzpiwzsscyet
+
+📈 ALPHA ANALYSIS
+-------------------------
+• High Alpha (1 gems): Score ≥ 60
+  - memecoin: 68.8 ($115,403)
+• Medium Alpha (4 gems): Score 40-59
+• Total Alpha Gems: 17
+• Market Status: Active
+
+⚠️ DISCLAIMER: This is alpha detection only - DYOR

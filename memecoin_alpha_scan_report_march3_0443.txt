@@ -1,0 +1,37 @@
+🧠 CRON ALPHA SCANNER REPORT - EARLY DETECTION BOT
+=====================================================
+Scan Time: Tuesday, March 3rd, 2026 — 4:43 AM (Asia/Manila)
+Focus: Sub 30k-200k mcap memecoins - detection before mainstream attention
+
+💎 TOP ALPHA GEMS FOUND (2 tokens detected):
+--------------------------------------------------
+
+🎯 #1 POPCAT - ALPHA SCORE: 100/100
+   • Market Cap: $52,544
+   • 24h Volume: $512,304
+   • Volume/MCap Ratio: 975.0% (EXTREME DEMAND)
+   • Price Change: +600.0%
+   • Buy Ratio: 57.2%
+   • Chain: Solana
+   • Dex: PumpSwap
+   • https://dexscreener.com/solana/hre898slypksaatvfwvpbzcsfsbmykxzpfw6tswvvwre
+
+🎯 #2 POPCAT - ALPHA SCORE: 100/100  
+   • Market Cap: $52,452
+   • 24h Volume: $263,707
+   • Volume/MCap Ratio: 502.8% (VERY HIGH DEMAND)
+   • Price Change: +596.0%
+   • Buy Ratio: 63.0%
+   • Chain: Solana
+   • Dex: PumpSwap
+   • https://dexscreener.com/solana/2ktq97qfjnw6ddvemvsyrtt3wuxfsant5qfpp4vwbrjs
+
+📊 MARKET INSIGHTS:
+• Both gems show explosive demand with volume exceeding market cap
+• POPCAT token experiencing massive simultaneous attention
+• High buy ratios suggest accumulating, not dumping
+• Solana ecosystem dominance for early alpha detection
+
+⚠️ DISCLAIMER: Memecoin scanning detects high-risk assets - DYOR essential
+----------------------------------
+Scan complete - Next detection cycle in 5 minutes

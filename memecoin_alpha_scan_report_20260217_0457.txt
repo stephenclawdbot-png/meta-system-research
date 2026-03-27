@@ -1,0 +1,105 @@
+🔍 Scanning DexScreener for 30k-200k mcap memecoins...
+💰 ALPHA SCANNER REPORT - SUB 30K-200K MCAP MEMECOINS
+==========================================================
+Scan Time: Tuesday, February 17, 2026 — 04:57 AM (GMT+8)
+Market Cap Focus: $30,000 - $200,000
+Sources: DexScreener API
+Total Alpha Gems Found: 10
+
+🎯 PEPE - Alpha Score: 70/80
+   Name: Pepe By Matt Furie
+   Market Cap: $166,479
+   24h Volume: $6,367
+   Price Change: 1.6%
+   Liquidity: $28,787
+   Transactions (B/S): 41/23
+   DexScreener: https://dexscreener.com/solana/8lvqv2jgnvcx1ndtmhd5ahx8zujetflwygq9mtdfphxe
+
+🎯 Cat - Alpha Score: 65/80
+   Name: Catcoin
+   Market Cap: $32,196
+   24h Volume: $47,174
+   Price Change: -22.2%
+   Liquidity: $15,049
+   Transactions (B/S): 578/379
+   DexScreener: https://dexscreener.com/solana/bmmngn3d34yud7z8a7tznbahehaz4v3rh97a8rmqu6d5
+
+🎯 PEPE - Alpha Score: 60/80
+   Name: PEPE
+   Market Cap: $122,073
+   24h Volume: $972
+   Price Change: 8.4%
+   Liquidity: $41,183
+   Transactions (B/S): 16/2
+   DexScreener: https://dexscreener.com/solana/gdygvj6l5keuickgcnxdaaoog4gfjevpr2njd3bfryf5
+
+🎯 AI - Alpha Score: 50/80
+   Name: Artificial Inu
+   Market Cap: $93,113
+   24h Volume: $4,583
+   Price Change: 0.0%
+   Liquidity: $40,740
+   Transactions (B/S): 22/20
+   DexScreener: https://dexscreener.com/solana/dpawppcceyb99wnncoqsmgexauhnmqfxe79mnnvvtphc
+
+🎯 APE - Alpha Score: 45/80
+   Name: ApeCoin
+   Market Cap: $155,998
+   24h Volume: $264
+   Price Change: 0.2%
+   Liquidity: $11,445
+   Transactions (B/S): 56/23
+   DexScreener: https://dexscreener.com/solana/nzesgwdcmzjz4yq8bajrtrz34uzv1nhsjypkcec46dg
+
+🎯 MEME - Alpha Score: 45/80
+   Name: MOST ELEGANT MONKEY EVER
+   Market Cap: $50,138
+   24h Volume: $300
+   Price Change: 4.1%
+   Liquidity: $20,909
+   Transactions (B/S): 5/0
+   DexScreener: https://dexscreener.com/solana/8yp8vn47febmolkbdp7mwswt4emdyrwu7qd7xmc83rql
+
+🎯 AI - Alpha Score: 45/80
+   Name: Artificial Intelligence
+   Market Cap: $175,748
+   24h Volume: $26,453
+   Price Change: -14.9%
+   Liquidity: $33,166
+   Transactions (B/S): 116/123
+   DexScreener: https://dexscreener.com/solana/87w8qk8gk3umvaejduzyfslks9bpyhz2wxpg1jmgqm7u
+
+🎯 APE - Alpha Score: 40/80
+   Name: ApeCoin
+   Market Cap: $96,632
+   24h Volume: $329
+   Price Change: -0.1%
+   Liquidity: $17,636
+   Transactions (B/S): 54/11
+   DexScreener: https://dexscreener.com/solana/9zijwwmx6hanydbibhmpmz7okxbrwuh9fc7ujdvuu8vs
+
+🎯 APE - Alpha Score: 40/80
+   Name: ApeCoin
+   Market Cap: $96,698
+   24h Volume: $324
+   Price Change: 0.0%
+   Liquidity: $16,488
+   Transactions (B/S): 49/12
+   DexScreener: https://dexscreener.com/solana/3bn1wrhjypa8sleeusvmkqxvfqepirfrodkubo6akkiu
+
+🎯 SHIB - Alpha Score: 40/80
+   Name: SHIBA INU
+   Market Cap: $81,342
+   24h Volume: $67
+   Price Change: -1.8%
+   Liquidity: $29,440
+   Transactions (B/S): 12/5
+   DexScreener: https://dexscreener.com/solana/36y1lqjqnl7jpu4huofhgegxnqhkjgggkg5insukrtur
+
+
+📊 SCANNER FILTERS APPLIED:
+- Market Cap: $30,000 - $200,000
+- Minimum Alpha Score: 20/80
+- Minimum Volume: $1,000
+- Buy/Sell Ratio Preference: >50%
+- Sources: DexScreener trending tokens

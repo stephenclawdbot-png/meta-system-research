@@ -1,0 +1,59 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON EXECUTION
+==================================================
+Scan Time: Wednesday, March 11, 2026 — 10:01 PM (Asia/Manila)
+Market Focus: $30k-$200k memecoins
+Alpha Detection: Pre-mainstream attention
+
+📊 MARKET OVERVIEW
+Alpha Candidates Found: 14 tokens
+Average Alpha Score: 34.2/100
+Average Market Cap: $115,132
+Average Volume: $20,976
+
+💡 ALPHA SIGNALS
+Strong (>60): 3 tokens
+Moderate (40-60): 1 tokens
+Weak (<40): 10 tokens
+
+🔥 TOP ALPHA GEMS
+#1 Token — Alpha: 74.6/100
+   💰 MCap: $174,122 | Vol: $190,715
+   📈 24h: ▲51.2%
+   🔥 Vol/MCap: 109.5%
+   🌐 Chain: solana | Dex: raydium
+   🔗 https://dexscreener.com/solana/arf1k9dnzeflbgdnurqysmighfz6higxpdfusqthkpm
+
+#2 Coin — Alpha: 72.9/100
+   💰 MCap: $52,740 | Vol: $9,627
+   📈 24h: ▲7.0%
+   🔥 Vol/MCap: 18.3%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/fjt1dpbreuesu2r1dqfhxfatk9uitwau4bdvnnvm4c4w
+
+#3 baby — Alpha: 70.8/100
+   💰 MCap: $195,377 | Vol: $64,879
+   📈 24h: ▲144.0%
+   🔥 Vol/MCap: 33.2%
+   🌐 Chain: solana | Dex: meteora
+   🔗 https://dexscreener.com/solana/9u9xjb9gmmpblgtxav8wdt59i6w4f8bxwtwhhvwakvbc
+
+#4 🐕 — Alpha: 49.3/100
+   💰 MCap: $36,656 | Vol: $3,396
+   📈 24h: ▲1.3%
+   🔥 Vol/MCap: 9.3%
+   🌐 Chain: solana | Dex: raydium
+   🔗 https://dexscreener.com/solana/4u1bztbtun4xr4jeo1inmvpys7eq6ruymnnjifhfzy76
+
+#5 Baby — Alpha: 34.6/100
+   💰 MCap: $129,043 | Vol: $14,217
+   📉 24h: ▼12.6%
+   🔥 Vol/MCap: 11.0%
+   🌐 Chain: solana | Dex: pumpswap
+   🔗 https://dexscreener.com/solana/4qbzhs2ecgmvyx77hrexrlvu4hyy4eesmwrdr8xsefqo
+
+📋 TRADING OUTLOOK
+✅ STRONG SIGNAL DETECTED: Token showing alpha potential
+Consider strategic position entry with tight risk management
+
+ℹ️ Next alpha scan in 5 minutes
+⚠️ DISCLAIMER: High-risk, speculative assets - NFA

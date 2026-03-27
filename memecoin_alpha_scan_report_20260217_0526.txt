@@ -1,0 +1,37 @@
+💰 MEMECOIN ALPHA SCANNER REPORT - SUB 30K-150K MCAP
+================================================================
+Scan Time: Tuesday, February 17, 2026 — 05:26 AM (Asia/Manila)
+Market Cap Focus: $30,000 - $150,000
+Sources: DexScreener API
+
+🔥 TOP ALPHA GEMS DISCOVERED:
+
+🎯 KNUCKLES - Alpha Score: 95/80
+   Market Cap: $151,000
+   24h Volume: $790,000
+   Vol/MCap Ratio: 523.2%
+   Price Change: +326%
+   Age: 1 hour
+
+🎯 NWO - Alpha Score: 90/80
+   Market Cap: $179,000
+   24h Volume: $645,000
+   Vol/MCap Ratio: 360.3%
+   Price Change: +405%
+   Age: 48 minutes
+
+🎯 HEY - Alpha Score: 80/80
+   Market Cap: $188,000
+   24h Volume: $287,000
+   Vol/MCap Ratio: 152.7%
+   Price Change: +443%
+   Age: 4 hours
+
+📊 MARKET OBSERVATIONS:
+• KNUCKLES showing massive volume explosion (523% of market cap)
+• NWO: strong early momentum with +405% gains in under 1 hour
+• HEY: consistent growth pattern over 4-hour period
+• Fresh token launches showing strongest alpha signals
+• Volume/Market Cap ratios exceptionally high indicating genuine interest
+
+⚠️ DISCLAIMER: NOT FINANCIAL ADVICE - HIGH VOLATILITY/RISK

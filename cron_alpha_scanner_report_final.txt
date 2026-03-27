@@ -1,0 +1,57 @@
+🎯 MEMECOIN ALPHA SCANNER - CRON REPORT
+==================================================
+Scan Time: Saturday, March 07, 2026 — 01:14 AM (Asia/Manila)
+Market Cap Range: $30,000 - $200,000
+Focus: Early alpha detection before mainstream attention
+
+Based on DexScreener API data, here are the current alpha opportunities:
+
+🔥 TOP ALPHA GEMS (Sorted by Alpha Score)
+------------------------------------------------------------
+
+🎯 #1 NotifAi (NotifAi News) - Alpha Score: 60/100
+   📈 24h Stats: $8,136 vol • $95,529 mcap • 8.5% ratio
+   📊 Sentiment: +0.9% price • 56.8% buy ratio
+   🔄 Activity: 206 txns (117 buys/89 sells)
+   💧 Liquidity: $35,574
+   🌐 Chain: bsc
+   🔗 https://dexscreener.com/bsc/0x30843f3f1a1a78ff962d0ecdd3764d26894a05e0
+
+🎯 #2 Satoshi (tSAT) - Alpha Score: 50/100
+   📈 24h Stats: $4,258 vol • $54,941 mcap • 7.7% ratio
+   📊 Sentiment: -3.1% price • 90.9% buy ratio (STRONG)
+   🔄 Activity: 121 txns (110 buys/11 sells)
+   💧 Liquidity: $152,347
+   🌐 Chain: solana
+   🔗 https://dexscreener.com/solana/hbyptnewrepfk2umavtfg8mfp9d8xye41ueo9wzo9ox4
+
+🎯 #3 SOLANA - Alpha Score: 35/100
+   📈 24h Stats: $557 vol • $85,048 mcap • 0.7% ratio
+   📊 Sentiment: -10.3% price • 54.6% buy ratio
+   🔄 Activity: 216 txns (118 buys/98 sells)
+   💧 Liquidity: $12,928
+   🌐 Chain: pulsechain
+   🔗 https://dexscreener.com/pulsechain/0x30fe90b1ad644970c48a6b5886ec39b1e3df97ee
+
+📊 MARKET ANALYSIS
+• Total qualifying tokens: 8
+• Average Market Cap: $91,072
+• Average Alpha Score: 29.0/100
+• Market Activity: Low-to-Moderate
+
+💡 KEY OBSERVATIONS:
+- NotifAi showing strongest fundamentals with good liquidity and solid buy pressure
+- Satoshi has exceptional buy pressure (90.9%) suggesting strong accumulation
+- Market appears relatively quiet overall - limited high-alpha activity
+- Volume levels generally modest across most tokens
+- Buy ratios mostly positive but volume/mcap ratios on the low side
+
+🚨 RISK ASSESSMENT:
+- Low volume presents higher liquidity risk
+- Early stage memecoins highly volatile
+- DYOR essential before any position
+
+⏰ NEXT CHECK: Recommend next scan in 4-6 hours
+
+⚠️ DISCLAIMER: High risk micro-cap space - DYOR required
+The strongest alpha signal appears to be Satoshi with exceptional buy pressure.

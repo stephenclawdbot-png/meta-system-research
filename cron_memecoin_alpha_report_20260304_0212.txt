@@ -1,0 +1,79 @@
+🎯 MEMECOIN ALPHA SCANNER CRON REPORT
+===================================================
+Scan Time: Wednesday, March 04, 2026 — 02:12 AM (Asia/Manila)
+Market Cap Target: $30,000 - $200,000
+Scanner: DexScreener API (multiple endpoints)
+
+🔥 EXECUTIVE SUMMARY:
+• Found 6 alpha gems across comprehensive scans
+• Market showing limited opportunity in target range
+• Best candidate: MEMECOIN (score 80.9/100) with strong volume efficiency
+• Notable but lower-confidence gems: NotifAi and trending tokens
+
+🏆 TOP ALPHA GEMS DISCOVERED:
+
+1. 🔥 MEMECOIN (MEMECOIN)
+   • Market Cap: $102,079
+   • 24h Volume: $106,476
+   • Vol/MCap Ratio: 104.3% (OUTSTANDING)
+   • Price Change: -28.6%
+   • Transactions: 1682/24h (58.5% buys)
+   • Alpha Score: 80.9/100
+   • DexScreener: https://dexscreener.com/solana/8fyvrgzr6xcas2t5exfccwzjv9us51ttgn5befq4cety
+   • Chain: Solana
+
+2. ⚡ NotifAi (NotifAi News)
+   • Market Cap: $108,083
+   • 24h Volume: $16,299
+   • Vol/MCap Ratio: 15.1%
+   • Price Change: +0.76%
+   • Transactions: 159/24h (53.5% buys)
+   • Alpha Score: 60/110
+   • DexScreener: https://dexscreener.com/bsc/0x30843f3F1A1A78Ff962D0ECdD3764D26894a05e0
+   • Chain: BSC
+
+3. TopBaseTrending (topbasetrending)
+   • Market Cap: $34,672
+   • 24h Volume: $1,245
+   • Vol/MCap Ratio: 3.6%
+   • Price Change: -14.6%
+   • Transactions: 168/24h (26.2% buys)
+   • Alpha Score: 25/110
+   • DexScreener: https://dexscreener.com/base/0x1883ffbc254f2f72857c38a7c00ffcfe0a7fa0223a4b8fd1e6fcc8216d3b7a67
+   • Chain: Base
+
+4. SOL Token (Various)
+   • Market Cap Range: $49K-$90K
+   • Low-moderate volume across multiple chains
+   • Mixed buy/sell ratios (42.9%-49.3%)
+   • Alpha Scores: 31.0-47.7/100
+   • Chains: Pulsechain, Rhea Finance, Helix
+
+📊 MARKET DYNAMICS:
+• Total Alpha Candidates: 6
+• Avg Market Cap: $74,602
+• Avg Volume: $26,145
+• Avg Vol/MCap Ratio: 25.1%
+• Avg Buy Ratio: 52.6%
+• Avg Alpha Score: 39.9/100
+
+💡 KEY INSIGHTS:
+• MEMECOIN shows exceptional volume relativity (104.3% of market cap)
+• Market appears relatively quiet in 30k-200k range
+• Best opportunities may require widening search parameters
+• NotifAi shows moderate potential with positive momentum
+• Volume-to-market-cap ratios generally healthy
+
+⚠️ RISK ASSESSMENT:
+• MEDIUM RISK: Limited alpha opportunity detected
+• Market showing mixed signals with some negative momentum
+• Small pool of eligible tokens suggests limited market activity
+
+🧠 ALPHA STRATEGY:
+• Consider MEMECOIN for volume efficiency play
+• Monitor NotifAi for continued momentum
+• Broaden search parameters for more opportunities
+• Exercise caution with tokens showing negative momentum
+
+END OF REPORT
+🔍 Scanned: DexScreener Multi-Endpoint Analysis
