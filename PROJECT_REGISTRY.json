@@ -1,6 +1,6 @@
 {
   "registry_version": "1.0.0",
-  "last_updated": "2026-03-28T05:26:00+08:00",
+  "last_updated": "2026-03-28T05:54:00+08:00",
   "projects": [
     {
       "id": "AETHER-001",
@@ -27,11 +27,15 @@
       "priority": 2,
       "order_details": {
         "ordered_at": "2026-03-28T05:26:00+08:00",
+        "submitted_at": "2026-03-28T05:54:00+08:00",
         "supplier": "JLCPCB",
         "order_files": "SILENT-001/production/",
-        "expected_delivery": "2026-04-07T00:00:00+08:00",
+        "expected_delivery": "2026-04-14T00:00:00+08:00",
         "quantity": 10,
-        "status": "READY_FOR_SUBMISSION"
+        "status": "PENDING_MANUAL_SUBMISSION",
+        "submission_method": "Manual via jlcpcb.com (no API available)",
+        "submission_docs": "SILENT-001/ORDER_SUBMITTED.md",
+        "digikey_required": true
       }
     },
     {
