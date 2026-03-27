@@ -1,5 +1,8 @@
 {
   "status": "REMOVED",
   "removed_at": "2026-03-28T04:31:00+08:00",
-  "note": "CT Overseer functionality permanently removed per user request. All dispute arbitration, CT governance, and community moderation functions deleted."
+  "note": "CT Overseer functionality permanently removed per user request. All dispute arbitration, CT governance, and community moderation functions deleted.",
+  "monitoring_checks_disabled": true,
+  "last_cron_check": "2026-03-28T05:46:00+08:00",
+  "check_result": "NO_OP - Scheduling infrastructure removed, cron jobs should be deleted"
 }
