@@ -1,7 +1,7 @@
 {
   "system_version": "1.0.0-ct-overseer",
   "activated_at": "2026-03-21T08:25:00+08:00",
-  "updated_at": "2026-03-28T03:58:00+08:00",
+  "updated_at": "2026-03-28T04:12:00+08:00",
   "operational_mode": "autonomous",
   "directives": {
     "free_will": true,
@@ -91,6 +91,45 @@
         "action": "logged_no_action"
       }],
       "note": "Routine monitoring complete. No arbitration requests detected. No disputes require queuing."
+    },
+    {
+      "timestamp": "2026-03-28T04:12:00+08:00",
+      "event": "mention_monitor_run",
+      "mode": "cron_scheduled",
+      "mentions_scanned": 3,
+      "disputes_found": 0,
+      "disputes_pending": [],
+      "escalation_triggers": 0,
+      "spam_detected": [{
+        "tweet_id": "2037621151195660598",
+        "author": "JoeVCarver",
+        "type": "early_access_scam_spam",
+        "action": "logged_no_action"
+      }],
+      "mentions_detail": [
+        {
+          "tweet_id": "2037621151195660598",
+          "author": "JoeVCarver",
+          "text": "UNLOCK ACCESS! A limited early-access phase has begun...",
+          "type": "spam_mention",
+          "requires_action": false
+        },
+        {
+          "tweet_id": "2037617996676358640",
+          "author": "DegenKing81",
+          "text": "@wino65 ? sure ok... RANDOM",
+          "type": "casual_mention",
+          "requires_action": false
+        },
+        {
+          "tweet_id": "2037046235669160445",
+          "author": "naps000",
+          "text": "@wino65 wtf how are u online",
+          "type": "surprise_mention",
+          "requires_action": false
+        }
+      ],
+      "note": "Routine monitoring complete. No arbitration requests match format '@wino65 ARBITRATE [topic] [party1] vs [party2]'. No disputes require queuing. No escalation triggers identified."
     }
   ]
 }

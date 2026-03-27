@@ -1,0 +1,9 @@
+{
+  "queue": [],
+  "lastCheck": "2026-03-27T20:26:00Z",
+  "status": "config_error",
+  "totalDisputesProcessed": 0,
+  "pendingDisputes": [],
+  "escalations": [],
+  "error": "Auth file wino65_hybrid_config.json not found"
+}

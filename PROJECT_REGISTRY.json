@@ -1,0 +1,51 @@
+{
+  "registry_version": "1.0.0",
+  "last_updated": "2026-03-28T04:32:00+08:00",
+  "projects": [
+    {
+      "id": "AETHER-001",
+      "name": "AETHER Volumetric Display",
+      "status": "active",
+      "phase": "Cycle 2",
+      "blocker": "Real-time tracking of 100K+ invisible passive particles",
+      "path": "/Users/clawdbot/.openclaw/workspace/aether-silent-research",
+      "next_step": "Hypothesize tracking solution for Cycle 3",
+      "priority": 1
+    },
+    {
+      "id": "SILENT-001",
+      "name": "SILENT Subvocalization Interface",
+      "status": "active",
+      "phase": "Cycle 0 Complete",
+      "blocker": "Hardware prototype build",
+      "path": "/Users/clawdbot/.openclaw/workspace/silent-001_research",
+      "bom_cost": 140,
+      "next_step": "Create firmware skeleton + hardware build plan",
+      "priority": 2
+    },
+    {
+      "id": "PRIMORDIAL-002",
+      "name": "PRIMORDIAL Digital Life v2.0",
+      "status": "shipped",
+      "version": "0.1.0",
+      "phase": "v3.0 Neural Integration Planning",
+      "path": "/Users/clawdbot/.openclaw/workspace/primordial",
+      "next_step": "Design v3.0 neural/genetic hybrid architecture",
+      "priority": 3
+    },
+    {
+      "id": "MYCOSENTINEL-001",
+      "name": "MycoSentinel Biosensor Network",
+      "status": "complete_v0.1.0",
+      "phase": "Prototype Ready",
+      "path": "/Users/clawdbot/.openclaw/workspace/mycosentinel",
+      "next_step": "Deploy 10-node test network",
+      "priority": 4
+    }
+  ],
+  "meta": {
+    "creation_heartbeat": "1c24f5e2-99bd-4c99-ad42-c073a271a739",
+    "total_active": 4,
+    "stalled": 0
+  }
+}
