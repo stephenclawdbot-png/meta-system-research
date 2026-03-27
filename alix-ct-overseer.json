@@ -1,9 +1,28 @@
 {
   "queue": [],
-  "lastCheck": "2026-03-27T20:26:00Z",
-  "status": "config_error",
+  "lastCheck": "2026-03-27T21:22:00Z",
+  "status": "monitored_no_access",
   "totalDisputesProcessed": 0,
   "pendingDisputes": [],
   "escalations": [],
-  "error": "Auth file wino65_hybrid_config.json not found"
+  "monitoringInterval": "cron",
+  "findings": {
+    "mentionsCheck": "UNABLE_TO_EXECUTE",
+    "reason": "No X API mention search capability available. Current x-api skill only supports user profile lookup, not tweet/mention search.",
+    "configStatus": "AUTH_FILE_FOUND - wino65_hybrid_config.json exists with valid OAuth2 credentials",
+    "disputesFound": 0,
+    "escalationTriggers": 0,
+    "threatsDetected": false,
+    "doxxingDetected": false,
+    "legalAccusations": false
+  },
+  "errors": [
+    "BlockRun X API (AttentionVC) only supports user profile lookup, not mention search",
+    "X API v2 search/mentions endpoint not implemented in available tools"
+  ],
+  "recommendations": [
+    "To enable mention monitoring, implement X API v2 GET /2/users/:id/mentions endpoint",
+    "Alternative: Browser automation to check @wino65 notifications directly",
+    "Consider: X Premium API Basic tier ($100/mo) for full search access"
+  ]
 }

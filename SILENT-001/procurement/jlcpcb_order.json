@@ -1,0 +1,62 @@
+{
+  "order_info": {
+    "project_name": "SILENT-001 Subvocalization Interface",
+    "project_id": "SILENT-001",
+    "revision": "1.0",
+    "created_at": "2026-03-28T05:28:16.470097",
+    "quantity": 10,
+    "customer_reference": "SILENT-001-20260328"
+  },
+  "pcb_specifications": {
+    "board_name": "SILENT-001",
+    "dimensions": "50mm x 35mm",
+    "layer_count": 4,
+    "thickness_mm": 1.6,
+    "surface_finish": "ENIG",
+    "copper_weight_oz": 1,
+    "solder_mask_color": "Green",
+    "silkscreen_color": "White",
+    "material": "FR-4 TG155-160",
+    "min_trace_mils": 6,
+    "min_via_mils": 12,
+    "impedance_control": false,
+    "via_covering": "Tented"
+  },
+  "assembly_specifications": {
+    "assembly_service": true,
+    "assembly_side": "Top",
+    "unique_component_count": 0,
+    "total_placement_count": 0,
+    "supply_parts": "JLCPCB SMT Parts Library (Basic + Extended)"
+  },
+  "files": {
+    "gerber_zip": "production/gerbers/SILENT-001_Gerbers.zip",
+    "bom_csv": "production/SILENT-001_BOM_JLCPCB.csv",
+    "cpl_csv": "production/SILENT-001_CPL_JLCPCB.csv"
+  },
+  "component_summary": {
+    "total_components": 0,
+    "jlcpcb_smt": 0,
+    "user_assembly": 0,
+    "digikey_required": 0
+  },
+  "cost_estimate": {
+    "pcb_fabrication_usd": 20.0,
+    "assembly_usd": 55.0,
+    "components_usd": 32.0,
+    "shipping_usd": 20.0,
+    "total_estimate_usd": 127.0
+  },
+  "digikey_supplement": {
+    "note": "Through-hole connectors and test points for user assembly",
+    "parts": []
+  },
+  "assembly_notes": [
+    "USB-C Connector (U13): Mid-mount SMD, verify orientation",
+    "Crystal (U15): Placed on bottom layer, verify placement",
+    "Headers (J1-J5): Through-hole, user assembly required",
+    "Test Points (TP1-TP2): SMD test points, user assembly required",
+    "Clean PCB with IPA before assembly",
+    "Recommended: Order 10-20% extra for testing/rework"
+  ]
+}

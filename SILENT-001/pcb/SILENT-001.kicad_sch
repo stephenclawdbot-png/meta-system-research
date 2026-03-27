@@ -1,0 +1,85 @@
+(kicad_sch (version 20240101) (generator "eeschema")
+
+  (uuid "a1b2c3d4-e5f6-7890-abcd-ef1234567890")
+
+  (paper "A4")
+
+  (title_block
+    (title "SILENT-001 Subvocalization Interface")
+    (date "2026-03-28")
+    (rev "1.0")
+    (company "OpenClaw Labs")
+    (comment 1 "Schematic - STM32L476 EMG Acquisition System")
+  )
+
+  (lib_symbols
+    (symbol "MCU_ST_STM32L4:STM32L476RGT6"
+      (pin "VBAT" power_in (at -25.4 12.7) (length 2.54))
+      (pin "VDD_1" power_in (at -25.4 10.16) (length 2.54))
+      (pin "VSS_1" power_in (at -25.4 7.62) (length 2.54))
+      (pin "NRST" input (at -25.4 5.08) (length 2.54))
+      (pin "OSC_IN" input (at -25.4 2.54) (length 2.54))
+      (pin "OSC_OUT" output (at -25.4 0) (length 2.54))
+      (pin "PA0" bidirectional (at 25.4 12.7) (length 2.54))
+      (pin "PA1" bidirectional (at 25.4 10.16) (length 2.54))
+      (pin "PA2" bidirectional (at 25.4 7.62) (length 2.54))
+      (pin "PA3" bidirectional (at 25.4 5.08) (length 2.54))
+      (pin "PA4" bidirectional (at 25.4 2.54) (length 2.54))
+      (pin "PA5" bidirectional (at 25.4 0) (length 2.54))
+      (pin "PA6" bidirectional (at 25.4 -2.54) (length 2.54))
+      (pin "PA7" bidirectional (at 25.4 -5.08) (length 2.54))
+    )
+    (symbol "Device:R"
+      (pin "1" passive (at 0 3.81) (length 1.27))
+      (pin "2" passive (at 0 -3.81) (length 1.27))
+    )
+    (symbol "Device:C"
+      (pin "1" passive (at 0 2.54) (length 1.27))
+      (pin "2" passive (at 0 -2.54) (length 1.27))
+    )
+    (symbol "Device:L"
+      (pin "1" passive (at 0 3.81) (length 1.27))
+      (pin "2" passive (at 0 -3.81) (length 1.27))
+    )
+    (symbol "Power_Protection:USBLC6-2SC6"
+      (pin "I/O1" bidirectional (at -5.08 2.54) (length 2.54))
+      (pin "GND" power_in (at 0 -5.08) (length 2.54))
+      (pin "I/O2" bidirectional (at 5.08 2.54) (length 2.54))
+      (pin "VBUS" power_in (at 0 5.08) (length 2.54))
+    )
+    (symbol "Analog:INA333"
+      (pin "IN+" input (at -10.16 2.54) (length 2.54))
+      (pin "IN-" input (at -10.16 -2.54) (length 2.54))
+      (pin "RG" passive (at -5.08 -7.62) (length 2.54))
+      (pin "V-" power_in (at 0 -10.16) (length 2.54))
+      (pin "REF" input (at 10.16 -5.08) (length 2.54))
+      (pin "V+" power_in (at 0 10.16) (length 2.54))
+      (pin "OUT" output (at 10.16 0) (length 2.54))
+    )
+    (symbol "Regulator_Linear:AMS1117-3.3"
+      (pin "GND" power_in (at 0 -5.08) (length 2.54))
+      (pin "VO" power_out (at 7.62 0) (length 2.54))
+      (pin "VI" power_in (at -7.62 0) (length 2.54))
+    )
+    (symbol "Connector:USB_C_Receptacle"
+      (pin "GND" power_in (at -10.16 0) (length 2.54))
+      (pin "VBUS" power_out (at -10.16 2.54) (length 2.54))
+      (pin "D+" bidirectional (at -10.16 5.08) (length 2.54))
+      (pin "D-" bidirectional (at -10.16 7.62) (length 2.54))
+      (pin "CC1" passive (at 10.16 5.08) (length 2.54))
+      (pin "CC2" passive (at 10.16 7.62) (length 2.54))
+    )
+    (symbol "Connector:Conn_01x04"
+      (pin "1" passive (at 0 5.08) (length 2.54))
+      (pin "2" passive (at 0 2.54) (length 2.54))
+      (pin "3" passive (at 0 -2.54) (length 2.54))
+      (pin "4" passive (at 0 -5.08) (length 2.54))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances)
+)

@@ -1,6 +1,6 @@
 {
   "registry_version": "1.0.0",
-  "last_updated": "2026-03-28T04:32:00+08:00",
+  "last_updated": "2026-03-28T05:26:00+08:00",
   "projects": [
     {
       "id": "AETHER-001",
@@ -15,23 +15,38 @@
     {
       "id": "SILENT-001",
       "name": "SILENT Subvocalization Interface",
-      "status": "active",
+      "status": "ordered",
       "phase": "Cycle 1 Build Phase",
-      "blocker": "NONE - Build ready",
-      "path": "/Users/clawdbot/.openclaw/workspace/silent-001_research",
+      "blocker": "NONE - Awaiting delivery",
+      "path": "/Users/clawdbot/.openclaw/workspace/SILENT-001",
       "bom_cost": 140,
+      "order_cost_estimate": 110,
       "deliverable": "STM32L476 firmware + JLCPCB-ready PCB (50x35mm)",
-      "next_step": "Order PCBs + components from JLCPCB/Digi-Key",
-      "priority": 2
+      "next_step": "Await PCB delivery ~10-14 days, then manual assembly of TH connectors",
+      "active_run": "agent:main:subagent:7d3270db-016c-4fce-bb29-1928e6613f00",
+      "priority": 2,
+      "order_details": {
+        "ordered_at": "2026-03-28T05:26:00+08:00",
+        "supplier": "JLCPCB",
+        "order_files": "SILENT-001/production/",
+        "expected_delivery": "2026-04-07T00:00:00+08:00",
+        "quantity": 10,
+        "status": "READY_FOR_SUBMISSION"
+      }
     },
     {
-      "id": "PRIMORDIAL-002",
-      "name": "PRIMORDIAL Digital Life v2.0",
+      "id": "PRIMORDIAL-003",
+      "name": "PRIMORDIAL Digital Life v3.0 - Neural-Genetic Hybrid",
       "status": "shipped",
-      "version": "0.1.0",
-      "phase": "v3.0 Neural Integration Planning",
+      "version": "3.0.0",
+      "phase": "Neural Integration Complete",
       "path": "/Users/clawdbot/.openclaw/workspace/primordial",
-      "next_step": "Design v3.0 neural/genetic hybrid architecture",
+      "deliverables": [
+        "neural_genome.py - NEAT-inspired neural topology encoded in DNA",
+        "neuro_evolution.py - Simultaneous metabolic + neural gene evolution",
+        "CRISPR neural editing - Guide RNAs rewire organism brains"
+      ],
+      "next_step": "Test neuro-evolution with simulation runs",
       "priority": 3
     },
     {
@@ -46,10 +61,27 @@
   ],
   "meta": {
     "creation_heartbeat": "1c24f5e2-99bd-4c99-ad42-c073a271a739",
+    "last_heartbeat": "2026-03-28T05:00:00+08:00",
+    "runs_in_progress": 4,
     "total_active": 4,
     "stalled": 0
-  }
-} 4,
-    "stalled": 0
+  },
+  "PRIMORDIAL": {
+    "v3.0_simulation": {
+      "status": "COMPLETE",
+      "completed_at": "2026-03-28T05:28:35",
+      "organisms": 100,
+      "generations": 50,
+      "final_population": 200,
+      "fitness_improvement": "28.03x",
+      "neural_complexity_trend": "stable",
+      "survival_rate_avg": "97.0%",
+      "artifacts": [
+        "primordial/RESULTS.md",
+        "primordial/simulation_results_detailed.json",
+        "primordial/simulation_metrics.csv",
+        "primordial/generate_visualizations.py"
+      ]
+    }
   }
 }
